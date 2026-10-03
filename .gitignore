@@ -1,0 +1,4 @@
+data/raw/
+data/sample.json
+dist/sample.html
+__pycache__/

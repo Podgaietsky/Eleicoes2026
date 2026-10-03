@@ -1,0 +1,90 @@
+<title>Candidatos SC 2026</title>
+<meta name="description" content="Dados oficiais do TSE sobre todos os candidatos de Santa Catarina nas eleições de 2026.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>/*__CSS__*/</style>
+
+<div id="sample-banner" class="sample-banner" hidden>Dados fictícios de teste — não representam candidatos reais</div>
+<header class="top">
+  <div class="top-in">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">SC</div>
+      <div class="brand-txt">
+        <h1>Candidatos SC 2026</h1>
+        <p id="brand-sub">Dados oficiais do TSE · Governador, Senado, Câmara e Assembleia</p>
+      </div>
+      <div class="top-actions">
+        <span class="countdown" id="countdown"></span>
+        <button class="icon-btn" id="theme-btn" type="button" aria-label="Alternar tema claro/escuro" title="Tema">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        </button>
+      </div>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Seções">
+      <button class="tab" role="tab" data-view="panorama" id="tab-panorama">Panorama</button>
+      <button class="tab" role="tab" data-view="explorar" id="tab-explorar">Explorar <span class="pill" id="pill-explorar"></span></button>
+      <button class="tab" role="tab" data-view="partidos" id="tab-partidos">Partidos</button>
+      <button class="tab" role="tab" data-view="comparar" id="tab-comparar">Comparar <span class="pill" id="pill-comparar"></span></button>
+      <button class="tab" role="tab" data-view="lista" id="tab-lista">Minha lista <span class="pill" id="pill-lista"></span></button>
+      <button class="tab" role="tab" data-view="propostas" id="tab-propostas" hidden>Propostas</button>
+      <button class="tab" role="tab" data-view="sobre" id="tab-sobre">Sobre os dados</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="view-panorama" class="view" hidden></section>
+  <section id="view-explorar" class="view" hidden>
+    <div class="explore">
+      <aside class="filters" id="filters" aria-label="Filtros">
+        <div class="filters-head"><b>Filtros</b><button class="btn sm" type="button" id="filters-close">Ver resultados</button></div>
+        <div id="filters-body"></div>
+      </aside>
+      <div style="min-width:0">
+        <div class="toolbar">
+          <button class="btn filter-btn" type="button" id="filters-open">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 5h18M6 12h12M10 19h4"/></svg>
+            Filtros <span id="fcount-btn"></span>
+          </button>
+          <label class="search">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+            <input id="q" type="search" placeholder="Buscar por nome, número, ocupação…" autocomplete="off" aria-label="Buscar candidato">
+          </label>
+          <select class="select" id="sort" aria-label="Ordenar">
+            <option value="cargoOrd:asc">Ordenar: cargo</option>
+            <option value="urna:asc">Nome (A–Z)</option>
+            <option value="patrimonio:desc">Maior patrimônio</option>
+            <option value="patrimonio:asc">Menor patrimônio</option>
+            <option value="idade:asc">Mais jovens</option>
+            <option value="idade:desc">Mais velhos</option>
+            <option value="partido:asc">Partido</option>
+            <option value="num:asc">Número</option>
+          </select>
+          <div class="seg" role="group" aria-label="Visualização">
+            <button type="button" id="v-table" aria-pressed="true" title="Tabela">Tabela</button>
+            <button type="button" id="v-cards" aria-pressed="false" title="Cards">Cards</button>
+          </div>
+          <button class="btn" type="button" id="copy-csv" title="Copia os resultados filtrados em CSV">Copiar CSV</button>
+        </div>
+        <div class="result-line" id="result-line"></div>
+        <div id="results"></div>
+      </div>
+    </div>
+  </section>
+  <section id="view-partidos" class="view" hidden></section>
+  <section id="view-comparar" class="view" hidden></section>
+  <section id="view-lista" class="view" hidden></section>
+  <section id="view-propostas" class="view" hidden></section>
+  <section id="view-sobre" class="view" hidden></section>
+
+  <footer class="foot" id="foot"></footer>
+</main>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="dr-name"></aside>
+<div class="tip" id="tip" role="tooltip"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>/*__DATA__*/</script>
+<script>/*__JS__*/</script>
