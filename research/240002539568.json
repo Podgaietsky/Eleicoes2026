@@ -1,0 +1,60 @@
+{
+  "id": "240002539568",
+  "urna": "Lucas Lucindo",
+  "cargo": "Deputado estadual",
+  "partido": "PODE",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Empresário de desenvolvimento de software de Laguna (32 anos), candidato estreante a deputado estadual pelo Podemos (nº 20005). A campanha, centrada no sul de SC, propõe retenção de jovens via ensino técnico e emprego em tecnologia, incentivos de ICMS condicionados a empregos formais, beneficiamento do pescado, articulação regional de municípios, transparência de gastos e castração permanente de animais. As propostas e as realizações citadas vêm do site do próprio candidato; não foi encontrada cobertura jornalística independente sobre ele.",
+  "perfil": "Lucas Lucindo Vieira, nascido em 28/03/1994 em Laguna (SC), solteiro, ensino superior completo, ocupação declarada empresário. Diz ter empresa de desenvolvimento de software com mais de 10 anos de atuação, atendendo clientes do exterior e empregando pessoas da região; filho de um pedreiro e de uma professora primária. Atribui a si três projetos: Propata (sistema informatizado de castração, adoção e denúncia de animais dentro da prefeitura), uma escola de programação gratuita (presencial em Laguna e remota) e o hub de inovação Laguna Living Lab — nenhum deles confirmado por fonte independente nesta pesquisa. Sem mandato ou cargo público anterior encontrado. Base eleitoral: Laguna e sul catarinense. Patrimônio declarado ao TSE de R$ 431.267. Campanha declarou R$ 88.000 arrecadados (R$ 50.000 do FEFC via Podemos, R$ 30.000 próprios, R$ 8.000 de pessoa física) e R$ 73.410 em gastos, concentrados em marketing digital e impulsionamento na Meta. Mantém o 'manifesto' 'Porque não dá nunca foi resposta', grupos de WhatsApp ('O Lagunão', notícias; 'A Guilda', tecnologia) e um jogo online de campanha ('Corre, Cidadão').",
+  "temas": {
+    "costumes": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "desenvolvimento": {"nota": 4, "evidencia": "Propõe consertar a infraestrutura de portos e trapiches da região e pensar estradas e grandes projetos em bloco com os municípios do sul.", "fontes": [0]},
+    "educacao": {"nota": 6, "evidencia": "Defende curso técnico alinhado ao que as empresas contratam, porta de entrada para o primeiro emprego e apoio a quem estuda e fica na região; afirma manter escola de programação gratuita.", "fontes": [0]},
+    "industria": {"nota": 6, "evidencia": "Quer incluir o sul nos incentivos estaduais de ICMS para atrair indústria, com a contrapartida de gerar emprego com carteira assinada; propõe fábricas de beneficiamento de pescado na região.", "fontes": [0]},
+    "economia": {"nota": 6, "evidencia": "Foca em geração de emprego, incentivo fiscal condicionado, crédito para quem monta estrutura de processamento de pescado e empreendedorismo ('não dá pra abrir um negócio' como crença a combater).", "fontes": [0]},
+    "tecnologia": {"nota": 8, "evidencia": "Bandeira 'Inovação' permanente: levar programas estaduais de tecnologia (hoje concentrados em Florianópolis, Joinville e Blumenau) para o sul, emprego remoto em tecnologia, política de inovação por lei estadual; cita Propata, escola de programação e Laguna Living Lab.", "fontes": [0]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "saude": {"nota": 2, "evidencia": "Menciona saúde apenas como área a ser planejada em bloco pelos municípios e emendas para equipamento de hospital.", "fontes": [0]},
+    "agro": {"nota": 3, "evidencia": "Pesca: propõe que o pescado saia processado da região, com crédito, incentivo e melhor preço para o pescador.", "fontes": [0]},
+    "ambiente": {"nota": 2, "evidencia": "Cita sustentabilidade e cidade inteligente como focos do Laguna Living Lab; sem propostas ambientais específicas.", "fontes": [0]},
+    "social": {"nota": 4, "evidencia": "Propõe verba fixa para castração e atendimento veterinário gratuito o ano inteiro e estrutura para protetores de animais; foco em retenção de jovens de famílias trabalhadoras.", "fontes": [0]},
+    "transparencia": {"nota": 7, "evidencia": "Defende que todo gasto 'nasça público e fácil de ler' (custo de obra e quem recebeu 'em dois cliques'), emendas com decisão pública e fiscalização do Executivo (requerimentos, convocação de secretários, Tribunal de Contas).", "fontes": [0]},
+    "municipalismo": {"nota": 8, "evidencia": "Toda a plataforma é voltada ao sul de SC e a Laguna: articular municípios pequenos em bloco para disputar orçamento, incluir a região em incentivos e programas estaduais.", "fontes": [0]}
+  },
+  "eixos": {
+    "economia": {"valor": 1, "evidencia": "Discurso pró-emprego e empreendedorismo, mas defende ação estatal direcionada (incentivos de ICMS, crédito, programas estaduais de tecnologia) com contrapartidas; posição moderada.", "fontes": [0]},
+    "costumes": {"valor": null, "evidencia": "Sem menção a pautas morais.", "fontes": []},
+    "estado": {"valor": 3, "evidencia": "Defende levar recursos e programas hoje concentrados nas regiões ricas e em Florianópolis para o sul e fortalecer municípios pequenos articulados em bloco.", "fontes": [0]},
+    "ambiente": {"valor": null, "evidencia": "Sem posicionamento ambiental suficiente para classificar.", "fontes": []},
+    "governo": {"valor": null, "evidencia": "Não foram encontradas declarações sobre o governo federal; o discurso critica genericamente 'os mesmos políticos' e a estagnação local.", "fontes": [0, 3]}
+  },
+  "criterios": {
+    "concretude": {"valor": 5, "evidencia": "Propostas setoriais claras e delimitadas às ferramentas do deputado (lei, emenda, fiscalização), com mecanismos indicados (ICMS condicionado a emprego formal, verba fixa para castração); faltam metas, prazos e estimativa de custos. As realizações citadas (Propata, escola, Living Lab) não foram confirmadas por fonte independente.", "fontes": [0]},
+    "responsabilidadeFiscal": {"valor": 5, "evidencia": "Condiciona incentivo fiscal a contrapartida de empregos, argumenta que castração preventiva custa menos que recolhimento posterior, defende transparência de gastos e fiscalização de contratos; não apresenta estimativa do custo das renúncias e novas verbas propostas.", "fontes": [0]}
+  },
+  "propostas": [
+    {"tema": "industria", "texto": "Incluir o sul de SC nos incentivos estaduais de ICMS para atração de indústrias, com regra de que quem recebe o desconto gere emprego com carteira assinada na região.", "fontes": [0]},
+    {"tema": "tecnologia", "texto": "Brigar para que programas e recursos estaduais de tecnologia, hoje concentrados em Florianópolis, Joinville e Blumenau, cheguem ao sul, gerando emprego remoto em tecnologia.", "fontes": [0]},
+    {"tema": "educacao", "texto": "Curso técnico alinhado ao que as empresas contratam, porta de entrada para o primeiro emprego e apoio a jovens que estudam e permanecem na região.", "fontes": [0]},
+    {"tema": "agro", "texto": "Crédito e incentivo para estruturas de beneficiamento do pescado na região e conserto da infraestrutura de portos e trapiches.", "fontes": [0]},
+    {"tema": "municipalismo", "texto": "Articular os municípios do sul em bloco para planejar estradas, saúde e grandes projetos e disputar o orçamento estadual.", "fontes": [0]},
+    {"tema": "transparencia", "texto": "Todo gasto público publicado de forma aberta e legível (custo das obras e quem recebeu), sem depender da vontade do gestor; emendas com decisão pública.", "fontes": [0]},
+    {"tema": "social", "texto": "Programa permanente de castração: verba fixa para mutirões e atendimento veterinário gratuito e estrutura para protetores independentes.", "fontes": [0]},
+    {"tema": "transparencia", "texto": "Exercer a fiscalização do Executivo com requerimentos de informação, convocação de secretários, comissões e provocação do Tribunal de Contas; compromisso de só prometer o que cabe nas atribuições do cargo.", "fontes": [0]}
+  ],
+  "historico": [
+    {"texto": "Sem mandato eletivo ou cargo público anterior encontrado; primeira candidatura identificada (2026, deputado estadual, Podemos nº 20005, registro deferido).", "fontes": [1, 2]},
+    {"texto": "Segundo o próprio candidato, criou o Propata (sistema informatizado para castração, adoção e denúncia na prefeitura), uma escola gratuita de programação e o hub Laguna Living Lab; não houve confirmação independente desses projetos nas buscas.", "fontes": [0]},
+    {"texto": "Patrimônio declarado ao TSE de R$ 431.267 (imóveis/terreno, fundo de investimento e saldo bancário).", "fontes": [2]},
+    {"texto": "Campanha declarou R$ 88.000 arrecadados (R$ 50.000 FEFC, R$ 30.000 recursos próprios, R$ 8.000 pessoa física) e R$ 73.410 em despesas, principalmente marketing político (R$ 30.000), estratégia digital (R$ 12.000) e impulsionamento na Meta (R$ 30.000).", "fontes": [1]}
+  ],
+  "pontosAtencao": [],
+  "fontes": [
+    {"titulo": "Lucas Lucindo | Candidato a Deputado Estadual por Santa Catarina", "url": "https://lucaslucindo.com.br", "veiculo": "Site oficial do candidato", "data": ""},
+    {"titulo": "Lucas Lucindo (PODE): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/lucas-lucindo", "veiculo": "Jornal Razão", "data": "2026-10-03"},
+    {"titulo": "Lucas Lucindo - perfil do candidato", "url": "https://jornalrazao.com/eleicoes-2026/candidato/lucas-lucindo", "veiculo": "Jornal Razão", "data": ""},
+    {"titulo": "Corre, Cidadão! (jogo de campanha)", "url": "https://lucaslucindo.com.br/corra-laguna/", "veiculo": "Site oficial do candidato", "data": ""}
+  ]
+}
