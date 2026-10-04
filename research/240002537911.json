@@ -1,0 +1,62 @@
+{
+  "id": "240002537911",
+  "urna": "Cesconetto",
+  "cargo": "Deputado estadual",
+  "partido": "REPUBLICANOS",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Eduardo Cesconetto de Souza é engenheiro eletricista e funcionário de carreira da Celesc há cerca de 28 anos, ex-diretor comercial eleito pelos empregados e ex-gerente na regional de Joinville, disputando sua primeira eleição pelo Republicanos com aval do governador Jorginho Mello (PL). Sua principal bandeira divulgada é a manutenção da Celesc como empresa pública, somada ao fortalecimento da matriz elétrica e a projetos de infraestrutura e logística.",
+  "perfil": "Natural de Florianópolis, 47 anos, engenheiro eletricista com ensino superior completo, descrito como servidor público estadual. Funcionário de carreira da Celesc (cerca de 28 anos), onde ocupou cargos de gerência em Joinville; foi eleito duas vezes diretor comercial pelos empregados (aparece no cargo em sessões da Alesc de julho de 2014 e novembro de 2015; reeleito em 2016 com 53,24% dos votos, segundo o ND+, que o identifica como 'de Joinville'). Mais recentemente foi gerente de Operação e Manutenção em Joinville e, em fevereiro de 2026, gerente regional interino da Celesc. Filiou-se ao Republicanos em 2026 após conversas com o governador Jorginho Mello; não foi encontrada filiação partidária anterior. Primeira candidatura; base eleitoral em Joinville e entre funcionários da Celesc, segundo colunistas. Declarou patrimônio de R$ 4.717.000,00 ao TSE. Na grafia de documentos antigos da Alesc e do ND+, o sobrenome aparece como 'Cesconeto'.",
+  "temas": {
+    "costumes": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "desenvolvimento": {"nota": 8, "evidencia": "Plano de trabalho centrado no fortalecimento da matriz elétrica como motor do desenvolvimento econômico e em projetos de infraestrutura e logística; trajetória no setor elétrico (Celesc).", "fontes": [0]},
+    "educacao": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "industria": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "economia": {"nota": 3, "evidencia": "Defende a Celesc pública, citando tarifa de energia baixa, 'preço justo' e 'gestão responsável'; colunista descreve discurso de gestão.", "fontes": [0, 4]},
+    "tecnologia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "saude": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "agro": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "ambiente": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "social": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "transparencia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "municipalismo": {"nota": 1, "evidencia": "Nenhuma proposta regional encontrada; colunistas apontam base eleitoral em Joinville.", "fontes": [3, 4]}
+  },
+  "eixos": {
+    "economia": {"valor": -2, "evidencia": "Defende a manutenção da Celesc como empresa pública, afirmando que sua missão 'vai além do lucro'; sem posições encontradas sobre outros temas econômicos.", "fontes": [0]},
+    "costumes": {"valor": null, "evidencia": "Sem menção encontrada", "fontes": []},
+    "estado": {"valor": null, "evidencia": "Sem menção encontrada", "fontes": []},
+    "ambiente": {"valor": null, "evidencia": "Sem menção encontrada", "fontes": []},
+    "governo": {"valor": 2, "evidencia": "Sem declaração direta sobre o governo federal; valor inferido da filiação ao Republicanos, do alinhamento com o governador Jorginho Mello (PL) e de doação recebida da campanha de Darci de Matos (Republicanos).", "fontes": [0, 1, 3, 6]}
+  },
+  "propostas": [
+    {"tema": "desenvolvimento", "texto": "Lutar pela manutenção da Celesc como empresa pública: 'Por ser pública, a Celesc tem uma missão que vai além do lucro: garantir energia elétrica com qualidade, segurança e preço justo para todos.'", "fontes": [0]},
+    {"tema": "desenvolvimento", "texto": "Fortalecer a matriz elétrica como propulsora do desenvolvimento econômico de Santa Catarina.", "fontes": [0]},
+    {"tema": "desenvolvimento", "texto": "Projetos relacionados a infraestrutura e logística (sem detalhamento encontrado).", "fontes": [0]}
+  ],
+  "historico": [
+    {"texto": "Julho de 2014: registrado como diretor comercial da Celesc em sessão especial da Alesc em homenagem aos 80 anos da Associação Catarinense de Engenheiros (10/07/2014).", "fontes": [10]},
+    {"texto": "Novembro de 2015: como diretor comercial, representou a administração central da Celesc na sessão especial da Alesc pelos 60 anos da empresa (25/11/2015).", "fontes": [11]},
+    {"texto": "Abril de 2016: reeleito diretor comercial da Celesc pelos empregados, com 53,24% dos votos.", "fontes": [12]},
+    {"texto": "Gerente de Operação e Manutenção da Celesc em Joinville (período não informado, anterior a abril de 2026) e gerente regional interino da Celesc em Joinville em fevereiro de 2026.", "fontes": [0, 1, 3]},
+    {"texto": "2026: filia-se ao Republicanos após conversas com o governador Jorginho Mello e é lançado pré-candidato a deputado estadual; candidatura deferida com o número 10220.", "fontes": [0, 1, 2, 9]},
+    {"texto": "Campanha 2026: receitas declaradas de R$ 304.100 até 13/09/2026, sendo R$ 100 mil do Republicanos e R$ 82 mil da campanha de Darci de Matos (deputado federal); recebeu R$ 100 mil do fundo eleitoral segundo levantamento sobre Joinville.", "fontes": [5, 6]}
+  ],
+  "pontosAtencao": [],
+  "fontes": [
+    {"titulo": "Ex-diretor da Celesc vai concorrer à Alesc pelo Republicanos com aval de Jorginho", "url": "https://upiara.com.br/noticias/funcionario-de-carreira-da-celesc-e-escolha-tecnica-no-republicanos-com-aval-de-jorginho-mello/", "veiculo": "Portal Upiara", "data": "2026-04-17"},
+    {"titulo": "Os coronéis de Joinville", "url": "https://scempauta.com.br/2026/02/23/os-coroneis-de-joinville/", "veiculo": "Santa Catarina em Pauta", "data": "2026-02-23"},
+    {"titulo": "Partidos definidos em Joinville", "url": "https://www.santacatarinaempauta.com.br/2026/04/27/partidos-definidos-em-joinville/", "veiculo": "Santa Catarina em Pauta", "data": "2026-04-27"},
+    {"titulo": "Com menos candidatos, Joinville tenta recuperar protagonismo político; saiba quem é quem na disputa eleitoral de 2026", "url": "https://upiara.com.br/marcoaureliobraga/joinville-menor-numero-candidatos-eleicoes-2026/", "veiculo": "Portal Upiara", "data": "2026-08-03"},
+    {"titulo": "Marco Aurélio Braga aponta quem são os favoritos de Joinville para a eleição de domingo", "url": "https://upiara.com.br/noticias/marco-aurelio-braga-aponta-quem-sao-os-favoritos-de-joinville-para-a-eleicao-de-domingo/", "veiculo": "Portal Upiara", "data": "2026-09-30"},
+    {"titulo": "Quanto dinheiro do Fundão chegou às campanhas de Joinville? Veja quem ganhou mais dinheiro", "url": "https://upiara.com.br/colunistas/marcoaureliobraga/fundo-eleitoral-candidatos-joinville-2026/", "veiculo": "Portal Upiara", "data": "2026-09-07"},
+    {"titulo": "Cesconetto (REPUBLICANOS): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/cesconetto", "veiculo": "Jornal Razão", "data": "2026-10-03"},
+    {"titulo": "Conheça os candidatos a deputado estadual por Joinville em 2026", "url": "https://chuville.com/noticia/conheca-os-candidatos-a-deputado-estadual-por-joinville-em-2026", "veiculo": "Portal Chuville Notícias", "data": "2026-08-24"},
+    {"titulo": "Joinville tem 23 candidatos a deputado estadual nas eleições de 2026; veja quem são", "url": "https://www.pontonortejoinville.com.br/noticia/41342/joinville-tem-21-candidatos-a-deputado-estadual-nas-eleicoes-de-2026-veja-quem-sao", "veiculo": "Ponto Norte Joinville", "data": ""},
+    {"titulo": "CESCONETTO | Candidato às Eleições 2026", "url": "https://www.portalr3.com.br/eleicoes-2026/candidatos/cesconetto", "veiculo": "Portal R3", "data": ""},
+    {"titulo": "Ata da 020ª Sessão Especial - homenagem à Associação Catarinense de Engenheiros (80 anos)", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/db75c7a6-b737-4cad-8ad0-c3adf9834e46", "veiculo": "Alesc", "data": "2014-07-10"},
+    {"titulo": "Ata da 049ª Sessão Especial - 60 anos da Celesc", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/2deefd82-3bc1-48b0-a0c6-dc3c43e27445", "veiculo": "Alesc", "data": "2015-11-25"},
+    {"titulo": "Vereador de Joinville pode ter direitos políticos cassados pela primeira vez na história", "url": "https://ndmais.com.br/noticias/vereador-de-joinville-pode-ter-direitos-politicos-cassados-pela-primeira-vez-na-historia/", "veiculo": "ND+", "data": "2016-04-14"}
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "240002539569",
+  "urna": "Jean Antigranizo",
+  "cargo": "Deputado estadual",
+  "partido": "PODE",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Jean Carlo Ribeiro é engenheiro agrônomo, ex-vereador de Caçador (PSD, eleito em 2020) e ex-secretário municipal, candidato a deputado estadual pelo Podemos. Sua principal bandeira é a manutenção e ampliação do sistema antigranizo (geradores de iodeto de prata) que protege pomares e lavouras no Meio-Oeste/Alto Vale do Rio do Peixe, com menções também à saúde regional (UTI neonatal, cardiologia no Hospital Maicé).",
+  "perfil": "Nascido em 05/10/1971 em Lebon Régis (SC) e criado em Caçador. Engenheiro agrônomo (Uniarp, 2010), com pós-graduação em piscicultura/aquicultura e segurança do trabalho. Trabalhou na Caixa Econômica Federal, na Rádio Caçanjurê e na prefeitura de Caçador (secretário de imprensa e secretário adjunto de Desenvolvimento Econômico Sustentável); liderança comunitária em conselhos de bairro desde 2010. Eleito vereador de Caçador pelo PSD em 2020 com 1.105 votos (2º mais votado). Em 2024 atuou como secretário de Planejamento e Gestão de Caçador e foi candidato a vice-prefeito na chapa de Márcio JF (MDB), coligação MDB/PSD/Podemos/PDT, que não venceu. Depois trabalhou no gabinete da deputada estadual Paulinha (Podemos) e trocou o PSD pelo Podemos em 2026. Base eleitoral: Caçador e região da AMARP (Alto Vale do Rio do Peixe). Descrito pela imprensa local como de centro-direita. Primeira candidatura a cargo estadual; patrimônio declarado de R$ 818.618.",
+  "temas": {
+    "costumes": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "desenvolvimento": {"nota": 2, "evidencia": "Em 2020 defendeu melhorias de estradas para agricultores.", "fontes": [2]},
+    "educacao": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "industria": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "economia": {"nota": 2, "evidencia": "Em 2020 propôs simplificar a legislação municipal para estimular a geração de empregos.", "fontes": [2]},
+    "tecnologia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "saude": {"nota": 5, "evidencia": "Cita atuação pela cardiologia do Hospital Maicé e foco na implantação de UTI neonatal; em 2020 propôs reforçar a atenção básica.", "fontes": [1, 2]},
+    "agro": {"nota": 10, "evidencia": "O sistema antigranizo para proteger pomares e lavouras é a bandeira principal e dá nome à candidatura.", "fontes": [0, 1, 3, 6]},
+    "ambiente": {"nota": 3, "evidencia": "Trata o granizo como evento climático e defende o sistema também para proteger as cidades, além de ampliar a cobertura para os meses de inverno.", "fontes": [3, 5]},
+    "social": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "transparencia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "municipalismo": {"nota": 6, "evidencia": "Atuação centrada em Caçador e nos municípios da AMARP/AMMOC; articula repasses estaduais às prefeituras.", "fontes": [1, 3, 8]}
+  },
+  "eixos": {
+    "economia": {"valor": null, "evidencia": "Sem posicionamento econômico geral encontrado; defende programa custeado com recursos estaduais e simplificação de normas municipais.", "fontes": [2, 3]},
+    "costumes": {"valor": null, "evidencia": "Sem menção encontrada", "fontes": []},
+    "estado": {"valor": null, "evidencia": "Sem evidência suficiente", "fontes": []},
+    "ambiente": {"valor": 2, "evidencia": "O foco ambiental/climático é proteger a produção agrícola contra o granizo.", "fontes": [1, 3]},
+    "governo": {"valor": null, "evidencia": "Sem posicionamento encontrado sobre o governo federal.", "fontes": []}
+  },
+  "propostas": [
+    {"tema": "agro", "texto": "Ampliar o programa antigranizo para além do Alto Vale do Rio do Peixe, protegendo pomares em outras regiões do estado.", "fontes": [1, 6]},
+    {"tema": "agro", "texto": "Transformar o sistema antigranizo em programa estadual permanente, com recursos anuais garantidos para a manutenção dos geradores.", "fontes": [5]},
+    {"tema": "ambiente", "texto": "Ampliar a operação do sistema antigranizo também para os meses de inverno.", "fontes": [3]},
+    {"tema": "saude", "texto": "Trabalhar pela implantação de UTI neonatal na região de Caçador.", "fontes": [1]},
+    {"tema": "saude", "texto": "Reduzir a burocracia na saúde e reforçar a atenção básica com mais médicos e horários flexíveis (proposta de 2020, como candidato a vereador).", "fontes": [2]},
+    {"tema": "economia", "texto": "Simplificar a legislação municipal para estimular a geração de empregos (proposta de 2020).", "fontes": [2]}
+  ],
+  "historico": [
+    {"texto": "Eleito vereador de Caçador pelo PSD em 2020 com 1.105 votos, o segundo mais votado.", "fontes": [2]},
+    {"texto": "Fev/2022: como vereador, foi recebido pelo plenário do Confea em Brasília.", "fontes": [4]},
+    {"texto": "Mar/2022: reuniu-se com o governador Carlos Moisés para pedir a estadualização do sistema antigranizo e a continuidade do pagamento da manutenção dos geradores.", "fontes": [5]},
+    {"texto": "Destinou emenda como vereador para instalar geradores antigranizo na região de Serra Azul, em Caçador; em fev/2024 era secretário de Planejamento e Gestão de Caçador.", "fontes": [11]},
+    {"texto": "2024: candidato a vice-prefeito de Caçador (PSD) na chapa de Márcio JF (MDB), coligação MDB/PSD/Podemos/PDT; a chapa não venceu (Alencar Mendes foi eleito).", "fontes": [9, 8]},
+    {"texto": "Jun/2025: como ex-vereador, anunciou R$ 2,1 milhões aprovados para 11 municípios da AMARP e R$ 3,8 milhões do governo estadual para levar o sistema antigranizo a municípios da AMMOC.", "fontes": [3]},
+    {"texto": "Jan/2026: coordenou visita de comitiva de 22 municípios gaúchos ao sistema antigranizo em Fraiburgo e Caçador.", "fontes": [8]},
+    {"texto": "Trabalhou no gabinete da deputada estadual Paulinha (Podemos) até deixar o cargo para disputar a eleição de 2026.", "fontes": [1]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Trocou o PSD pelo Podemos em 2026, dentro do prazo legal, para disputar a vaga de deputado estadual.", "fontes": [1]}
+  ],
+  "fontes": [
+    {"titulo": "Antigranizo, imposto e Cadúnico: candidatos de SC usam nomes de urna curiosos para divulgar propostas", "url": "https://www.nsctotal.com.br/politica/antigranizo-imposto-e-cadunico-candidatos-de-sc-usam-nomes-de-urna-curiosos-para-divulgar-propostas", "veiculo": "NSC Total", "data": ""},
+    {"titulo": "Eleições: Jean Carlo Ribeiro confirma pré-candidatura a deputado estadual", "url": "https://www.cacador.net/noticias/politica/2026/04/24/eleicoes-jean-carlo-ribeiro-confirma-pre-candidatura-a-deputado-estadual-65402", "veiculo": "Portal Caçador Online", "data": "2026-04-24"},
+    {"titulo": "Especial Eleições: Jean Carlo Ribeiro quer focar na Saúde e Agricultura", "url": "https://www.cacador.net/noticias/politica/2020/11/25/especial-eleicoes-jean-carlo-ribeiro-quer-focar-na-saude-e-agricultura-49990", "veiculo": "Portal Caçador Online", "data": "2020-11-25"},
+    {"titulo": "Sistema antigranizo deverá ser ampliado na região", "url": "https://portalrbv.com.br/noticias/politica/sistema-antigranizo-devera-ser-ampliado-na-regiao/", "veiculo": "Portal RBV", "data": "2025-06-09"},
+    {"titulo": "Vereador de Caçador, Jean Carlo, é recebido pelo plenário do Confea", "url": "https://portal.crea-sc.org.br/vereador-de-cacador-jean-carlo-e-recebido-pelo-plenario-do-confea/", "veiculo": "CREA-SC", "data": "2022-02-24"},
+    {"titulo": "Pauta: Jean Carlo discute sistema antigranizo com governador Moisés", "url": "https://www.cacador.net/noticias/geral/2022/03/20/pauta-jean-carlo-discute-sistema-antigranizo-com-governador-moises-54384", "veiculo": "Portal Caçador Online", "data": "2022-03-20"},
+    {"titulo": "Caçador deverá ter cinco candidatos a deputado estadual", "url": "https://portalrbv.com.br/noticias/politica/cacador-devera-ter-cinco-candidatos-a-deputado-estadual-aa/", "veiculo": "Portal RBV", "data": "2026-04-28"},
+    {"titulo": "Jean Antigranizo 20789 (PODE): candidato a Deputado Estadual por SC", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/sc/deputado-estadual/jean-antigranizo-pode-20789/", "veiculo": "Gazeta do Povo", "data": "2026-10-02"},
+    {"titulo": "Comitiva do RS visita Caçador para conhecer sistema antigranizo", "url": "https://portalrbv.com.br/noticias/agricultura/rbv-agro/comitiva-do-rs-visita-cacador-para-conhecer-sistema-antigranizo-aa/", "veiculo": "Portal RBV", "data": "2026-01-23"},
+    {"titulo": "Eleições 2024: Caçador tem três candidatos a prefeito", "url": "https://www.cacador.net/noticias/politica/2024/08/02/eleicoes-2024-cacador-tem-tres-candidatos-a-prefeito-61387", "veiculo": "Portal Caçador Online", "data": "2024-08-02"},
+    {"titulo": "Jean Antigranizo (PODE): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/jean-antigranizo", "veiculo": "Jornal Razão", "data": "2026-09-13"},
+    {"titulo": "Caçador: Prefeitura amplia cobertura do sistema antigranizo no interior", "url": "https://www.cacador.net/noticias/geral/2024/02/14/cacador-prefeitura-amplia-cobertura-do-sistema-antigranizo-no-interior-60236", "veiculo": "Portal Caçador Online", "data": "2024-02-14"}
+  ]
+}
