@@ -44,7 +44,10 @@ def main():
     fotos = {c["id"]: c.pop("foto") for c in data["candidatos"] if c.get("foto")}
     data_js = f"window.DATA={safe(data)};"
     if research:
-        data_js += f"window.RESEARCH={safe({'rubrica': rubric, 'candidatos': research})};"
+        triagem = []
+        for tp in sorted((research_dir / "triagem").glob("g*.json")):
+            triagem += json.loads(tp.read_text()).get("candidatos", [])
+        data_js += f"window.RESEARCH={safe({'rubrica': rubric, 'candidatos': research, 'triagem': triagem})};"
     if research and research_js.exists():
         js = research_js.read_text() + "\n" + js
 

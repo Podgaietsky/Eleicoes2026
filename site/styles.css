@@ -482,3 +482,6 @@ table.hm { border-collapse: separate; border-spacing: 2px; font-size: 12.5px; mi
 .rd-src span { color: var(--ink-3); }
 .aff-presets { display: flex; gap: 8px; flex-wrap: wrap; }
 .seg button.avoid[aria-pressed="true"] { background: var(--crit); color: #fff; }
+table.tri td { vertical-align: top; font-size: 12.5px; }
+table.tri tbody tr { cursor: default; }
+#rs-tri > summary { cursor: pointer; }

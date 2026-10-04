@@ -205,6 +205,15 @@ window.renderResearchView = function (root, ctx) {
       </div>
       <div class="card panel"><h3>Calculadora de afinidade</h3><p class="hint">Você define o que importa; o painel só faz a conta.</p>${calc}</div>
     </div>
+    ${(RESEARCH.triagem || []).length ? `<details class="card panel" style="margin-top:16px" id="rs-tri"><summary><h3 style="display:inline">Triagem por critérios: desenvolvimento com responsabilidade</h3></summary>
+      <p class="hint" style="margin-top:8px">Os candidatos a deputado de todos os partidos foram varridos em fontes públicas à procura de foco em desenvolvimento, indústria, inovação/IA e gestão, com responsabilidade fiscal e pouca ênfase em pautas morais, conforme os critérios que você descreveu. A nota de aderência (0 a 10) é uma primeira leitura, com poucas fontes; os mais bem avaliados receberam pesquisa detalhada, acima. Candidatos sem informação pública não aparecem aqui.</p>
+      ${["Deputado federal", "Deputado estadual"].map(cg => { const L = RESEARCH.triagem.filter(t => t.cargo === cg).sort((a, b) => b.aderencia - a.aderencia);
+        return `<h4 style="margin:14px 0 6px">${cg} (${L.length})</h4><div class="table-wrap"><table class="list tri"><thead><tr><th>Candidato</th><th class="r">Aderência</th><th>Leitura da triagem</th><th class="hide-sm">Fontes</th></tr></thead><tbody>${L.map(t => { const c = BY_ID.get(t.id);
+          return `<tr><td><button type="button" class="hm-who" ${RESEARCH.candidatos[t.id] ? `data-focus="${esc(t.id)}"` : `data-open="${esc(t.id)}"`}>${c ? avatar(c) : ""}<span><b>${esc(t.urna)}</b><small>${esc(t.partido)} · ${esc(c?.num || "")}${RESEARCH.candidatos[t.id] ? " · pesquisa detalhada" : ""}</small></span></button></td>
+            <td class="r"><b class="mono">${esc(String(t.aderencia).replace(".", ","))}</b></td>
+            <td style="max-width:520px">${esc(t.motivo || "")}${(t.sinaisNegativos || []).length ? `<br><small style="color:var(--ink-3)">Contra: ${esc(t.sinaisNegativos.join("; "))}</small>` : ""}</td>
+            <td class="hide-sm">${(t.fontes || []).map((f, i) => `<a class="src" href="${esc(f.url)}" target="_blank" rel="noopener" title="${esc(f.titulo || f.url)}">${i + 1}</a>`).join("")}</td></tr>`; }).join("")}</tbody></table></div>`; }).join("")}
+    </details>` : ""}
     <div class="card panel rd" id="rs-detail" style="margin-top:16px">
       <div class="rd-pick" role="tablist" aria-label="Candidato">${list.map(({ r, c }) => `<button type="button" class="chip" data-focus="${esc(r.id)}" aria-pressed="${r.id === fx?.r.id}">${esc(c.urna)}</button>`).join("")}</div>
       ${fx ? detail(fx) : ""}
