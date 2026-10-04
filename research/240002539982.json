@@ -1,0 +1,73 @@
+{
+  "id": "240002539982",
+  "urna": "Mário Hildebrandt",
+  "cargo": "Deputado estadual",
+  "partido": "PL",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Ex-prefeito de Blumenau por dois mandatos e ex-secretário de Estado da Proteção e Defesa Civil (jan/2025–abr/2026), candidato a deputado estadual pelo PL com o número 22199. Sua campanha se apoia em realizações administrativas autodeclaradas (pontes, escolas bilíngues, superávit) e no lema 'Fé, trabalho e cuidado', sem um programa detalhado para o mandato legislativo. A gestão dele em Blumenau é citada em operações do GAECO, que miram ex-secretários (ele não é alvo), e num relatório paralelo da CPI do Esgoto.",
+  "perfil": "Natural de Mirim Doce (SC), formado em Administração e Serviço Social pela FURB, com pós em contabilidade pela FGV (segundo biografia vista em resultado de busca do jornal O Município Blumenau; o site da campanha o apresenta como 'assistente social de formação' e o TSE registra a ocupação 'Administrador'). Foi secretário municipal de Assistência Social de Blumenau (2005–2012), vereador (2009–2016, presidente da Câmara em 2015/2016), vice-prefeito a partir de 2017 e prefeito desde abril de 2018, após a renúncia de Napoleão Bernardes; reeleito em 2020. Passou por PSB e Podemos e se filiou ao PL em 15/02/2024, numa cerimônia com o governador Jorginho Mello, citando valores de família, liberdade e respeito a Deus, que segundo ele também são defendidos por Bolsonaro. Assumiu a Secretaria de Estado da Proteção e Defesa Civil em 31/01/2025 e saiu em abril de 2026 para disputar a eleição. Sua base eleitoral é Blumenau e o Médio/Alto Vale do Itajaí. A análise local o apontava como provável candidato mais votado em Blumenau. A campanha declarou R$ 460,8 mil de receita (76% do FEFC).",
+  "temas": {
+    "costumes": {"nota": 4, "evidencia": "Lema de campanha 'Fé, trabalho e cuidado'. Ao se filiar ao PL, disse que a escolha foi natural pelas pautas de família, liberdade e respeito a Deus e se declarou cristão. Em 2026, segundo o ICL Notícias, apareceu em vídeo com uma camiseta de Bolsonaro e a frase 'Deus, Pátria, Família e Liberdade'. Não há propostas específicas de costumes.", "fontes": [0, 8, 12]},
+    "desenvolvimento": {"nota": 7, "evidencia": "Como prefeito, diz ter entregue 14 pontes, entre elas a duplicação da Ponte Adolfo Konder. Na Defesa Civil estadual acompanhou obras nas barragens de Taió, Ituporanga e José Boiteux, a dragagem do Itajaí-Açu e a instalação de kits de pontes.", "fontes": [0, 5, 13]},
+    "educacao": {"nota": 5, "evidencia": "O site cita 20 escolas bilíngues, novas salas, quadras cobertas, acessibilidade e 14º salário para os profissionais da educação em Blumenau. Os números são autodeclarados.", "fontes": [0]},
+    "industria": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "economia": {"nota": 3, "evidencia": "O site afirma que deixou a prefeitura com superávit acima de R$ 300 milhões. Não foi encontrada verificação independente desse número nem propostas sobre impostos ou burocracia.", "fontes": [0]},
+    "tecnologia": {"nota": 1, "evidencia": "Menção apenas indireta: drones e equipamentos entregues a municípios pela Defesa Civil e o programa 'Alô Saúde' em Blumenau. Não há agenda de inovação ou de IA.", "fontes": [0]},
+    "nacionalismo": {"nota": 1, "evidencia": "Apenas a frase 'Deus, Pátria, Família e Liberdade' na camiseta de Bolsonaro mostrada em vídeo, segundo o ICL. Não há propostas.", "fontes": [12]},
+    "seguranca": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "saude": {"nota": 5, "evidencia": "O site cita R$ 4 milhões investidos em 25 unidades de Estratégia de Saúde da Família e a criação do programa 'Alô Saúde' em Blumenau.", "fontes": [0]},
+    "agro": {"nota": 2, "evidencia": "Indireto: cerca de 150 caminhões-pipa distribuídos a municípios, ligados ao enfrentamento de estiagens, durante a gestão na Defesa Civil.", "fontes": [0]},
+    "ambiente": {"nota": 8, "evidencia": "É o eixo central da experiência estadual: prevenção e resposta a desastres, reforma de barragens, limpeza e desassoreamento de rios (mais de R$ 1,1 milhão em Rodeio, por exemplo) e equipamentos para 295 municípios. Em Blumenau, cita 20 mil animais castrados e microchipados. O tema do saneamento aparece pelo contrato de esgoto investigado na CPI.", "fontes": [0, 3, 13, 9]},
+    "social": {"nota": 5, "evidencia": "Trajetória ligada à assistência social: secretário municipal da área, presidente da Pró-Família e do Coegemas. No site, a palavra 'cuidado' é um dos três valores da campanha e há menção a acessibilidade em escolas.", "fontes": [0, 15]},
+    "transparencia": {"nota": 2, "evidencia": "Como secretário, disse que a pasta acompanhava de perto as licitações para garantir que os recursos fossem aplicados 'com responsabilidade'. Não há propostas anticorrupção. Sua gestão municipal é alvo indireto de investigações do GAECO.", "fontes": [13, 1]},
+    "municipalismo": {"nota": 7, "evidencia": "Base em Blumenau e no Vale do Itajaí. Como secretário, visitou mais de 90 municípios e destinou equipamentos a 295 deles, com foco no Alto Vale e no Vale do Itajaí.", "fontes": [0, 5]}
+  },
+  "eixos": {
+    "economia": {"valor": 1, "evidencia": "Evidência limitada: o único sinal é a ênfase em superávit e gestão fiscal, que é autodeclarada. Não há posições explícitas sobre o papel do Estado na economia.", "fontes": [0]},
+    "costumes": {"valor": 3, "evidencia": "Diz-se cristão, defende valores de família e de 'respeito a Deus' ao aderir ao PL e usa o lema 'Fé, trabalho e cuidado'. Não lidera pautas morais específicas.", "fontes": [0, 8]},
+    "estado": {"valor": null, "evidencia": "Não foram encontradas posições sobre centralização ou descentralização.", "fontes": []},
+    "ambiente": {"valor": null, "evidencia": "A atuação é de defesa civil e mitigação de desastres. Não há posição encontrada no eixo preservação versus produção.", "fontes": []},
+    "governo": {"valor": 4, "evidencia": "Filiado ao PL e aliado do governador Jorginho Mello. Cita Bolsonaro como referência de valores e, segundo o ICL, promoveu o evento 'Acorda Brasil' vestindo uma camiseta de Bolsonaro.", "fontes": [8, 12, 5]}
+  },
+  "criterios": {
+    "concretude": {"valor": 4, "evidencia": "Apresenta realizações passadas com números (pontes, escolas, unidades de saúde, equipamentos), mas quase todos autodeclarados. O site não traz nenhuma proposta específica para o mandato na ALESC, apenas os valores 'Fé, trabalho e cuidado'.", "fontes": [0]},
+    "responsabilidadeFiscal": {"valor": 4, "evidencia": "Afirma ter deixado superávit acima de R$ 300 milhões em Blumenau, sem verificação independente encontrada. Não há compromissos fiscais para o mandato. Pesa contra o fato de o 5º aditivo do contrato de esgoto, negociado na gestão dele, ter sido revogado depois de a CPI apontar vantagem indevida para a concessionária.", "fontes": [0, 14, 10]}
+  },
+  "propostas": [
+    {"tema": "costumes", "texto": "Levar à Assembleia Legislativa os valores 'Fé, trabalho e cuidado' (não há detalhamento programático no site).", "fontes": [0]},
+    {"tema": "ambiente", "texto": "Usar a experiência na Defesa Civil estadual (prevenção de cheias, barragens, desassoreamento de rios) como credencial; o site não detalha propostas legislativas sobre o tema.", "fontes": [0, 13]},
+    {"tema": "municipalismo", "texto": "Apresenta-se como representante de Blumenau e da região, destacando o apoio da Defesa Civil a 295 municípios; não há proposta legislativa específica.", "fontes": [0, 6]}
+  ],
+  "historico": [
+    {"texto": "Prefeito de Blumenau de abril de 2018 a 2024 (assumiu após a renúncia de Napoleão Bernardes e foi reeleito em 2020). Antes foi vereador (2009–2016), presidente da Câmara e secretário de Assistência Social.", "fontes": [15, 3]},
+    {"texto": "Realizações autodeclaradas em Blumenau: 14 pontes, 20 escolas bilíngues, R$ 4 milhões em 25 unidades de Saúde da Família, 21 praças e parques, 20 mil animais castrados, superávit acima de R$ 300 milhões e 70% de aprovação ao deixar o cargo.", "fontes": [0]},
+    {"texto": "Secretário de Estado da Proteção e Defesa Civil de 31/01/2025 a abril de 2026, com foco declarado em prevenção e resposta a desastres. Destinou recursos para desassoreamentos em Rodeio, Doutor Pedrinho e Indaial e para kits de pontes em Indaial (jan/2026).", "fontes": [3, 13, 6]},
+    {"texto": "Filiou-se ao PL em 15/02/2024, vindo do Podemos, numa cerimônia com o governador Jorginho Mello.", "fontes": [8]},
+    {"texto": "Depôs à CPI do Esgoto da Câmara de Blumenau em 09/12/2025. Defendeu que a assinatura do 5º aditivo com a BRK estava condicionada a parecer técnico do SAMAE e a uma auditoria que ele próprio contratou.", "fontes": [9, 11]},
+    {"texto": "Campanha 2026: R$ 460.778 de receita (R$ 350 mil do FEFC) e R$ 413.320 de despesas declaradas, sobretudo material impresso e impulsionamento.", "fontes": [7]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Em maio de 2026, três operações do GAECO/MPSC investigaram contratos de secretarias da prefeitura de Blumenau durante a gestão de Hildebrandt e cumpriram mandados contra cinco ex-secretários dele. Hildebrandt não é alvo das investigações. Uma delas, a Operação Ponto Final (07/05/2026), apura suspeita de cartel de empreiteiras, direcionamento de licitações e pagamento de vantagens indevidas a agentes públicos.", "fontes": [1, 2]},
+    {"texto": "O relatório paralelo do presidente da CPI do Esgoto, vereador Diego Nasato, protocolado em 19/02/2026 e enviado ao MP, cita Hildebrandt por sua atuação nas tratativas do 5º Termo Aditivo com a BRK e por possível omissão em aplicar a redução tarifária de 2,63% determinada pela agência reguladora. O relatório oficial, aprovado por unanimidade em 18/02/2026, é outro documento.", "fontes": [10, 14]},
+    {"texto": "Em março de 2026, quando era secretário, o PT pediu ao MPSC que o investigasse por ter gravado vídeo de divulgação do evento 'Acorda Brasil' vestindo o colete oficial da Defesa Civil, com uma camiseta de Bolsonaro por baixo. O partido alega uso de recursos públicos para fins político-partidários. Trata-se de uma representação, não de uma condenação.", "fontes": [12]}
+  ],
+  "fontes": [
+    {"titulo": "Mário Hildebrandt 22199 - site oficial de campanha", "url": "https://www.mariohildebrandt.com.br", "veiculo": "Site do candidato", "data": ""},
+    {"titulo": "Mário Hildebrandt e as operações do GAECO em Blumenau", "url": "https://www.informeblumenau.com/mario-hildebrandt-e-as-operacoes-do-gaeco-em-blumenau/", "veiculo": "Informe Blumenau", "data": "2026-05-07"},
+    {"titulo": "MPSC deflagra operação contra possível formação de cartel em Blumenau", "url": "https://www.correiodamanha.com.br/nacional/sul/2026/05/283663-mpsc-deflagra-operacao-contra-possivel-cartel-em-blumenau.html", "veiculo": "Correio da Manhã", "data": "2026-05-07"},
+    {"titulo": "Novo secretário da Defesa Civil", "url": "https://www.correiodamanha.com.br/nacional/sul/2025/02/amp/181478-novo-secretario-da-defesa-civil.html", "veiculo": "Correio da Manhã", "data": "2025-02"},
+    {"titulo": "Entrevista: Mário Hildebrandt (PL), ex-prefeito de Blumenau", "url": "https://www.informeblumenau.com/entrevista-mario-hildebrandt-pl-ex-prefeito-de-blumenau/", "veiculo": "Informe Blumenau", "data": "2026-04-13"},
+    {"titulo": "O bom momento de Mário Hildebrandt", "url": "https://www.informeblumenau.com/o-bom-momento-de-mario-hildebrandt/", "veiculo": "Informe Blumenau", "data": "2025-05-08"},
+    {"titulo": "Quem são os políticos de Blumenau e região que deixam cargos para disputar eleições 2026", "url": "https://ndmais.com.br/politica/quem-sao-os-politicos-de-blumenau-e-regiao-que-deixam-cargos-para-disputar-eleicoes-2026/", "veiculo": "ND+", "data": "2026-04-09"},
+    {"titulo": "Mário Hildebrandt (PL): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/mario-hildebrandt", "veiculo": "Jornal Razão", "data": ""},
+    {"titulo": "Prefeito de Blumenau se filia ao PL, partido de Bolsonaro", "url": "https://ndmais.com.br/politica/prefeito-de-blumenau-se-torna-novo-filiado-do-partido-liberal/", "veiculo": "ND+", "data": "2024-02-15"},
+    {"titulo": "CPI do Esgoto detalha entraves técnicos e administrativos em depoimento do ex-prefeito Mário Hildebrandt", "url": "https://camarablu.sc.gov.br/detalhe-noticia/15175/cpi-do-esgoto-detalha-entraves-tecnicos-e-administrativos-em-depoimento-do-ex-prefeito-mario-hildebrandt/", "veiculo": "Câmara Municipal de Blumenau", "data": "2025-12-09"},
+    {"titulo": "Blumenau: Presidente da CPI do Esgoto protocola relatório e aponta indícios de improbidade e falso testemunho em contrato de concessão", "url": "https://ajnoticias.com.br/noticia/51754/blumenau-presidente-da-cpi-do-esgoto-protocola-relatorio-e-aponta-indicios-de-improbidade-e-falso-testemunho-em-contrato-de-concessao", "veiculo": "AJ Notícias", "data": "2026-02-19"},
+    {"titulo": "Mário Hildebrandt explica, na CPI, detalhes do contrato de esgoto durante sua gestão", "url": "https://www.informeblumenau.com/mario-hildebrandt-explica-na-cpi-detalhes-do-contrato-de-esgoto-durante-sua-gestao/", "veiculo": "Informe Blumenau", "data": "2025-12-09"},
+    {"titulo": "Secretário de SC convocou ato extremista com colete da Defesa Civil; PT quer investigação", "url": "https://iclnoticias.com.br/?p=107920", "veiculo": "ICL Notícias", "data": "2026-03-04"},
+    {"titulo": "Proteção e Defesa Civil destina mais de R$ 1,1 milhão para desassoreamentos em Rodeio", "url": "https://prensamercosur.org/2026/01/22/protecao-e-defesa-civil-destina-mais-de-r-11-milhao-para-desassoreamentos-em-rodeio/", "veiculo": "Prensa Mercosur", "data": "2026-01-22"},
+    {"titulo": "Relatório final da CPI do Esgoto será apresentado na quarta-feira em Blumenau", "url": "https://misturebas.com.br/2026/02/16/relatorio-final-cpi-esgoto-blumenau/", "veiculo": "Misturebas", "data": "2026-02-16"},
+    {"titulo": "Mário Hildebrandt é eleito prefeito de Blumenau (biografia vista em resultado de busca; página bloqueada)", "url": "https://omunicipioblumenau.com.br/mario-hildebrandt-e-eleito-prefeito-de-blumenau/", "veiculo": "O Município Blumenau", "data": ""}
+  ]
+}
