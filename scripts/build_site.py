@@ -15,10 +15,14 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--sample", action="store_true")
     ap.add_argument("--out", default="dist/index.html")
+    ap.add_argument("--pdfs", action="store_true", help="inclui os PDFs das propostas de governo")
     args = ap.parse_args()
 
     data_path = ROOT / "data" / ("sample.json" if args.sample else "candidatos_sc_2026.json")
     data = json.loads(data_path.read_text())
+    if not args.pdfs:
+        for c in data["candidatos"]:
+            c.pop("proposta", None)
     research_dir = ROOT / "research"
     research = {}
     for p in sorted(research_dir.glob("*.json")):
@@ -36,6 +40,8 @@ def main():
     def safe(obj):
         return json.dumps(obj, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 
+    # fotos vão num arquivo separado (fotos.js), carregado antes do app
+    fotos = {c["id"]: c.pop("foto") for c in data["candidatos"] if c.get("foto")}
     data_js = f"window.DATA={safe(data)};"
     if research:
         data_js += f"window.RESEARCH={safe({'rubrica': rubric, 'candidatos': research})};"
@@ -46,6 +52,18 @@ def main():
     dest = ROOT / args.out
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(out)
+    (dest.parent / "fotos.js").write_text(f"window.FOTOS={safe(fotos)};")
+    # PDFs oficiais das propostas de governo, publicados junto com a página
+    import re, zipfile
+    pz = ROOT / "data" / "raw" / f"proposta_governo_2026_{data['meta'].get('uf', 'SC')}.zip"
+    if pz.exists() and args.pdfs and not args.sample:
+        pdir = dest.parent / "propostas"
+        pdir.mkdir(exist_ok=True)
+        with zipfile.ZipFile(pz) as z:
+            for n in z.namelist():
+                m = re.search(r"2026[A-Z]{2}(\d+)_01\.pdf$", n)
+                if m:
+                    (pdir / f"{m.group(1)}.pdf").write_bytes(z.read(n))
     print(f"{dest.relative_to(ROOT)}: {len(out)/1e6:.2f} MB, {len(data['candidatos'])} candidatos,"
           f" {len(research)} pesquisados")
 

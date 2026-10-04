@@ -7,6 +7,7 @@ const META = DATA.meta;
 const ALL = DATA.candidatos;
 const RESEARCH = window.RESEARCH || null;
 const BY_ID = new Map(ALL.map(c => [c.id, c]));
+if (window.FOTOS) for (const c of ALL) if (window.FOTOS[c.id]) c.foto = window.FOTOS[c.id];
 
 // ------------------------------------------------------------ utilidades
 const $ = (s, el = document) => el.querySelector(s);
@@ -619,10 +620,7 @@ function stackBar(groups, total) {
   return `<div class="stack" role="img" aria-label="Composição do patrimônio">${ent.map(([g, v]) => `<i style="width:${(100 * v / total).toFixed(2)}%;background:${GROUP_COLORS[g] || "var(--c6)"}" title="${esc(g)}: ${esc(money(v))}"></i>`).join("")}</div>
     <div class="legend">${ent.map(([g, v]) => `<span><i style="background:${GROUP_COLORS[g] || "var(--c6)"}"></i>${esc(g)} · ${money(v)} (${pct(v, total)})</span>`).join("")}</div>`;
 }
-function tseLink(c) {
-  return c.eleicaoCod ? `https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SUL/SC/${encodeURIComponent(c.eleicaoCod)}/${encodeURIComponent(c.id)}/2026/SC`
-    : "https://divulgacandcontas.tse.jus.br/divulga/";
-}
+function tseLink() { return "https://divulgacandcontas.tse.jus.br/divulga/"; }
 function netName(url) {
   const u = url.toLowerCase();
   for (const [k, n] of [["instagram", "Instagram"], ["facebook", "Facebook"], ["x.com", "X"], ["twitter", "X"], ["youtube", "YouTube"], ["tiktok", "TikTok"], ["linkedin", "LinkedIn"], ["threads", "Threads"], ["kwai", "Kwai"], ["t.me", "Telegram"], ["whatsapp", "WhatsApp"]]) if (u.includes(k)) return n;
@@ -653,12 +651,12 @@ function openCandidate(id) {
       <div class="drawer-actions">
         <button class="btn ${starred.has(c.id) ? "" : "primary"}" type="button" id="dr-star">${starred.has(c.id) ? "★ Na minha lista" : "☆ Adicionar à minha lista"}</button>
         <button class="btn" type="button" id="dr-cmp">${compare.includes(c.id) ? "✓ Na comparação" : "+ Comparar"}</button>
-        <a class="btn ghost" href="${tseLink(c)}" target="_blank" rel="noopener">Ver no TSE ↗</a>
+        ${c.proposta ? `<a class="btn" href="${esc(c.proposta)}" target="_blank" rel="noopener">Plano de governo (PDF) ↗</a>` : ""}
       </div>
       <dl class="facts">
         <div><dt>Partido</dt><dd>${esc(c.partidoNome || c.partido)}</dd></div>
         <div><dt>Idade</dt><dd>${c.idade ?? "—"} anos${c.nasc ? ` <span style="color:var(--ink-3)">(${c.nasc.split("-").reverse().join("/")})</span>` : ""}</dd></div>
-        ${c.federacao ? `<div><dt>Federação</dt><dd>${esc(c.federacao)}</dd></div>` : ""}
+        ${c.federacao ? `<div><dt>Federação</dt><dd>${esc(c.federacao)}${c.fedComp ? ` <span style="color:var(--ink-3)">(${esc(c.fedComp)})</span>` : ""}</dd></div>` : ""}
         ${c.coligacao ? `<div class="wide"><dt>Coligação</dt><dd>${esc(c.coligacao)}${c.coligComp ? ` <span style="color:var(--ink-3)">(${esc(c.coligComp)})</span>` : ""}</dd></div>` : ""}
         <div><dt>Formação</dt><dd>${esc(c.instrucao || "—")}</dd></div>
         <div><dt>Ocupação</dt><dd>${esc(c.ocupacao || "—")}</dd></div>
@@ -685,7 +683,8 @@ function openCandidate(id) {
       <div><h3 class="sub-h">Contato e redes</h3><div class="links">
         ${(c.redes || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(netName(u))}: ${esc(u.replace(/^https?:\/\/(www\.)?/, ""))}</a>`).join("") || `<span style="color:var(--ink-3)">Nenhuma rede social informada ao TSE.</span>`}
         ${c.email ? `<span>E-mail: <span class="mono" style="user-select:all">${esc(c.email)}</span></span>` : ""}
-        <a href="${tseLink(c)}" target="_blank" rel="noopener">Ficha completa e proposta de governo no DivulgaCandContas (TSE) ↗</a>
+        ${c.proposta ? `<a href="${esc(c.proposta)}" target="_blank" rel="noopener">Plano de governo registrado no TSE (PDF) ↗</a>` : ""}
+        <span>Ficha oficial: <a href="${tseLink(c)}" target="_blank" rel="noopener">DivulgaCandContas (TSE) ↗</a>, busque por “${esc(c.urna)}”.</span>
       </div></div>
     </div>`;
   dr.classList.add("on"); $("#scrim").classList.add("on");
@@ -892,6 +891,7 @@ function renderAbout() {
     <p><b>Fonte.</b> ${META.amostra ? "<b>ESTA VERSÃO USA DADOS FICTÍCIOS DE TESTE.</b> " : ""}Todos os dados vêm do Portal de Dados Abertos do Tribunal Superior Eleitoral (TSE): registro de candidaturas (<span class="mono">consulta_cand_2026</span>), bens declarados (<span class="mono">bem_candidato_2026</span>) e redes sociais informadas pelos candidatos. ${META.historico2022 ? "O histórico de 2022 vem dos mesmos arquivos daquela eleição." : ""}</p>
     <p><b>Atualização.</b> Arquivo gerado pelo TSE em ${esc(META.geradoTSE || "—")}, extraído em ${esc(fmtDate(META.extraidoEm))}. A situação das candidaturas muda conforme a Justiça Eleitoral julga os registros; para o status mais recente, confira a ficha no DivulgaCandContas.</p>
     <p><b>Idade</b> é calculada na data da eleição (04/10/2026). <b>Patrimônio</b> é a soma dos bens declarados pelo próprio candidato, normalmente pelo valor de aquisição ou o informado no Imposto de Renda. Não é o valor de mercado e não desconta dívidas. Candidatos sem bens na lista podem não ter entregado a declaração ainda.</p>
+    <p><b>Reeleição.</b> O TSE não publicou em 2026 o campo que indica candidatura à reeleição. Por isso o painel marca como “tenta reeleição” quem foi eleito em 2022 para o mesmo cargo, ligando os registros por nome completo e data de nascimento. Senadores eleitos em 2018 não aparecem nessa marcação.</p>
     <p><b>Ocupação, formação, gênero e cor/raça</b> são autodeclarados no registro da candidatura e aparecem como o TSE publica.</p>
     <p><b>Neutralidade.</b> Este painel não recomenda candidatos. A ordem padrão é por cargo e partido, e nenhum destaque visual favorece ninguém. As análises de propostas, quando existirem, citam as fontes de cada nota.</p>
     <p><b>Privacidade.</b> Sua lista e seus filtros ficam salvos apenas neste navegador.</p>

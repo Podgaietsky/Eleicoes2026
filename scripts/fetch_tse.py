@@ -25,8 +25,9 @@ def sources(uf):
             f"{CDN}/consulta_cand_complementar/consulta_cand_complementar_2026.zip"],
         "bem_candidato_2026.zip": [f"{CDN}/bem_candidato/bem_candidato_2026.zip"],
         "rede_social_candidato_2026.zip": [
-            f"{CDN}/consulta_cand_rede_social/rede_social_candidato_2026.zip",
-            f"{CDN}/rede_social_candidato/rede_social_candidato_2026.zip"],
+            f"{CDN}/consulta_cand/rede_social_candidato_2026.zip"],
+        # propostas de governo (PDFs dos majoritários; usadas na pesquisa de propostas)
+        f"proposta_governo_2026_{uf}.zip": [f"{CDN}/proposta_governo/proposta_governo_2026_{uf}.zip"],
         # 2022: para histórico (resultado e patrimônio declarado na eleição anterior)
         "consulta_cand_2022.zip": [f"{CDN}/consulta_cand/consulta_cand_2022.zip"],
         "bem_candidato_2022.zip": [f"{CDN}/bem_candidato/bem_candidato_2022.zip"],
@@ -38,6 +39,7 @@ def sources(uf):
 
 OPTIONAL = {"consulta_cand_complementar_2026.zip", "rede_social_candidato_2026.zip",
             "consulta_cand_2022.zip", "bem_candidato_2022.zip"}
+OPTIONAL_PREFIX = ("foto_", "proposta_")
 
 
 def download(url, dest):
@@ -86,7 +88,7 @@ def main():
         else:
             failed.append(name)
 
-    missing_required = [n for n in failed if n not in OPTIONAL and not n.startswith("foto_")]
+    missing_required = [n for n in failed if n not in OPTIONAL and not n.startswith(OPTIONAL_PREFIX)]
     if failed:
         print("\nNão baixados:", ", ".join(failed))
     if missing_required:

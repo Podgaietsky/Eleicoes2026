@@ -2,3 +2,5 @@ data/raw/
 data/sample.json
 dist/sample.html
 __pycache__/
+dist/propostas/
+dist/

@@ -101,8 +101,9 @@ def age_at(born, when=ELEICAO):
     return when.year - born.year - ((when.month, when.day) < (born.month, born.day))
 
 
-SMALL = {"de", "da", "do", "das", "dos", "e", "em", "a", "o", "ou", "com", "para"}
-KEEP_UPPER = {"II", "III", "IV", "SC", "TI", "PM", "BM", "MDB", "PT", "PL", "PSD", "PP"}
+SMALL = {"de", "da", "do", "das", "dos", "e", "em", "a", "o", "ou", "com", "para", "no", "na", "nos", "nas", "pelo", "pela", "ao", "à"}
+KEEP_UPPER = {"II", "III", "IV", "SC", "TI", "PM", "BM", "MDB", "PT", "PL", "PSD", "PP", "PCO", "PSOL", "PSTU",
+              "UP", "PDT", "PSB", "PV", "PSDB", "DC", "PRD", "UFSC", "UDESC", "SUS", "CEO", "ONG", "PCB", "PMB", "PRTB"}
 
 
 def title(s):
@@ -171,6 +172,19 @@ def bem_grupo(tipo, desc):
     return "Créditos e outros"
 
 
+def resultado(v):
+    v = (v or "").upper()
+    return {"ELEITO POR QP": "Eleito por QP", "ELEITO POR MÉDIA": "Eleito por média", "ELEITO": "Eleito",
+            "NÃO ELEITO": "Não eleito", "SUPLENTE": "Suplente", "2º TURNO": "Foi ao 2º turno"}.get(v, title(v))
+
+
+def fed_label(fed):
+    if not fed:
+        return None
+    f = re.sub(r"^FEDERAÇÃO\s+", "", fed.upper()).split(" - ")[0]
+    return "Federação " + title(f).replace("Psol", "PSOL").replace("Psdb", "PSDB").replace("Rede", "REDE")
+
+
 def situacao(r):
     raw = first(r, "DS_DETALHE_SITUACAO_CAND", "DS_SITUACAO_JULGAMENTO", "DS_SITUACAO_CANDIDATO_PLEITO",
                 "DS_SITUACAO_CANDIDATURA") or "Não informado"
@@ -179,7 +193,7 @@ def situacao(r):
         grp = "Sub judice / recurso"
     elif u.startswith("DEFERIDO"):
         grp = "Deferida"
-    elif "INDEFERIDO" in u or "CASSADO" in u or "INAPTO" in u or "NÃO CONHECIMENTO" in u:
+    elif "INDEFERIDO" in u or "CASSADO" in u or "INAPTO" in u or "NÃO CONHEC" in u:
         grp = "Indeferida"
     elif "RENÚNCIA" in u or "FALECIDO" in u or "CANCELADO" in u or "DESIST" in u:
         grp = "Renúncia / cancelada"
@@ -240,7 +254,7 @@ def load_2022(uf):
         hist[key] = {
             "cargo": title(first(r, "DS_CARGO")),
             "partido": first(r, "SG_PARTIDO"),
-            "resultado": title(first(r, "DS_SIT_TOT_TURNO") or ""),
+            "resultado": resultado(first(r, "DS_SIT_TOT_TURNO")),
             "patrimonio": round(pat.get(r.get("SQ_CANDIDATO"), 0.0), 2),
         }
     # resultado do 2º turno, se houver
@@ -248,7 +262,7 @@ def load_2022(uf):
         if r.get("NR_TURNO") == "2":
             key = norm_key(r.get("NM_CANDIDATO"), parse_date(r.get("DT_NASCIMENTO")))
             if key in hist and first(r, "DS_SIT_TOT_TURNO"):
-                hist[key]["resultado"] = title(first(r, "DS_SIT_TOT_TURNO"))
+                hist[key]["resultado"] = resultado(first(r, "DS_SIT_TOT_TURNO"))
     return hist
 
 
@@ -267,6 +281,14 @@ def main():
     bens_rows = read_zip_csv("bem_candidato_2026.zip", uf)
     redes_rows = read_zip_csv("rede_social_candidato_2026.zip", uf)
     hist = load_2022(uf)
+    propostas = set()
+    pz = RAW / f"proposta_governo_2026_{uf}.zip"
+    if pz.exists():
+        with zipfile.ZipFile(pz) as z:
+            for n in z.namelist():
+                m = re.search(r"2026[A-Z]{2}(\d+)_\d+\.pdf$", n)
+                if m:
+                    propostas.add(m.group(1))
     photos = load_photos(uf)
 
     bens = defaultdict(list)
@@ -321,9 +343,10 @@ def main():
             "cargoOrd": CARGO_ORDEM.index(cargo_raw) if cargo_raw in CARGO_ORDEM else 9,
             "partido": first(c, "SG_PARTIDO"),
             "partidoNome": title(first(c, "NM_PARTIDO")),
-            "federacao": (sg_fed or title(fed)) if fed else None,
-            "coligacao": title(first(c, "NM_COLIGACAO")),
-            "coligComp": first(c, "DS_COMPOSICAO_COLIGACAO", "DS_COMPOSICAO_FEDERACAO"),
+            "federacao": fed_label(fed),
+            "coligacao": None if (first(c, "NM_COLIGACAO") or "").upper() in ("PARTIDO ISOLADO", "FEDERAÇÃO") else title(first(c, "NM_COLIGACAO")),
+            "coligComp": first(c, "DS_COMPOSICAO_COLIGACAO") if (first(c, "NM_COLIGACAO") or "").upper() not in ("PARTIDO ISOLADO", "FEDERAÇÃO") else None,
+            "fedComp": sg_fed if fed else None,
             "situacao": sit_grp,
             "situacaoDet": sit_det,
             "nasc": born.isoformat() if born else None,
@@ -350,6 +373,12 @@ def main():
         h = hist.get(norm_key(nome, born))
         if h:
             rec["h2022"] = h
+            # ST_REELEICAO não é publicado em 2026; considera reeleição quem foi eleito em 2022 para o mesmo cargo
+            if not rec["reeleicao"] and h["resultado"].startswith("Eleito") and \
+                    norm_key(h["cargo"], None) == norm_key(rec["cargo"], None):
+                rec["reeleicao"] = True
+        if sq in propostas:
+            rec["proposta"] = f"propostas/{sq}.pdf"
         if sq in photos:
             rec["foto"] = photos[sq]
         out.append(rec)
