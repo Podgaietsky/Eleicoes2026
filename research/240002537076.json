@@ -1,0 +1,74 @@
+{
+  "id": "240002537076",
+  "urna": "Darci de Matos",
+  "cargo": "Deputado federal",
+  "partido": "REPUBLICANOS",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Economista de Joinville, ex-vereador, três vezes deputado estadual e deputado federal (2019-2023, e suplente em exercício entre ago/2023 e nov/2024), candidato a deputado federal pelo Republicanos (nº 1022) após deixar o PSD em 2025. Ficou conhecido como relator da admissibilidade da reforma administrativa (PEC 32) na CCJ em 2021. As bandeiras declaradas para 2026 são amplas (infraestrutura, saúde, segurança e desenvolvimento), sem detalhamento público encontrado.",
+  "perfil": "Nascido em Cafelândia (PR) em 08/11/1961, mudou-se para Joinville aos 16 anos; formado em Economia (Univille), com pós em Administração e Marketing. Vereador de Joinville (2001-2006, presidiu a Câmara), deputado estadual (2007-2018) e deputado federal eleito pelo PSD em 2018 (68.130 votos). Em 2022 teve 57.565 votos e ficou como 1º suplente do PSD; exerceu o mandato como suplente de 01/08/2023 a 02/11/2024 (com interrupções), inclusive enquanto Ricardo Guidi ocupava secretaria no governo Jorginho Mello. Disputou a Prefeitura de Joinville em 2008, 2016 e 2020 (2º turno em 2016 e 2020). Filiou-se ao Republicanos em 07/07/2025, em ato com o governador Jorginho Mello (PL), o presidente nacional Marcos Pereira e o prefeito Topázio Neto; o partido apoia a reeleição de Jorginho. Base eleitoral em Joinville e norte de SC. Patrimônio declarado: R$ 2.575.616,91.",
+  "temas": {
+    "costumes": {"nota": 1, "evidencia": "Sem pauta moral declarada em 2026. Na Câmara, é autor do PL 1107/2019, que afasta a cobrança de direitos autorais em cultos e eventos de organizações religiosas.", "fontes": [9]},
+    "desenvolvimento": {"nota": 7, "evidencia": "Infraestrutura é a primeira bandeira citada para 2026. Na Câmara, é autor do PL 5040/2023 (incorporar vias de acesso e marginais aos contratos de concessão rodoviária) e do PL 5291/2023 (nomeia o túnel duplo da BR-280/SC).", "fontes": [0, 9]},
+    "educacao": {"nota": 3, "evidencia": "É autor do PL 2485/2021, que autoriza a criação da Universidade Federal de Canoinhas (UFCAN), e de projeto de socorro ao ensino privado na pandemia (PL 364/2022). Não há proposta de educação para 2026.", "fontes": [9]},
+    "industria": {"nota": 4, "evidencia": "Projetos como a prorrogação da desoneração da folha do setor de fundição (PL 4349/2021) e a revogação escalonada dos limites ao aproveitamento de prejuízos fiscais de IRPJ/CSLL (PL 3785/2023, autoria própria). Para 2026, fala genericamente em fortalecer quem 'produz' em SC.", "fontes": [9, 0]},
+    "economia": {"nota": 7, "evidencia": "Relator da admissibilidade da reforma administrativa (PEC 32) na CCJ, dizendo que 'o serviço público está muito lento e oneroso'; votou Sim à reforma da Previdência (2019); é autor do Simples Trabalhista (PL 2442/2021 e PLP 136/2021) e de várias propostas de isenção ou desoneração tributária.", "fontes": [1, 2, 10, 9]},
+    "tecnologia": {"nota": 1, "evidencia": "Só uma menção genérica a 'novas tecnologias' para justificar a modernização do serviço público (2021). Não há proposta de inovação para 2026.", "fontes": [2]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 5, "evidencia": "Segurança está entre as bandeiras declaradas para 2026. Na Câmara, é autor do PL 2836/2019 (porte de arma para agentes socioeducativos) e do PL 6210/2019 (direitos humanos dos profissionais de segurança pública), e coautor da PEC 57/2023 (polícias municipais).", "fontes": [0, 9]},
+    "saude": {"nota": 5, "evidencia": "Saúde é bandeira declarada para 2026, sem detalhamento. Na Câmara, propôs exames de displasia de quadril em recém-nascidos (PL 979/2019), uma política de escoliose (PL 1094/2022) e um programa de equalização da remuneração da enfermagem (PL 2355/2022).", "fontes": [0, 9]},
+    "agro": {"nota": 3, "evidencia": "Projetos sobre meliponicultura e apicultura (PL 4429/2020, PL 6492/2019, PL 4192/2024 sobre o uso da palavra mel), inspeção sanitária de produtos de origem animal (PL 5900/2023) e regras do segurado especial rural (PL 268/2022).", "fontes": [9]},
+    "ambiente": {"nota": 2, "evidencia": "É autor do PL 311/2022, que aplica a Lei 12.651/2012 (Código Florestal) ao bioma Mata Atlântica em todo o país, e do PL 1797/2022, sobre o Parque Nacional da Serra do Itajaí. Coautor da PEC 44/2023 (reserva de emendas para catástrofes). Não há proposta ambiental para 2026.", "fontes": [9]},
+    "social": {"nota": 3, "evidencia": "Projetos de abono natalino para beneficiários do BPC (PL 4439/2020) e de pensão especial para órfãos da Covid-19 (PL 2183/2021). Não há proposta social para 2026.", "fontes": [9]},
+    "transparencia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "municipalismo": {"nota": 6, "evidencia": "Base em Joinville e discurso de 'defender os interesses do nosso estado em Brasília'. Coautor da PEC 25/2022 (+1,5 ponto percentual no FPM) e autor de projetos de interesse regional de SC (UFCAN, BR-280, títulos para municípios catarinenses).", "fontes": [0, 9]}
+  },
+  "eixos": {
+    "economia": {"valor": 3, "evidencia": "Defendeu a admissibilidade da reforma administrativa, votou pela reforma da Previdência e propôs Simples Trabalhista e desonerações. Ao mesmo tempo, apresentou vários projetos de benefícios e isenções sem contrapartida explícita.", "fontes": [1, 2, 10, 9]},
+    "costumes": {"valor": 1, "evidencia": "Evidência fraca: só projetos pontuais (direitos autorais em cultos, porte de arma para agentes socioeducativos). Não há posicionamento moral explícito encontrado.", "fontes": [9]},
+    "estado": {"valor": 2, "evidencia": "Coautor de PEC que aumenta repasses ao FPM e de PEC das polícias municipais; foco em pautas regionais de SC.", "fontes": [9]},
+    "ambiente": {"valor": 1, "evidencia": "O PL 311/2022 propõe aplicar o Código Florestal à Mata Atlântica, um tema associado a flexibilização para atividades produtivas. Também coassinou propostas de defesa civil e clima. A evidência é limitada.", "fontes": [9]},
+    "governo": {"valor": 2, "evidencia": "Migrou para o Republicanos, aliado do PL de Jorginho Mello. Como suplente em exercício, votou Não ao texto-base da regulamentação da reforma tributária (PLP 68/2024, em 10/07/2024). Não foram encontradas declarações diretas sobre o governo Lula.", "fontes": [3, 12]}
+  },
+  "criterios": {
+    "concretude": {"valor": 4, "evidencia": "As propostas de 2026 são genéricas ('infraestrutura, saúde, segurança e desenvolvimento'), sem metas nem fontes de recurso. Em contrapartida, tem histórico legislativo extenso e verificável (dezenas de PLs de autoria própria, relatoria da PEC 32 na CCJ).", "fontes": [0, 9, 1]},
+    "responsabilidadeFiscal": {"valor": 4, "evidencia": "Votou a favor da reforma da Previdência e defendeu reduzir o custo do serviço público (PEC 32). Por outro lado, votou Sim à PEC dos Precatórios (2021) e apresentou várias propostas de isenção de IPI, abono e benefícios sem indicar compensação.", "fontes": [10, 2, 11, 9]}
+  },
+  "propostas": [
+    {"tema": "desenvolvimento", "texto": "Para 2026, declara que vai trabalhar 'por mais infraestrutura, saúde, segurança e desenvolvimento para quem vive e produz' em SC.", "fontes": [0]},
+    {"tema": "desenvolvimento", "texto": "PL 5040/2023: permite incorporar vias de acesso e vias marginais aos contratos de concessão de rodovias.", "fontes": [9]},
+    {"tema": "economia", "texto": "Simples Trabalhista (PL 2442/2021 e PLP 136/2021): regime trabalhista simplificado para micro e pequenas empresas.", "fontes": [9]},
+    {"tema": "industria", "texto": "PL 3785/2023: revogação escalonada das restrições quantitativas ao aproveitamento de prejuízos fiscais e bases negativas de IRPJ e CSLL.", "fontes": [9]},
+    {"tema": "educacao", "texto": "PL 2485/2021: autoriza a criação da Universidade Federal de Canoinhas (UFCAN).", "fontes": [9]},
+    {"tema": "seguranca", "texto": "PL 2836/2019: concede porte de arma de fogo aos agentes socioeducativos.", "fontes": [9]},
+    {"tema": "ambiente", "texto": "PL 311/2022: aplica a Lei 12.651/2012 (Código Florestal) ao bioma Mata Atlântica em todo o território nacional.", "fontes": [9]},
+    {"tema": "saude", "texto": "PL 979/2019: obriga exames de detecção da displasia do desenvolvimento do quadril em recém-nascidos em hospitais e maternidades.", "fontes": [9]}
+  ],
+  "historico": [
+    {"texto": "Relator da PEC 32/2020 (reforma administrativa) na CCJ da Câmara. O parecer pela admissibilidade foi aprovado em 25/05/2021 por 39 a 26. O relator retirou três pontos: a proibição de outras atividades remuneradas para servidores, o poder do presidente de extinguir autarquias e fundações, e novos princípios da administração (como 'subsidiariedade'), alegando insegurança jurídica.", "fontes": [1, 2]},
+    {"texto": "Votou Sim à reforma da Previdência (PEC 6/2019) em 1º e 2º turnos (julho e agosto de 2019).", "fontes": [10]},
+    {"texto": "Votou Sim à PEC dos Precatórios (PEC 23/2021) em 2º turno, em 09/11/2021.", "fontes": [11]},
+    {"texto": "Como suplente em exercício, votou Não ao texto-base (subemenda substitutiva global) da regulamentação da reforma tributária (PLP 68/2024) em 10/07/2024.", "fontes": [12]},
+    {"texto": "Deputado federal titular de 2019 a 2023 (licenciado de set. a dez. de 2020 para disputar a Prefeitura de Joinville). Suplente em exercício entre 01/08/2023 e 02/11/2024.", "fontes": [8, 4]},
+    {"texto": "Vereador de Joinville (2001-2006) e deputado estadual (2007-2018); disputou a Prefeitura de Joinville em 2008, 2016 e 2020.", "fontes": [0, 7]},
+    {"texto": "Filiou-se ao Republicanos em 07/07/2025, depois de cinco eleições consecutivas pelo PSD.", "fontes": [3, 5]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Segundo levantamento do Jornal Razão com dados da prestação de contas (03/09/2026), a campanha recebeu R$ 2 milhões do fundo eleitoral do Republicanos e contratou 146 pessoas, entre elas 86 'militantes de rua' a cerca de R$ 5 mil cada, 87% da militância paga declarada no estado naquela data.", "fontes": [5]}
+  ],
+  "fontes": [
+    {"titulo": "Darci de Matos é confirmado pelo Republicanos como candidato a deputado federal", "url": "https://aconteceuemjoinville.com.br/darci-de-matos-e-confirmado-pelo-republicanos-como-candidato-a-deputado-federal/", "veiculo": "Aconteceu em Joinville", "data": ""},
+    {"titulo": "Texto que viabiliza a reforma administrativa é aprovado pela CCJ", "url": "https://jovempan.com.br/noticias/economia/texto-que-viabiliza-a-reforma-administrativa-e-aprovado-pela-ccj.html", "veiculo": "Jovem Pan", "data": "2021-05-25"},
+    {"titulo": "Relator anuncia parecer favorável à reforma administrativa", "url": "https://congressoemfoco.com.br/legislativo/relator-anuncia-parecer-favoravel-a-reforma-administrativa", "veiculo": "Congresso em Foco", "data": "2021-03-16"},
+    {"titulo": "Com a presença de Topázio, Darci de Matos migra do PSD para o Republicanos", "url": "https://www.karinamanarin.com.br/artigo/com-a-presenca-de-topazio-darci-de-matos-migra-do-psd-para-o-republicanos/", "veiculo": "Karina Manarin", "data": "2025-07-07"},
+    {"titulo": "Depois de Geovânia de Sá, Republicanos mira Darci de Matos e Gerri Consoli", "url": "https://ndmais.com.br/politica/depois-de-geovania-de-sa-republicanos-mira-darci-de-matos-e-gerri-consoli/", "veiculo": "ND+", "data": ""},
+    {"titulo": "Candidato a deputado em SC recebe R$ 2 milhões de 'fundão' e bate recorde ao contratar 86 'militantes de rua'", "url": "https://jornalrazao.com/politica/darci-de-matos-fundao-2-milhoes-86-militantes-de-rua", "veiculo": "Jornal Razão", "data": "2026-09-03"},
+    {"titulo": "Darci de Matos 1022 - candidato a deputado federal SC", "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/santa-catarina/deputado-federal/darci-de-matos-1022", "veiculo": "O Tempo", "data": ""},
+    {"titulo": "Morre mãe de ex-vereador de Joinville e candidato a deputado federal por SC em meio à campanha eleitoral", "url": "https://ndmais.com.br/comportamento/morre-mae-de-ex-vereador-de-joinville-e-candidato-a-deputado-federal-por-sc-em-meio-a-campanha-eleitoral-filho-faz-despedida-fica-o-amor-os-ensinamentos/", "veiculo": "ND+", "data": "2026-09-23"},
+    {"titulo": "Histórico do deputado Darci de Matos (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/116379/historico", "veiculo": "Câmara dos Deputados", "data": ""},
+    {"titulo": "Proposições de autoria de Darci de Matos (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=116379&itens=100", "veiculo": "Câmara dos Deputados", "data": ""},
+    {"titulo": "Votos - PEC 6/2019, 1º turno (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2192459-636/votos", "veiculo": "Câmara dos Deputados", "data": "2019-07-10"},
+    {"titulo": "Votos - PEC 23/2021, 2º turno (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2293449-241/votos", "veiculo": "Câmara dos Deputados", "data": "2021-11-09"},
+    {"titulo": "Votos - PLP 68/2024, subemenda substitutiva global (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2430143-72/votos", "veiculo": "Câmara dos Deputados", "data": "2024-07-10"}
+  ]
+}

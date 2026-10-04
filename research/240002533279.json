@@ -1,0 +1,73 @@
+{
+  "id": "240002533279",
+  "urna": "Luciano Buligon",
+  "cargo": "Deputado estadual",
+  "partido": "PDT",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Advogado e ex-prefeito de Chapecó (dez/2015 a 2020) e ex-secretário de Estado do Desenvolvimento Econômico Sustentável (2021), concorre à Alesc pelo PDT na coligação de Gelson Merisio (PSB). Em campanha, defende orçamento fixo para rodovias do Oeste, exames e cirurgias em hospitais-satélites, desburocratização e direitos das mulheres, com o lema 'Menos briga e mais trabalho' e crítica à centralidade de pautas ideológicas.",
+  "perfil": "Luciano José Buligon, nascido em Tenente Portela (RS), advogado formado pela URCAMP, professor de pós-graduação (Unoesc) e procurador municipal. Foi dirigente do PMDB em Chapecó (presidente municipal 2009-2015), secretário de Desenvolvimento Regional de Chapecó (2007-2010), candidato a prefeito em 2008, suplente de deputado estadual (2011-2014), eleito vice-prefeito em 2012 na chapa de José Caramori, secretário municipal (Articulação Institucional, Desenvolvimento Urbano, Coordenação de Governo). Filiou-se ao PSB em 2015, assumiu a prefeitura em dezembro de 2015 e foi eleito prefeito em 2016 com 61,74% dos votos. Expulso do PSB em setembro de 2018 por apoiar Jair Bolsonaro; passou pelo DEM (2019) e PSL (2020, a convite do governador Carlos Moisés), foi secretário estadual de Desenvolvimento Econômico Sustentável no governo Moisés (2021), disputou a Alesc em 2022 pelo Republicanos (cerca de 4,5 mil votos, suplente) e filiou-se ao PDT em 2026. Base eleitoral: Chapecó e Oeste catarinense. Campanha 2026 declarou R$ 213,7 mil em receitas, cerca de 59% de recursos próprios.",
+  "temas": {
+    "costumes": {"nota": 1, "evidencia": "Não apresenta propostas na área; critica a centralidade de pautas ideológicas na política estadual ('Ideologia não mata fome') e diz que SC 'abraça pautas que não resolvem as dificuldades'.", "fontes": [1, 0]},
+    "desenvolvimento": {"nota": 8, "evidencia": "Defende orçamento fixo para as rodovias do Oeste para reduzir gargalos logísticos; foco declarado em rodovias e infraestrutura em entrevistas de campanha.", "fontes": [0, 1, 2]},
+    "educacao": {"nota": 2, "evidencia": "Educação citada entre focos no resumo de entrevista (pré-campanha), sem proposta detalhada encontrada.", "fontes": [2]},
+    "industria": {"nota": 1, "evidencia": "Reuniu-se com o Centro Empresarial de Chapecó e falou em competitividade de SC, sem proposta específica para indústria.", "fontes": [0]},
+    "economia": {"nota": 5, "evidencia": "Propõe desburocratização do atendimento por órgãos do Estado; cita competitividade e foco em orçamento público; foi secretário estadual de Desenvolvimento Econômico.", "fontes": [0, 1, 5]},
+    "tecnologia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "saude": {"nota": 7, "evidencia": "Propõe realização de exames e cirurgias em hospitais-satélites próximos ao paciente; saúde listada como foco central em entrevistas.", "fontes": [0, 1, 2]},
+    "agro": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "ambiente": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "social": {"nota": 3, "evidencia": "Defende proteção, respeito e garantia de direitos às mulheres, sem detalhamento.", "fontes": [0]},
+    "transparencia": {"nota": 4, "evidencia": "Compromisso de prestação de contas semanal da atuação parlamentar.", "fontes": [0]},
+    "municipalismo": {"nota": 7, "evidencia": "Ex-prefeito de Chapecó; propostas voltadas ao Oeste (orçamento fixo para rodovias da região) e desenvolvimento regional.", "fontes": [0, 2, 5]}
+  },
+  "eixos": {
+    "economia": {"valor": 1, "evidencia": "Discurso de desburocratização e competitividade, sem posições explícitas sobre tamanho do Estado ou impostos.", "fontes": [0]},
+    "costumes": {"valor": null, "evidencia": "Critica a centralidade de pautas ideológicas, mas não toma posição explícita em temas morais.", "fontes": [1]},
+    "estado": {"valor": 2, "evidencia": "Propõe orçamento fixo regional para rodovias do Oeste e atendimento de saúde em hospitais-satélites próximos ao paciente (regionalização).", "fontes": [0]},
+    "ambiente": {"valor": null, "evidencia": "Sem menção encontrada", "fontes": []},
+    "governo": {"valor": -2, "evidencia": "Defende 'alinhamento entre o governo do Estado e o governo federal' e integra coligação com PSB, PT, PCdoB, PV, PSOL e Rede; em 2018, porém, apoiou Bolsonaro e foi expulso do PSB.", "fontes": [0, 3, 9, 6]}
+  },
+  "criterios": {
+    "concretude": {"valor": 4, "evidencia": "Propostas setoriais identificáveis (orçamento fixo para rodovias do Oeste, hospitais-satélites, prestação de contas semanal), sem metas, prazos ou fontes de recursos encontradas; tem histórico executivo como prefeito e secretário estadual.", "fontes": [0, 5]},
+    "responsabilidadeFiscal": {"valor": 3, "evidencia": "Declara foco em orçamento público, mas a proposta de orçamento fixo para rodovias regionais não indica fonte de recursos; nenhum compromisso explícito com equilíbrio fiscal encontrado.", "fontes": [0, 1]}
+  },
+  "propostas": [
+    {"tema": "desenvolvimento", "texto": "Orçamento fixo para as rodovias do Oeste catarinense, para reduzir gargalos na infraestrutura logística.", "fontes": [0]},
+    {"tema": "saude", "texto": "Realização de exames e cirurgias em hospitais-satélites próximos ao paciente.", "fontes": [0]},
+    {"tema": "economia", "texto": "Desburocratização no atendimento prestado por órgãos do Estado de Santa Catarina.", "fontes": [0]},
+    {"tema": "social", "texto": "Proteção, respeito e garantia de direitos às mulheres.", "fontes": [0]},
+    {"tema": "transparencia", "texto": "Prestação de contas semanal de sua atuação parlamentar.", "fontes": [0]},
+    {"tema": "municipalismo", "texto": "Alinhamento entre governo do Estado e governo federal para resolver problemas regionais.", "fontes": [0]},
+    {"tema": "economia", "texto": "Foco em saúde, rodovias e orçamento público em vez de pautas ideológicas.", "fontes": [1]}
+  ],
+  "historico": [
+    {"texto": "Eleito vice-prefeito de Chapecó em 2012; assumiu a prefeitura em dezembro de 2015 e foi eleito prefeito em 2016 com 61,74% dos votos.", "fontes": [5, 7]},
+    {"texto": "Como secretário municipal, esteve à frente do Plano Diretor, Plano de Mobilidade Urbana e do programa de orçamento participativo PODE ('Ouvindo Nosso Bairro'), finalista de prêmio de boas práticas da Udesc/Esag (segundo a Wikipédia).", "fontes": [5]},
+    {"texto": "Chefiou a missão de repatriação dos corpos após a queda do voo da Chapecoense (2016); recebeu a Ordem do Rio Branco e a Ordem do Mérito Aeronáutico (segundo a Wikipédia).", "fontes": [5]},
+    {"texto": "Expulso do PSB em 18/09/2018 por apoiar Jair Bolsonaro à Presidência; declarou que priorizaria os interesses do município.", "fontes": [6, 5]},
+    {"texto": "Em 2020, deixou o DEM e filiou-se ao PSL do governador Carlos Moisés.", "fontes": [8]},
+    {"texto": "Secretário de Estado do Desenvolvimento Econômico Sustentável no governo Moisés (2021).", "fontes": [5, 0]},
+    {"texto": "Candidato a deputado estadual em 2022 pelo Republicanos (nº 10777), obteve cerca de 4,5 mil votos e ficou como suplente.", "fontes": [10, 7]},
+    {"texto": "Filiou-se ao PDT em abril de 2026 e lançou pré-candidatura à Alesc em maio, em ato com Gelson Merisio (PSB).", "fontes": [4, 11, 3]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Trocas partidárias frequentes: PMDB, PSB (expulso em 2018), DEM (2019), PSL (2020), Republicanos (2022) e PDT (2026); em 2018 apoiou Bolsonaro e em 2026 integra coligação com PT e PSOL.", "fontes": [5, 6, 8, 10, 4, 9]}
+  ],
+  "fontes": [
+    {"titulo": "Centro Empresarial recebe candidato Luciano Buligon", "url": "https://www.conectandosc.com.br/post/centro-empresarial-recebe-candidato-luciano-buligon", "veiculo": "Conectando SC", "data": "2026-09-27"},
+    {"titulo": "\"Ideologia não mata fome\", afirma Luciano Buligon (apenas linha fina acessível; matéria restrita a assinantes)", "url": "https://diregional.com.br/diario-do-iguacu/politica/2026-08-13-ideologia-nao-mata-fome-afirma-luciano-buligon", "veiculo": "Diário do Iguaçu", "data": "2026-08-13"},
+    {"titulo": "\"Menos briga e mais resultado\", diz Luciano Buligon (apenas linha fina acessível)", "url": "https://diregional.com.br/diario-do-iguacu/politica/2026-07-07-menos-briga-e-mais-resultado-diz-luciano-buligon", "veiculo": "Diário do Iguaçu", "data": "2026-07-07"},
+    {"titulo": "Pelo PDT, Luciano Buligon lança pré-candidatura para deputado estadual (apenas linha fina acessível)", "url": "https://diregional.com.br/diario-do-iguacu/politica/2026-05-22-pelo-pdt-luciano-buligon--lanca-pre-candidatura-para-deputado-estadual-", "veiculo": "Diário do Iguaçu", "data": "2026-05-22"},
+    {"titulo": "PDT filia candidatos a deputado", "url": "https://www.4oito.com.br/blog/adelor-lessa/post/pdt-filia-candidatos-a-deputado-16187", "veiculo": "4oito (blog Adelor Lessa)", "data": "2026-04-02"},
+    {"titulo": "Luciano Buligon", "url": "https://pt.wikipedia.org/wiki/Luciano_Buligon", "veiculo": "Wikipédia", "data": ""},
+    {"titulo": "Prefeito de Chapecó é expulso do partido", "url": "https://ocp.news/politica/prefeito-de-chapeco-e-expulso-do-partido", "veiculo": "OCP News", "data": "2018-09-18"},
+    {"titulo": "Chapecó abraça polarização entre PL e PT e dá limites à transferência de votos de João Rodrigues", "url": "https://upiara.com.br/upiara-online/chapeco-abraca-polarizacao-entre-pl-e-pt-e-da-limites-a-transferencia-de-votos-de-joao-rodrigues/", "veiculo": "Portal Upiara", "data": "2022-10-18"},
+    {"titulo": "Prefeito de Chapecó agora é PSL; prefeito de Quilombo deve se filiar também", "url": "https://www.minutta.com.br/noticias/prefeito-de-chapeco-agora-e-psl-prefeito-de-quilombo-deve-se-filiar-tambem", "veiculo": "Minutta", "data": "2020-02"},
+    {"titulo": "Luciano Buligon (PDT): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/luciano-buligon", "veiculo": "Jornal Razão", "data": ""},
+    {"titulo": "Luciano Buligon 10777 - Candidato a deputado estadual de SC pelo Republicanos", "url": "https://ndmais.com.br/eleicoes-2022/candidatos/sc/deputado-estadual/10777-luciano-buligon/", "veiculo": "ND+", "data": "2022"},
+    {"titulo": "Janela partidária redefine cenário político em SC com renúncias, filiações e articulações para 2026", "url": "https://post.tv.br/2026/04/04/janela-partidaria-redefine-cenario-politico-em-sc-com-renuncias-filiacoes-e-articulacoes-para-2026/", "veiculo": "Post TV", "data": "2026-04-04"}
+  ]
+}

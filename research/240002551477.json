@@ -1,0 +1,433 @@
+{
+  "id": "240002551477",
+  "urna": "Mário Motta",
+  "cargo": "Deputado estadual",
+  "partido": "PSD",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "alta",
+  "resumo": "Deputado estadual do PSD em primeiro mandato, ex-apresentador do Jornal do Almoço por 36 anos, que busca a reeleição com o movimento 'Pelos Filhos e Netos'. O mandato se apresenta centrado em fiscalização de contratos do Executivo (mais de 700 contratos acompanhados, segundo o próprio gabinete) e na distribuição de emendas impositivas por edital técnico. É autor das leis estaduais sobre IA na administração pública (19.450/2025), apadrinhamento afetivo e da 'Lei Orelha' contra maus-tratos a animais.",
+  "perfil": "Mario Pinto da Motta Junior, 74 anos, nascido no interior de São Paulo, formado em Educação Física; mudou-se para SC em 1975 (Lages), atuou em rádio e TV e foi apresentador do Jornal do Almoço (RBS/NSC) e comentarista de rádio por 36 anos. Eleito deputado estadual pelo PSD em 2022 com 56.363 votos, recebidos em 276 dos 295 municípios, e se define como deputado 'estadualizado', com base principal na Grande Florianópolis (diz ter construído a vida na capital há mais de 40 anos). Candidato à reeleição em 2026 (número 55555) e pré-candidatura lançada em agosto de 2026 (movimento 'Pelos Filhos e Netos'). Mantém um setor de fiscalização no gabinete e um programa de 'Emendas Participativas' desde 2023.",
+  "temas": {
+    "costumes": {
+      "nota": 1,
+      "evidencia": "Nenhuma pauta moral/religiosa encontrada. Única interface tangencial é a lei de apadrinhamento afetivo de crianças e adolescentes (Lei 19.753/2026), de caráter social.",
+      "fontes": [
+        0
+      ]
+    },
+    "desenvolvimento": {
+      "nota": 6,
+      "evidencia": "Fiscalização das obras de contenção do Morro dos Cavalos na BR-101 (27 encostas previstas em aditivo de 2013, só 2 com intervenção até 2019) e moção à ANTT; pedido de informação sobre a revitalização asfáltica da SC-108; proposta de enterrar a fiação aérea em Florianópolis.",
+      "fontes": [
+        5,
+        7,
+        16,
+        17
+      ]
+    },
+    "educacao": {
+      "nota": 5,
+      "evidencia": "Grande parte da fiscalização mira a Secretaria de Educação: notebooks (lote de R$ 46 mi com preço unitário maior, levado aos órgãos competentes), uniformes escolares (R$ 138 mi, licitação suspensa), dedetização e desratização das escolas. Na plataforma, cita programas de intercâmbio (120 jovens estudando na Ásia).",
+      "fontes": [
+        0,
+        6,
+        7,
+        13
+      ]
+    },
+    "industria": {
+      "nota": 1,
+      "evidencia": "Apresentou balanço e propostas à Acif (associação comercial e industrial), mas não encontramos proposta de política industrial.",
+      "fontes": [
+        0
+      ]
+    },
+    "economia": {
+      "nota": 5,
+      "evidencia": "Foco na qualidade do gasto público por meio de fiscalização (impacto estimado de R$ 290 mi pelo gabinete) e propõe isenção de IPVA para motoristas de aplicativo MEI (PL 273/2026). Pedido de informação sobre desburocratização e incentivos do programa SC Inovadora.",
+      "fontes": [
+        4,
+        7,
+        9
+      ]
+    },
+    "tecnologia": {
+      "nota": 7,
+      "evidencia": "Autor do PL 49/2024, transformado na Lei 19.450/2025 (princípios e diretrizes para uso de IA na administração pública estadual, com sandbox regulatório). Pedido de informação detalhado sobre o programa SC Inovadora, a Rede Catarinense de Centros de Inovação e o SC 5G.",
+      "fontes": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "nacionalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "seguranca": {
+      "nota": 2,
+      "evidencia": "Lei Orelha amplia penas administrativas para maus-tratos a animais cometidos por menores, com responsabilização dos pais. O site cita ainda uma proposta contra a violência em estádios com punição individual.",
+      "fontes": [
+        14,
+        15,
+        18
+      ]
+    },
+    "saude": {
+      "nota": 3,
+      "evidencia": "Lei 19.238/2025 (fisioterapia de reabilitação para mulheres mastectomizadas); pedido de informação sobre os protocolos do Instituto de Psiquiatria de SC.",
+      "fontes": [
+        0,
+        17
+      ]
+    },
+    "agro": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "ambiente": {
+      "nota": 6,
+      "evidencia": "Autor do PL 460/2026 (Política Estadual de Resiliência Climática); cobrou a não execução de R$ 6,7 mi de investimentos da Defesa Civil em 2025 e a implementação do plano JICA para o Vale do Itajaí; plataforma propõe Trombudo Central como primeira 'cidade-esponja' e ações de proteção animal (castração, microchipagem).",
+      "fontes": [
+        10,
+        13,
+        19,
+        20
+      ]
+    },
+    "social": {
+      "nota": 5,
+      "evidencia": "Lei do apadrinhamento afetivo (19.753/2026), fisioterapia para mastectomizadas, proposta de acomodações sensoriais para pessoas com autismo, programas de proteção animal e parcerias privadas para programas sociais.",
+      "fontes": [
+        0,
+        13,
+        18
+      ]
+    },
+    "transparencia": {
+      "nota": 9,
+      "evidencia": "Eixo central do mandato: diz ter acompanhado mais de 700 contratos (R$ 2,3 bi), feito 193 pedidos de informação e 354 indicações, e distribui as emendas por edital técnico público.",
+      "fontes": [
+        0,
+        7,
+        8
+      ]
+    },
+    "municipalismo": {
+      "nota": 5,
+      "evidencia": "Diz ser deputado 'estadualizado' (votos em 276 municípios); emendas por edital com prioridade para regiões de menor IDH (118 instituições em 74 municípios na edição 2025); forte atuação em temas de Florianópolis e da Grande Florianópolis.",
+      "fontes": [
+        1,
+        8,
+        16
+      ]
+    }
+  },
+  "eixos": {
+    "economia": {
+      "valor": 1,
+      "evidencia": "Defende qualidade e controle do gasto público e propõe uma isenção pontual de IPVA para MEIs de aplicativo; cita parcerias com o setor privado para financiar programas. Não há um posicionamento ideológico explícito sobre o tamanho do Estado.",
+      "fontes": [
+        7,
+        9,
+        13
+      ]
+    },
+    "costumes": {
+      "valor": null,
+      "evidencia": "Não encontramos posicionamento em pautas morais.",
+      "fontes": []
+    },
+    "estado": {
+      "valor": null,
+      "evidencia": "Defende que o Executivo defina para onde vão os investimentos, em vez das emendas diretas; isso não indica claramente uma posição centralizadora ou descentralizadora.",
+      "fontes": [
+        0
+      ]
+    },
+    "ambiente": {
+      "valor": null,
+      "evidencia": "Atua em prevenção de desastres e resiliência climática, mas não encontramos posição no dilema entre preservação e produção.",
+      "fontes": [
+        10,
+        19
+      ]
+    },
+    "governo": {
+      "valor": null,
+      "evidencia": "Não encontramos posicionamento em relação ao governo federal atual.",
+      "fontes": []
+    }
+  },
+  "criterios": {
+    "concretude": {
+      "valor": 7,
+      "evidencia": "O histórico de fiscalização é documentado, com casos, valores e documentos oficiais (moção ao Morro dos Cavalos, pedidos de informação, leis sancionadas). O manifesto de campanha, por outro lado, é conceitual, sem metas, prazos ou orçamento.",
+      "fontes": [
+        0,
+        5,
+        7,
+        12
+      ]
+    },
+    "responsabilidadeFiscal": {
+      "valor": 6,
+      "evidencia": "Discurso e prática voltados ao combate a desperdício e sobrepreço e a critérios técnicos na distribuição de emendas ('dinheiro público retornando à sociedade de forma impessoal'). Porém propõe isenção de IPVA sem estimativa de impacto divulgada, apenas a menção a 'princípios de responsabilidade fiscal'.",
+      "fontes": [
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  "propostas": [
+    {
+      "tema": "transparencia",
+      "texto": "Continuar a fiscalização sistemática de contratos e gastos do Executivo estadual com um setor técnico do gabinete.",
+      "fontes": [
+        7,
+        13
+      ]
+    },
+    {
+      "tema": "transparencia",
+      "texto": "Manter a distribuição das emendas impositivas por edital público ('Emendas Participativas'), com avaliação técnica e prioridade para regiões de menor IDH.",
+      "fontes": [
+        0,
+        8
+      ]
+    },
+    {
+      "tema": "ambiente",
+      "texto": "Instituir a Política Estadual de Resiliência Climática (PL 460/2026), com diretrizes de prevenção de desastres, adaptação e gestão de riscos.",
+      "fontes": [
+        19
+      ]
+    },
+    {
+      "tema": "ambiente",
+      "texto": "Implantar em Trombudo Central a primeira 'cidade-esponja' de SC, como modelo replicável contra enchentes.",
+      "fontes": [
+        13
+      ]
+    },
+    {
+      "tema": "economia",
+      "texto": "Isentar de IPVA um veículo por motorista de aplicativo MEI, com ao menos 6 meses de cadastro em plataforma (PL 273/2026).",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "tema": "desenvolvimento",
+      "texto": "Retirar a fiação aérea das ruas de Florianópolis, levando cabos para o subsolo com planejamento e parceria com o setor privado.",
+      "fontes": [
+        16
+      ]
+    },
+    {
+      "tema": "social",
+      "texto": "Transformar em políticas de Estado programas citados na plataforma (ex.: intercâmbio de jovens na Ásia, financiado por parceria privada de R$ 2 mi).",
+      "fontes": [
+        13
+      ]
+    },
+    {
+      "tema": "social",
+      "texto": "Ampliar castração, microchipagem e distribuição de ração, além de criar abrigos comunitários para animais.",
+      "fontes": [
+        13
+      ]
+    }
+  ],
+  "historico": [
+    {
+      "texto": "Eleito deputado estadual em 2022 pelo PSD com 56.363 votos, recebidos em 276 dos 295 municípios; jornalista por 36 anos antes da política.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "texto": "Autor do PL 49/2024, que se tornou a Lei 19.450/2025, com princípios e diretrizes para o uso de IA na administração pública estadual.",
+      "fontes": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "texto": "Autor das leis 19.238/2025 (fisioterapia para mastectomizadas) e 19.753/2026 (apadrinhamento afetivo); segundo o gabinete, 9 leis sancionadas.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "texto": "Autor da 'Lei Orelha' (PL 10/2026), aprovada na Alesc em junho de 2026, que endurece punições a maus-tratos a animais por menores e responsabiliza os pais. Também colheu assinaturas para uma CPI sobre o caso.",
+      "fontes": [
+        14,
+        15
+      ]
+    },
+    {
+      "texto": "Segundo o próprio balanço: mais de 700 contratos monitorados, 193 pedidos de informação, 354 indicações e um impacto financeiro estimado entre R$ 290 mi e R$ 295 mi.",
+      "fontes": [
+        0,
+        7
+      ]
+    },
+    {
+      "texto": "Moção à ANTT sobre o Morro dos Cavalos (BR-101): das 27 encostas previstas em aditivo de 2013 (prazo fev/2019), só 2 receberam intervenção; os pontos 38 e 41, que deslizaram em abril de 2024, seguem sem projeto aprovado.",
+      "fontes": [
+        5,
+        7
+      ]
+    },
+    {
+      "texto": "Pedidos de informação sobre o programa SC Inovadora (Centros de Inovação, SC 5G), a dedetização em escolas, a Defesa Civil (R$ 6,7 mi não executados em 2025), a SC-108 e o Instituto de Psiquiatria.",
+      "fontes": [
+        4,
+        6,
+        17,
+        20
+      ]
+    },
+    {
+      "texto": "Emendas Participativas: 483 projetos inscritos no primeiro edital (2023); na edição 2025, 1.305 inscrições e 118 instituições selecionadas em 74 municípios (cerca de R$ 19,4 mi).",
+      "fontes": [
+        8
+      ]
+    }
+  ],
+  "pontosAtencao": [],
+  "fontes": [
+    {
+      "titulo": "Mário Motta apresenta balanço do mandato e propostas a diretores e associados da Acif",
+      "url": "https://www.portalmariomotta.com/post/m%C3%A1rio-motta-apresenta-balan%C3%A7o-do-mandato-e-propostas-a-diretores-e-associados-da-acif",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": "2026-09-23"
+    },
+    {
+      "titulo": "Mário Motta destaca mandato estadualizado e analisa cenário político do PSD",
+      "url": "https://rco.com.br/noticias/politica/mario-motta-destaca-mandato-estadualizado-e-analisa-cenario-politico-do-psd",
+      "veiculo": "RCO",
+      "data": "2025-08-21"
+    },
+    {
+      "titulo": "Lei Nº 19.450 de 05/09/2025 (SC) - IA na Administração Pública Estadual",
+      "url": "https://www.legisweb.com.br/legislacao/?id=483267",
+      "veiculo": "LegisWeb",
+      "data": "2025-09-05"
+    },
+    {
+      "titulo": "Relatório e Voto ao Projeto de Lei nº 0049/2024 (CCJ) - autor Deputado Mário Motta",
+      "url": "https://portalelegis.alesc.sc.gov.br/documentos/Y9Ej7",
+      "veiculo": "ALESC",
+      "data": ""
+    },
+    {
+      "titulo": "Pedido de Informação ao Secretário de Ciência, Tecnologia e Inovação sobre o programa Santa Catarina Inovadora",
+      "url": "https://portalelegis.alesc.sc.gov.br/documentos/52209",
+      "veiculo": "ALESC",
+      "data": ""
+    },
+    {
+      "titulo": "Moção à ANTT sobre pontos deslizados no Morro dos Cavalos (BR-101)",
+      "url": "https://portalelegis.alesc.sc.gov.br/documentos/Dy8mn",
+      "veiculo": "ALESC",
+      "data": ""
+    },
+    {
+      "titulo": "Informação nº 398/2024 SED/DINE - resposta a Pedido de Informação sobre dedetização e desratização das escolas",
+      "url": "https://portalelegis.alesc.sc.gov.br/documentos/Kgrj0",
+      "veiculo": "ALESC / Secretaria de Estado da Educação",
+      "data": "2024-06-17"
+    },
+    {
+      "titulo": "Mário Motta apresenta resultados do mandato com impacto de R$ 290 milhões nas contas públicas",
+      "url": "https://www.portalmariomotta.com/post/m%C3%A1rio-motta-apresenta-resultados-do-mandato-com-impacto-de-r-290-milh%C3%B5es-nas-contas-p%C3%BAblicas",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": "2026-08-06"
+    },
+    {
+      "titulo": "Apenas um deputado estadual realiza um Edital para destinar emendas parlamentares em SC",
+      "url": "https://www.portalmariomotta.com/post/apenas-um-deputado-estadual-realiza-um-edital-para-destinar-emendas-parlamentares-em-sc",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": "2026-09-25"
+    },
+    {
+      "titulo": "Deputado Mário Motta propõe isenção de IPVA para motoristas de aplicativo em SC",
+      "url": "https://www.portalmariomotta.com/post/deputado-m%C3%A1rio-motta-prop%C3%B5e-isen%C3%A7%C3%A3o-de-ipva-para-motoristas-de-aplicativo-em-sc",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": "2026-06-02"
+    },
+    {
+      "titulo": "Mário Motta cobra esclarecimentos sobre falta de investimentos na Defesa Civil de SC",
+      "url": "https://www.portalmariomotta.com/post/m%C3%A1rio-motta-cobra-esclarecimentos-sobre-falta-de-investimentos-na-defesa-civil-de-sc",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": "2026-06-25"
+    },
+    {
+      "titulo": "Mário Motta lança pré-candidatura à reeleição com manifesto voltado às próximas gerações",
+      "url": "https://www.portalmariomotta.com/post/m%C3%A1rio-motta-lan%C3%A7a-pr%C3%A9-candidatura-%C3%A0-reelei%C3%A7%C3%A3o-com-manifesto-voltado-%C3%A0s-pr%C3%B3ximas-gera%C3%A7%C3%B5es",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": "2026-07-28"
+    },
+    {
+      "titulo": "Pelos Filhos e Netos: Mário Motta convoca catarinenses a pensar nas próximas gerações e apresenta manifesto pelo futuro de SC",
+      "url": "https://www.portalmariomotta.com/post/pelos-filhos-e-netos-m%C3%A1rio-motta-convoca-catarinenses-a-pensar-nas-pr%C3%B3ximas-gera%C3%A7%C3%B5es-e-apresenta-ma",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": "2026-07-23"
+    },
+    {
+      "titulo": "Pelos Filhos e Netos - plataforma de campanha",
+      "url": "https://pelosfilhosenetos.com.br",
+      "veiculo": "Site de campanha",
+      "data": ""
+    },
+    {
+      "titulo": "Santa Catarina pode ganhar Lei Orelha de proteção aos animais",
+      "url": "https://www.congressoemfoco.com.br/noticia/115870/santa-catarina-pode-ganhar-lei-orelha-de-protecao-aos-animais",
+      "veiculo": "Congresso em Foco",
+      "data": "2026-01-27"
+    },
+    {
+      "titulo": "Lei Orelha aprovada na Alesc; deputado pressiona CPI e revisão da investigação do caso",
+      "url": "https://www.gazetadopovo.com.br/santa-catarina/lei-orelha-aprovada-alesc-deputado-pressiona-cpi-revisao-investigacao-do-caso/",
+      "veiculo": "Gazeta do Povo",
+      "data": "2026-06-12"
+    },
+    {
+      "titulo": "Mário Motta propõe projeto para retirar fiação aérea das ruas de Florianópolis",
+      "url": "https://www.portalmariomotta.com/post/m%C3%A1rio-motta-prop%C3%B5e-projeto-para-retirar-fia%C3%A7%C3%A3o-a%C3%A9rea-das-ruas-de-florian%C3%B3polis",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": ""
+    },
+    {
+      "titulo": "Ata da 028ª Sessão Extraordinária da 4ª Sessão Legislativa da 20ª Legislatura (9/6/2026)",
+      "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/3ff8498e-0865-4a83-8fec-5001898a72e7",
+      "veiculo": "ALESC",
+      "data": "2026-06-09"
+    },
+    {
+      "titulo": "Portal Mário Motta - página inicial",
+      "url": "https://www.portalmariomotta.com/",
+      "veiculo": "Portal Mário Motta (site oficial)",
+      "data": ""
+    },
+    {
+      "titulo": "Requerimento de Diligência ao Projeto de Lei nº 0460/2026 (Política Estadual de Resiliência Climática) - autor Deputado Mário Motta",
+      "url": "https://portalelegis.alesc.sc.gov.br/documentos/GVgVe",
+      "veiculo": "ALESC",
+      "data": ""
+    },
+    {
+      "titulo": "Pedido de Informação ao Secretário de Proteção e Defesa Civil sobre recursos de prevenção e o plano JICA",
+      "url": "https://portalelegis.alesc.sc.gov.br/documentos/n2Yay",
+      "veiculo": "ALESC",
+      "data": ""
+    }
+  ]
+}
