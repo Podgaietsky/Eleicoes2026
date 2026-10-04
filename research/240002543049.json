@@ -1,0 +1,46 @@
+{
+  "id": "240002543049",
+  "urna": "Djeiksson Stringhini",
+  "cargo": "Deputado federal",
+  "partido": "DC",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "baixa",
+  "resumo": "Djeiksson Felipe Prior Stringhini, 30 anos, engenheiro natural de São Miguel do Oeste (Extremo Oeste de SC), disputa pela primeira vez uma eleição, como candidato a deputado federal pela Democracia Cristã (DC, chapa isolada). Não foram encontradas propostas ou bandeiras públicas do candidato em fontes acessíveis; sua presença registrada na imprensa limita-se à participação no debate da Rádio Peperi com candidatos a deputado federal.",
+  "perfil": "Nascido em 01/02/1996 em São Miguel do Oeste/SC; ensino superior completo e ocupação declarada ao TSE de engenheiro. Resultado de busca associa seu nome a uma formatura do curso de Agronomia do IFRS Campus Sertão (página não pôde ser aberta para confirmação). Consta em decreto da Prefeitura de Palma Sola/SC (jun/2026) entre os classificados do processo seletivo 007/2026 para engenheiro agrônomo. Sem mandatos ou cargos eletivos anteriores; não concorreu em 2022 e, segundo o perfil no ND+, esta é sua primeira candidatura. Solteiro; declarou um único bem (VW Saveiro, R$ 45 mil). Base eleitoral provável no Extremo Oeste catarinense (região de São Miguel do Oeste), onde participou de debate regional. Nenhuma filiação partidária anterior encontrada.",
+  "temas": {
+    "costumes": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "desenvolvimento": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "educacao": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "industria": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "economia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "tecnologia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "saude": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "agro": {"nota": 0, "evidencia": "Sem menção encontrada em discurso ou propostas (há apenas indício de formação em Agronomia, o que não é posicionamento)", "fontes": []},
+    "ambiente": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "social": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "transparencia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "municipalismo": {"nota": 0, "evidencia": "Sem menção encontrada em propostas; participou de debate regional em São Miguel do Oeste, mas o conteúdo de suas falas não foi encontrado", "fontes": [3]}
+  },
+  "eixos": {
+    "economia": {"valor": null, "evidencia": "Sem evidência encontrada", "fontes": []},
+    "costumes": {"valor": null, "evidencia": "Sem evidência encontrada", "fontes": []},
+    "estado": {"valor": null, "evidencia": "Sem evidência encontrada", "fontes": []},
+    "ambiente": {"valor": null, "evidencia": "Sem evidência encontrada", "fontes": []},
+    "governo": {"valor": null, "evidencia": "Sem evidência encontrada", "fontes": []}
+  },
+  "propostas": [],
+  "historico": [
+    {"texto": "Participou em 05/09/2026 do debate da Rádio Peperi com 11 candidatos a deputado federal, no Cine Peperi, em São Miguel do Oeste, representando o DC.", "fontes": [3]}
+  ],
+  "pontosAtencao": [],
+  "fontes": [
+    {"titulo": "Djeiksson Stringhini (DC) 2730 - Deputado federal SC - Eleições 2026", "url": "https://ndmais.com.br/eleicoes/2026/candidatos/sc/deputado-federal/2730-djeiksson-stringhini/", "veiculo": "ND+", "data": ""},
+    {"titulo": "Djeiksson Stringhini (DC) 2730 - Candidatos Eleições 2026", "url": "https://www.tribunapr.com.br/eleicoes/2026/candidatos/sc/deputado-federal/djeiksson-stringhini-dc-2730/", "veiculo": "Tribuna do Paraná", "data": ""},
+    {"titulo": "Candidatos a Deputado federal de Santa Catarina (SC) - Eleições 2026", "url": "https://ndmais.com.br/eleicoes/2026/candidatos/sc/deputado-federal/", "veiculo": "ND+", "data": ""},
+    {"titulo": "Peperi realiza hoje debate com 11 candidatos a deputado federal", "url": "https://peperi.com.br/noticia-detalhes/peperi-realiza-hoje-debate-com-11-candidatos-a-deputado-federal", "veiculo": "Peperi.com.br", "data": "2026-09-05"},
+    {"titulo": "Decreto nº 233/2026 - Homologa o resultado definitivo geral do Processo Seletivo nº 007/2026 (Prefeitura de Palma Sola)", "url": "https://anexos-r2.selecao.net.br/uploads/98/concursos/2512/anexos/de4cbbb7-9db7-461e-ab59-d66773190ca6.pdf", "veiculo": "Prefeitura Municipal de Palma Sola", "data": "2026-06-08"},
+    {"titulo": "Campus realiza solenidade de formatura do curso de Agronomia", "url": "https://ifrs.edu.br/sertao/campus-realiza-solenidade-de-formatura-do-curso-de-agronomia/", "veiculo": "IFRS Campus Sertão", "data": ""}
+  ]
+}

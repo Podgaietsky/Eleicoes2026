@@ -1,0 +1,138 @@
+{
+  "id": "240002552940",
+  "urna": "Engenheira Silvana Silvano",
+  "cargo": "Deputado federal",
+  "partido": "SOLIDARIEDADE",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "baixa",
+  "resumo": "Silvana da Silva Silvano, 48 anos, engenheira natural de Jaguaruna (sul de SC), disputa pela primeira vez uma eleição, como candidata a deputada federal pelo Solidariedade (Federação Renovação Solidária), número 7712. Não foram encontradas propostas, entrevistas ou plataforma pública em fontes acessíveis; a imprensa regional a lista entre os candidatos da região da Amurel.",
+  "perfil": "Engenheira, com ensino superior completo, natural de Jaguaruna/SC, solteira, 48 anos (nascida em 1978). Segundo o perfil do ND+ com dados do TSE, é sua primeira candidatura registrada; não aparece nos cadastros de candidatos do TSE em SC para 2016, 2020 e 2024 (verificação nos dados abertos). Não declarou bens. É apontada pela Folha Regional como um dos nove nomes da região da Amurel (Associação de Municípios da Região de Laguna) na disputa federal. Até a prestação parcial de contas, recebeu R$ 46 mil do Fundo Partidário via PRD, sem despesas declaradas. Não foram encontradas informações sobre filiações anteriores, cargos públicos ou atuação profissional específica.",
+  "temas": {
+    "costumes": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "desenvolvimento": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "educacao": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "industria": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "economia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "tecnologia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "nacionalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "seguranca": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "saude": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "agro": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "ambiente": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "social": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "transparencia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "municipalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    }
+  },
+  "eixos": {
+    "economia": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    },
+    "costumes": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    },
+    "estado": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    },
+    "ambiente": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    },
+    "governo": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    }
+  },
+  "propostas": [],
+  "historico": [],
+  "pontosAtencao": [],
+  "fontes": [
+    {
+      "titulo": "Sul de SC coloca 20 candidatos na disputa por vagas na Câmara dos Deputados",
+      "url": "https://folharegionalwebtv.com/cotidiano/sul-de-sc-coloca-20-candidatos-na-disputa-por-vagas-na-camara-dos-deputados-129430",
+      "veiculo": "Folha Regional",
+      "data": "2026-09-16"
+    },
+    {
+      "titulo": "Engenheira Silvana Silvano - Candidata a Deputado Federal (SC) - Eleições 2026",
+      "url": "https://ndmais.com.br/eleicoes/2026/candidatos/sc/deputado-federal/7712-engenheira-silvana-silvano/",
+      "veiculo": "ND+",
+      "data": ""
+    },
+    {
+      "titulo": "Engenheira Silvana Silvano (SOLIDARIEDADE): quanto arrecadou e no que gastou na campanha 2026",
+      "url": "https://jornalrazao.com/eleicoes-2026/contas/engenheira-silvana-silvano",
+      "veiculo": "Jornal Razão",
+      "data": "2026-10-03"
+    },
+    {
+      "titulo": "Consulta de candidatos 2024 (dados abertos)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2024.zip",
+      "veiculo": "TSE - Portal de Dados Abertos",
+      "data": ""
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "240002551670",
+  "urna": "Vagnão do Têxtil",
+  "cargo": "Deputado federal",
+  "partido": "PRD",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "baixa",
+  "resumo": "Vagner Braga Tebalde (Vagnão do Têxtil), 40 anos, engenheiro natural de Maringá (PR), disputa pela primeira vez uma vaga de deputado federal por Santa Catarina pelo PRD (Federação Renovação Solidária). O nome de urna remete ao setor têxtil, mas não foram encontradas propostas, entrevistas ou cobertura jornalística sobre suas bandeiras.",
+  "perfil": "Engenheiro, com ensino superior completo, nascido em 27/06/1986 em Maringá (PR), casado. Não concorreu em 2022 e não foram encontrados registros de mandatos, cargos públicos ou filiações partidárias anteriores. Declarou patrimônio de R$ 2.070.000 (imóveis e um veículo). A região de atuação em SC não foi confirmada por fontes; o nome de urna sugere vínculo com o setor têxtil (presente sobretudo no Vale do Itajaí e Norte catarinense), sem confirmação. A campanha declarou cerca de R$ 83,3 mil em receitas, 96% do fundo partidário/eleitoral repassado pelo partido, e R$ 21,9 mil em despesas, a maior delas para produção de vídeos.",
+  "temas": {
+    "costumes": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "desenvolvimento": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "educacao": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "industria": {
+      "nota": 2,
+      "evidencia": "O nome de urna ('do Têxtil') faz referência ao setor têxtil; não foram encontradas propostas ou falas públicas sobre o tema.",
+      "fontes": [
+        0
+      ]
+    },
+    "economia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "tecnologia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "nacionalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "seguranca": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "saude": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "agro": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "ambiente": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "social": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "transparencia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "municipalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    }
+  },
+  "eixos": {
+    "economia": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    },
+    "costumes": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    },
+    "estado": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    },
+    "ambiente": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    },
+    "governo": {
+      "valor": null,
+      "evidencia": "Sem evidência encontrada",
+      "fontes": []
+    }
+  },
+  "propostas": [],
+  "historico": [],
+  "pontosAtencao": [],
+  "fontes": [
+    {
+      "titulo": "Vagnão do Têxtil 2526 - Candidato a Deputado Federal (SC) - Eleições 2026",
+      "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/santa-catarina/deputado-federal/vagnao-do-textil-2526",
+      "veiculo": "O Tempo",
+      "data": ""
+    },
+    {
+      "titulo": "Vagnão do Têxtil (PRD): quanto arrecadou e no que gastou na campanha 2026",
+      "url": "https://jornalrazao.com/eleicoes-2026/contas/vagnao-do-textil",
+      "veiculo": "Jornal Razão",
+      "data": ""
+    }
+  ]
+}

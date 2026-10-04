@@ -1,0 +1,27 @@
+{
+  "versao": 1,
+  "temas": [
+    {"k": "costumes", "nome": "Pautas morais e costumes", "desc": "Família, aborto, drogas, religião, ideologia de gênero, valores tradicionais ou progressistas"},
+    {"k": "desenvolvimento", "nome": "Desenvolvimento e infraestrutura", "desc": "Rodovias, portos, ferrovias, energia, obras, BR-101/470/282, logística"},
+    {"k": "educacao", "nome": "Educação", "desc": "Escolas, ensino técnico, universidades, professores, alfabetização"},
+    {"k": "industria", "nome": "Indústria", "desc": "Setor industrial catarinense, têxtil, metalmecânico, competitividade, emprego industrial"},
+    {"k": "economia", "nome": "Economia e gestão fiscal", "desc": "Impostos, reforma tributária, gasto público, empreendedorismo, burocracia"},
+    {"k": "tecnologia", "nome": "Tecnologia, IA e inovação", "desc": "Inteligência artificial, startups, conectividade, transformação digital, ciência"},
+    {"k": "nacionalismo", "nome": "Nacionalismo e soberania", "desc": "Patriotismo, soberania nacional, Forças Armadas, fronteiras, relações exteriores"},
+    {"k": "seguranca", "nome": "Segurança pública", "desc": "Polícia, crime organizado, penas, armas, sistema prisional"},
+    {"k": "saude", "nome": "Saúde", "desc": "SUS, hospitais, filas, saúde mental, médicos"},
+    {"k": "agro", "nome": "Agronegócio e meio rural", "desc": "Produtor rural, cooperativas, crédito agrícola, defesa sanitária, propriedade rural"},
+    {"k": "ambiente", "nome": "Meio ambiente e clima", "desc": "Preservação, desastres climáticos, enchentes, saneamento, energia limpa"},
+    {"k": "social", "nome": "Assistência social e inclusão", "desc": "Programas sociais, pessoas com deficiência, idosos, moradia, combate à pobreza"},
+    {"k": "transparencia", "nome": "Transparência e combate à corrupção", "desc": "Ética, controle de gastos, fim de privilégios, fiscalização"},
+    {"k": "municipalismo", "nome": "Municipalismo e regiões", "desc": "Repasses a municípios, descentralização, defesa de uma região específica de SC"}
+  ],
+  "eixos": [
+    {"k": "economia", "nome": "Economia", "neg": "Mais Estado", "pos": "Mais mercado", "desc": "−5 = defende Estado forte na economia, estatais, mais gasto público; +5 = defende livre mercado, privatizações, menos impostos e menos Estado"},
+    {"k": "costumes", "nome": "Costumes", "neg": "Progressista", "pos": "Conservador", "desc": "−5 = pautas progressistas (direitos LGBT, descriminalização, laicidade estrita); +5 = pautas conservadoras (família tradicional, contra aborto e drogas, valores religiosos)"},
+    {"k": "estado", "nome": "Organização do Estado", "neg": "Centralizador", "pos": "Descentralizador", "desc": "−5 = decisões e recursos concentrados na União; +5 = mais autonomia e recursos para estados e municípios"},
+    {"k": "ambiente", "nome": "Ambiente × produção", "neg": "Prioriza preservação", "pos": "Prioriza produção", "desc": "−5 = regras ambientais mais rígidas; +5 = flexibilização de regras ambientais em favor da produção"},
+    {"k": "governo", "nome": "Relação com o governo federal", "neg": "Alinhado ao governo", "pos": "Oposição ao governo", "desc": "−5 = apoia o governo federal atual; +5 = faz oposição ao governo federal atual"}
+  ],
+  "metodologia": "Cada candidato foi pesquisado em fontes públicas: site e redes sociais oficiais, entrevistas, notícias, planos de governo registrados no TSE e, quando já exerceu mandato, registros de votações e projetos de lei. A nota de foco (0 a 10) mede quanto espaço o tema ocupa no discurso e nas propostas do candidato, não se a posição é boa ou ruim. Os eixos de posicionamento (−5 a +5) só recebem valor quando há declaração ou voto que sustente; sem evidência, ficam em branco. Cada nota traz a evidência e as fontes. O nível de confiança indica quanta informação pública foi encontrada. A pesquisa é descritiva e não recomenda candidatos."
+}

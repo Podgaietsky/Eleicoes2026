@@ -1,0 +1,142 @@
+{
+  "id": "240002543548",
+  "urna": "Ricardo Becker",
+  "cargo": "Deputado estadual",
+  "partido": "MISSÃO",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "baixa",
+  "resumo": "Ricardo Becker é engenheiro de Joinville, 44 anos, candidato a deputado estadual em Santa Catarina pelo partido Missão (número 14777), em sua primeira candidatura. Não foram encontradas propostas, entrevistas ou declarações públicas do candidato em veículos de imprensa ou páginas acessíveis; suas redes sociais não puderam ser lidas.",
+  "perfil": "Nascido em Joinville (SC) em 11/06/1982, engenheiro com ensino superior completo, casado, segundo dados da candidatura divulgados pelo ND+. Primeira disputa eleitoral (não concorreu em 2022); não foram encontrados cargos públicos, mandatos ou filiações partidárias anteriores. Declarou patrimônio de R$ 1.451.625,18, incluindo imóveis em Joinville, Barra Velha e Balneário Camboriú. O partido Missão concorre isolado (sem coligação) e lançou 17 candidaturas à Alesc em SC. Campanha de baixo custo: arrecadou R$ 990 em recursos próprios, gastos quase integralmente com material impresso (adesivos e panfletos). Atuação profissional específica (empresa/entidade) não foi localizada; o LinkedIn bloqueou a leitura. Base eleitoral provável em Joinville/norte de SC (inferência pela naturalidade e imóveis, sem confirmação).",
+  "temas": {
+    "costumes": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "desenvolvimento": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "educacao": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "industria": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "economia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "tecnologia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "nacionalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "seguranca": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "saude": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "agro": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "ambiente": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "social": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "transparencia": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "municipalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    }
+  },
+  "eixos": {
+    "economia": {
+      "valor": null,
+      "evidencia": "Sem declaração do candidato encontrada. Contexto: o partido Missão foi criado em 2025 a partir do MBL, mas não foram localizadas posições do candidato para atribuir valor.",
+      "fontes": [
+        3
+      ]
+    },
+    "costumes": {
+      "valor": null,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "estado": {
+      "valor": null,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "ambiente": {
+      "valor": null,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "governo": {
+      "valor": null,
+      "evidencia": "Sem declaração do candidato encontrada. Contexto: o partido Missão foi criado em 2025 a partir do MBL, mas não foram localizadas posições do candidato para atribuir valor.",
+      "fontes": [
+        3
+      ]
+    }
+  },
+  "propostas": [],
+  "historico": [],
+  "pontosAtencao": [],
+  "fontes": [
+    {
+      "titulo": "Ricardo Becker 14777 - Candidato a deputado estadual de SC pelo MISSÃO",
+      "url": "https://ndmais.com.br/eleicoes/2026/candidatos/sc/deputado-estadual/14777-ricardo-becker/",
+      "veiculo": "ND+",
+      "data": ""
+    },
+    {
+      "titulo": "Ricardo Becker (MISSÃO): quanto arrecadou e no que gastou na campanha 2026",
+      "url": "https://jornalrazao.com/eleicoes-2026/contas/ricardo-becker",
+      "veiculo": "Jornal Razão",
+      "data": ""
+    },
+    {
+      "titulo": "Candidatos do MISSÃO em Santa Catarina nas Eleições 2026",
+      "url": "https://jornalrazao.com/eleicoes-2026/partido/missao",
+      "veiculo": "Jornal Razão",
+      "data": ""
+    },
+    {
+      "titulo": "Eleições 2026: quem é Marcelo Brigadeiro, candidato do partido Missão ao governo de SC",
+      "url": "https://www.nsctotal.com.br/?p=7985697",
+      "veiculo": "NSC Total",
+      "data": ""
+    }
+  ]
+}

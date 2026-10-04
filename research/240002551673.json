@@ -1,0 +1,45 @@
+{
+  "id": "240002551673",
+  "urna": "Guilherme Henrique",
+  "cargo": "Deputado federal",
+  "partido": "PRD",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "baixa",
+  "resumo": "Guilherme Henrique de Oliveira, 38 anos, é engenheiro e professor de cursos técnicos em Joinville, candidato a deputado federal pelo PRD (Federação PRD/Solidariedade) em sua primeira candidatura localizada. Suas propostas publicadas tratam do piso salarial nacional dos técnicos industriais, do fim do atual modelo de emendas parlamentares, de prazos para obras municipais de drenagem e da revisão da repartição de recursos da União com estados e municípios.",
+  "perfil": "Natural de Joinville, morador do bairro Boa Vista, casado e pai de dois filhos (segundo o site de campanha). Engenheiro, cursando mestrado em Engenharia Mecânica, com pós-graduações em Engenharia Ambiental e Saneamento, Engenharia da Manutenção Industrial e Docência do Ensino Técnico, além de MBA em Gestão Pública com ênfase em Cidades Inteligentes. Declara 16 anos de experiência em manutenção industrial, 14 deles no saneamento básico, e atua como professor de cursos técnicos no CEDUP (antigo CIS) de Joinville. É conselheiro suplente do Conselho Regional dos Técnicos Industriais de Santa Catarina. O site cita participação no podcast 'Cada Voto Conta', ligado ao movimento de entidades de Joinville que incentiva a eleição de deputados com base na cidade. Não foram encontrados mandatos ou cargos eletivos anteriores, candidaturas em 2020/2024 nem filiações partidárias anteriores (a consulta ao DivulgaCand do TSE foi bloqueada). Base eleitoral: Joinville e região norte de SC.",
+  "temas": {
+    "costumes": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "desenvolvimento": {"nota": 4, "evidencia": "Cita infraestrutura entre seus compromissos e propõe prazo obrigatório para obras municipais de drenagem.", "fontes": [0]},
+    "educacao": {"nota": 3, "evidencia": "Apresenta-se como educador e professor do CEDUP e afirma que 'a educação nos capacita para melhorar o mundo'; não há proposta específica para a área.", "fontes": [0]},
+    "industria": {"nota": 5, "evidencia": "Propõe destravar o piso salarial nacional dos técnicos industriais; trajetória em manutenção industrial e no conselho dos técnicos industriais.", "fontes": [0]},
+    "economia": {"nota": 3, "evidencia": "Propõe que recursos de emendas possam virar redução de imposto e defende revisão da repartição de receitas entre União, estados e municípios.", "fontes": [0]},
+    "tecnologia": {"nota": 1, "evidencia": "Menção apenas indireta, pelo MBA com ênfase em Cidades Inteligentes; sem propostas na área.", "fontes": [0]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "saude": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "agro": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "ambiente": {"nota": 5, "evidencia": "Propõe prazo legal para municípios executarem obras de drenagem, nos moldes do marco do saneamento; formação e 14 anos de atuação em saneamento básico.", "fontes": [0]},
+    "social": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "transparencia": {"nota": 6, "evidencia": "Propõe acabar com o atual modelo de emendas, que descreve como 'moeda de troca política', e cita 'mais transparência' entre os compromissos.", "fontes": [0]},
+    "municipalismo": {"nota": 8, "evidencia": "Defende autonomia dos municípios, recursos de emendas direto aos municípios e revisão da repartição federativa, além de foco em Joinville e SC.", "fontes": [0]}
+  },
+  "eixos": {
+    "economia": {"valor": null, "evidencia": "Sem posicionamento claro: propõe piso salarial nacional para uma categoria e, ao mesmo tempo, menciona redução de imposto; evidência insuficiente.", "fontes": [0]},
+    "costumes": {"valor": null, "evidencia": "Sem menção encontrada", "fontes": []},
+    "estado": {"valor": 4, "evidencia": "Defende mais recursos e autonomia para estados e municípios, com recursos de emendas indo direto aos municípios e revisão da repartição da União.", "fontes": [0]},
+    "ambiente": {"valor": null, "evidencia": "Propõe obras de drenagem e saneamento, mas não trata da relação entre preservação e produção.", "fontes": [0]},
+    "governo": {"valor": null, "evidencia": "Sem menção encontrada ao governo federal atual.", "fontes": []}
+  },
+  "propostas": [
+    {"tema": "industria", "texto": "Destravar no Congresso o piso salarial nacional dos técnicos industriais, parado há anos.", "fontes": [0]},
+    {"tema": "transparencia", "texto": "Acabar com o atual modelo de emendas: o dinheiro volta direto para os municípios ou vira redução de imposto, não moeda de troca política.", "fontes": [0]},
+    {"tema": "ambiente", "texto": "Prazo obrigatório para os municípios executarem as obras de drenagem, do mesmo jeito que a lei do saneamento já fez com o esgoto.", "fontes": [0]},
+    {"tema": "municipalismo", "texto": "Mudar a forma como a União reparte o dinheiro com estados e municípios. SC não pode continuar recebendo muito menos do que manda para Brasília.", "fontes": [0]}
+  ],
+  "historico": [],
+  "pontosAtencao": [],
+  "fontes": [
+    {"titulo": "GUILHERME HENRIQUE 2520", "url": "https://www.guilhermehenriquesc.com.br", "veiculo": "Site oficial do candidato", "data": ""},
+    {"titulo": "Iniciativa estima “potencial” de Joinville para eleição de deputados", "url": "https://www.nsctotal.com.br/?p=7770693", "veiculo": "NSC Total", "data": ""}
+  ]
+}
