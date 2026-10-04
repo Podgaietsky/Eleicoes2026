@@ -1,0 +1,505 @@
+{
+  "id": "240002533833",
+  "urna": "Professor Pedro Uczai",
+  "cargo": "Deputado federal",
+  "partido": "PT",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "alta",
+  "resumo": "Pedro Francisco Uczai (PT-SC), professor universitário e ex-prefeito de Chapecó, é deputado federal desde 2011 e tenta a reeleição em 2026. Em 2026 é líder da bancada do PT/Federação Brasil da Esperança na Câmara. O mandato concentra-se em educação (relatoria do Pé-de-Meia, PNE), agricultura familiar, municipalismo e energia renovável, com destaque para o PL 4449/2023 (Renda Básica Energética).",
+  "perfil": "Nascido em 10/03/1963 em Descanso (SC). Filiado ao PT desde 1989. Deputado estadual em SC (1997-1998, 1999-2000 e 2007-2010), prefeito de Chapecó (2002-2004) e deputado federal desde fevereiro de 2011 (4º mandato, 2023-2027). Em 2026 é líder da Federação Brasil da Esperança (PT-PCdoB-PV) na Câmara (desde 05/02/2026), 1º vice-presidente da Comissão Especial do PNE 2024-2034 e titular das comissões especiais de Inteligência Artificial e do FPM/Fundos Constitucionais Sul/Sudeste e da Comissão de Legislação Participativa; suplente em Agricultura, Ciência e Tecnologia, Educação e Sistema Portuário. Base eleitoral no Oeste catarinense (Chapecó). Patrimônio declarado ao TSE: R$ 1.612.676. Em 11/08/2026 sofreu um AVC isquêmico durante reunião na Câmara; recebeu alta em 19/08/2026 sem sequelas motoras ou cognitivas relatadas.",
+  "temas": {
+    "costumes": {
+      "nota": 4,
+      "evidencia": "Consta como autor/coautor em 2026 de projetos como a Política Nacional dos Direitos das Pessoas LGBTQIA+ (PL 2054/2026), tipificação da promoção de misoginia (PL 1006/2026) e PLs de proteção às mulheres; propôs proibição de apostas de quota fixa (PL 1808/2026, com a bancada) e restrição de propaganda de loterias (PEC 49/2025). Não é a pauta central do mandato.",
+      "fontes": [
+        19,
+        22,
+        6
+      ]
+    },
+    "desenvolvimento": {
+      "nota": 6,
+      "evidencia": "Autor do PL 4449/2023 (Renda Básica Energética), que prevê usinas solares e flutuantes em reservatórios; PLs de incentivo a painéis solares (PL 1859/2011), biogás (PL 6559/2013), cooperativas solares (PL 1707/2024), Luz na Escola (PL 4574/2024) e substituição de vagões ferroviários (PL 4965/2024).",
+      "fontes": [
+        1,
+        2,
+        4,
+        21
+      ]
+    },
+    "educacao": {
+      "nota": 9,
+      "evidencia": "Principal bandeira: relator do projeto que criou o Pé-de-Meia, 1º vice-presidente da Comissão Especial do PNE 2024-2034, autor de PLs de criação de campi de IF e universidades federais em SC, PRO-IMES para instituições municipais de ensino superior (PL 1416/2026, pronto para pauta), extensão do Pé-de-Meia a todo o ensino médio público (PL 30/2026); site cita autoria da Lei do Artigo 170 (bolsas) em SC.",
+      "fontes": [
+        0,
+        6,
+        13,
+        18,
+        19
+      ]
+    },
+    "industria": {
+      "nota": 2,
+      "evidencia": "Pouca ênfase em indústria; propostas correlatas são de empresas estatais (TerraBras para minerais críticos, PL 1754/2026; estatal de distribuição de combustíveis, PL 1853/2026, ambos coletivos da bancada) e incentivo à produção nacional de tecnologia solar no Rebe.",
+      "fontes": [
+        19,
+        4
+      ]
+    },
+    "economia": {
+      "nota": 6,
+      "evidencia": "Autor do PLP 5/2026 (Imposto sobre Grandes Fortunas) e do PLP 206/2024 (CIDE sobre grandes fortunas para fundo educacional); defende redução da jornada/fim da escala 6x1 (PEC 8/2025, PL 3197/2025); liderou o PL 5042/2026 que exclui despesas de capital de autarquias dos limites de gasto; votou Sim ao arcabouço fiscal (PLP 93/2023).",
+      "fontes": [
+        17,
+        21,
+        19,
+        12,
+        15,
+        11
+      ]
+    },
+    "tecnologia": {
+      "nota": 4,
+      "evidencia": "Titular da Comissão Especial de Inteligência Artificial e suplente na Comissão de Ciência, Tecnologia e Inovação; autor de PLs sobre idade mínima em redes sociais (PL 29/2026), desinformação em plataformas (PL 4144/2024), responsabilização de plataformas por uso de dados (PL 4976/2024) e uso responsável da tecnologia (PL 3354/2023).",
+      "fontes": [
+        0,
+        19,
+        21,
+        23
+      ]
+    },
+    "nacionalismo": {
+      "nota": 4,
+      "evidencia": "Apresentou, com mais de 60 parlamentares, a Lei de Proteção da Soberania Econômica Nacional contra medidas estrangeiras extraterritoriais (PL 5076/2026) e coassina a TerraBras 'destinada à defesa da soberania nacional' sobre minerais críticos (PL 1754/2026).",
+      "fontes": [
+        19
+      ]
+    },
+    "seguranca": {
+      "nota": 2,
+      "evidencia": "Atuação limitada: PLs sobre proteção a mulheres em situação de violência (PL 260/2026, Lei Cidade Segura para Mulheres PL 965/2026) e Programa de Segurança e Acolhimento à Mulher (PL 4626/2023).",
+      "fontes": [
+        19,
+        23
+      ]
+    },
+    "saude": {
+      "nota": 4,
+      "evidencia": "PLs sobre atendimento integral a pessoas com TEA no SUS (PL 4915/2024), reabilitação para transtornos do neurodesenvolvimento (PL 113/2026), saúde mental no ambiente de apostas (PL 2478/2026); site destaca alerta sobre a 'epidemia das bets'; emendas aprovadas para saúde em SC.",
+      "fontes": [
+        0,
+        6,
+        19,
+        21
+      ]
+    },
+    "agro": {
+      "nota": 6,
+      "evidencia": "Foco na agricultura familiar: subvenção a produtores de leite (PL 5213/2023), crédito para equipamentos renováveis na agricultura familiar (PL 6325/2016), amparo à agricultura familiar após enchentes de 2024 (PL 1875/2024), sementes crioulas (PL 1858/2011); suplente na Comissão de Agricultura; site cita defesa do setor leiteiro.",
+      "fontes": [
+        0,
+        1,
+        6,
+        21,
+        23
+      ]
+    },
+    "ambiente": {
+      "nota": 5,
+      "evidencia": "Energia renovável (Rebe, biogás, solar); PEC 20/2024 de regime extraordinário para calamidades; votou Não às emendas do Senado e à redação final do novo marco do licenciamento ambiental (PL 2159/2021) em julho de 2025.",
+      "fontes": [
+        4,
+        16,
+        21
+      ]
+    },
+    "social": {
+      "nota": 7,
+      "evidencia": "Rebe substitui a Tarifa Social por energia solar para ~17 milhões de famílias; PEC 14/2024 do direito aos cuidados; PLs para mães cuidadoras de PcD (PL 114/2026), acessibilidade, Minha Casa Minha Vida para profissionais da educação (PL 963/2024), fundo contra inadimplência condominial (PL 4818/2024).",
+      "fontes": [
+        3,
+        19,
+        21
+      ]
+    },
+    "transparencia": {
+      "nota": 5,
+      "evidencia": "Coautor (2ª assinatura) do PL 3401/2025 sobre aplicação do teto remuneratório; PLP 65/2026 amplia quarentena de dirigentes do Banco Central; PL 3479/2026 do Registro Nacional de Beneficiários Finais; votou Não à PEC 3/2021 ('PEC da Blindagem') em 2025; promove orçamento participativo para destinar emendas.",
+      "fontes": [
+        20,
+        19,
+        14,
+        6
+      ]
+    },
+    "municipalismo": {
+      "nota": 7,
+      "evidencia": "Ex-prefeito de Chapecó com base no Oeste; PEC 339/2017 (+1% no FPM), coautor da PEC 27/2023 (FPM e fundos constitucionais Sul/Sudeste), PLP 242/2023 (compensação de perdas do FPM); titular da comissão especial do FPM; PLs de campi de IF em Sombrio, São Lourenço do Oeste e Abelardo Luz e Universidade Federal do Contestado; orçamento participativo por territórios de SC.",
+      "fontes": [
+        0,
+        1,
+        6,
+        7,
+        23
+      ]
+    }
+  },
+  "eixos": {
+    "economia": {
+      "valor": -4,
+      "evidencia": "Propõe Imposto sobre Grandes Fortunas, criação de estatais (combustíveis, minerais críticos), plebiscito antes de privatizações (PEC 248/2013), redução da jornada; por outro lado votou a favor do arcabouço fiscal.",
+      "fontes": [
+        1,
+        15,
+        17,
+        19
+      ]
+    },
+    "costumes": {
+      "valor": -3,
+      "evidencia": "Consta em PLs de política LGBTQIA+ e contra misoginia; ao mesmo tempo defende restrições a apostas e propaganda de loterias.",
+      "fontes": [
+        19,
+        22
+      ]
+    },
+    "estado": {
+      "valor": 1,
+      "evidencia": "Defende mais repasses a municípios (FPM) e orçamento participativo regional, mas também propõe programas e estatais federais.",
+      "fontes": [
+        1,
+        6,
+        23,
+        19
+      ]
+    },
+    "ambiente": {
+      "valor": -2,
+      "evidencia": "Votou contra a flexibilização do licenciamento ambiental e prioriza renováveis, mantendo pauta de apoio à produção da agricultura familiar.",
+      "fontes": [
+        16,
+        4,
+        21
+      ]
+    },
+    "governo": {
+      "valor": -5,
+      "evidencia": "Líder do PT/Federação na Câmara em 2026, defende programas do governo Lula (Pé-de-Meia) e a pauta do fim da escala 6x1.",
+      "fontes": [
+        0,
+        13,
+        11
+      ]
+    }
+  },
+  "criterios": {
+    "concretude": {
+      "valor": 7,
+      "evidencia": "Rebe (PL 4449/2023) traz mecanismo, horizonte de 10 anos, operador (ENBPar/cooperativas) e fontes (CDE, BNDES, OGU, Itaipu); urgência aprovada e matéria aprovada na Câmara em maio de 2024 na forma de substitutivo; relatoria do Pé-de-Meia virou lei. Site não apresenta plano de campanha 2026 detalhado.",
+      "fontes": [
+        2,
+        3,
+        4,
+        5,
+        13,
+        6
+      ]
+    },
+    "responsabilidadeFiscal": {
+      "valor": 3,
+      "evidencia": "Indica fonte de recursos no Rebe e votou a favor do arcabouço fiscal; porém propôs anular o teto de gastos em saúde, educação e segurança (PEC 373/2017) e liderou o PL 5042/2026 para excluir despesas de capital de autarquias dos limites de gasto; o Rebe estima R$ 56 bi em investimentos sem análise de impacto fiscal divulgada.",
+      "fontes": [
+        1,
+        3,
+        12,
+        15
+      ]
+    }
+  },
+  "propostas": [
+    {
+      "tema": "desenvolvimento",
+      "texto": "Programa Renda Básica Energética (Rebe): substituir gradualmente a Tarifa Social de Energia por usinas solares (inclusive flutuantes em reservatórios) para famílias de baixa renda, financiadas com recursos da CDE (~R$ 6 bi/ano), bancos públicos e União, em 10 anos.",
+      "fontes": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "tema": "educacao",
+      "texto": "PRO-IMES: programa de apoio às Instituições Municipais de Educação Superior (PL 1416/2026), relevante para o sistema ACAFE em SC.",
+      "fontes": [
+        18
+      ]
+    },
+    {
+      "tema": "educacao",
+      "texto": "Estender o incentivo do Pé-de-Meia a todos os estudantes do ensino médio público (PL 30/2026).",
+      "fontes": [
+        19
+      ]
+    },
+    {
+      "tema": "economia",
+      "texto": "Instituir o Imposto sobre Grandes Fortunas (PLP 5/2026).",
+      "fontes": [
+        17
+      ]
+    },
+    {
+      "tema": "economia",
+      "texto": "Excluir despesas de capital e parte das despesas custeadas com receitas próprias de autarquias federais dos limites de gasto (PL 5042/2026).",
+      "fontes": [
+        12
+      ]
+    },
+    {
+      "tema": "municipalismo",
+      "texto": "Ampliar repasses do FPM e criar fundos constitucionais para Sul e Sudeste (PEC 27/2023, coautor; PEC 339/2017).",
+      "fontes": [
+        1,
+        23
+      ]
+    },
+    {
+      "tema": "nacionalismo",
+      "texto": "Lei de Proteção da Soberania Econômica Nacional contra medidas estrangeiras extraterritoriais (PL 5076/2026).",
+      "fontes": [
+        19
+      ]
+    },
+    {
+      "tema": "transparencia",
+      "texto": "Disciplinar nacionalmente a aplicação do teto remuneratório de agentes públicos (PL 3401/2025, coautor) e criar Registro Nacional de Beneficiários Finais (PL 3479/2026).",
+      "fontes": [
+        20,
+        19
+      ]
+    },
+    {
+      "tema": "tecnologia",
+      "texto": "Fixar idade mínima para contas em redes sociais e vedar exposição de crianças (PL 29/2026).",
+      "fontes": [
+        19
+      ]
+    },
+    {
+      "tema": "agro",
+      "texto": "Linhas de crédito para equipamentos de energia renovável na agricultura familiar (PL 6325/2016) e cooperativas solares com garantia de risco (PL 1707/2024).",
+      "fontes": [
+        1,
+        21
+      ]
+    }
+  ],
+  "historico": [
+    {
+      "texto": "Prefeito de Chapecó (2002-2004); deputado estadual em SC (1997-1998, 1999-2000, 2007-2010); deputado federal desde 2011.",
+      "fontes": [
+        7,
+        0
+      ]
+    },
+    {
+      "texto": "Relator na Câmara do projeto que criou o Pé-de-Meia; em fevereiro de 2025 defendeu a legalidade do programa frente ao TCU.",
+      "fontes": [
+        13
+      ]
+    },
+    {
+      "texto": "PL 4449/2023 (Rebe) teve urgência aprovada em dezembro de 2023 e foi incorporado a substitutivo aprovado pela Câmara em maio de 2024, seguindo ao Senado.",
+      "fontes": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "texto": "Votou Sim ao substitutivo do arcabouço fiscal (PLP 93/2023) em 23/05/2023.",
+      "fontes": [
+        15
+      ]
+    },
+    {
+      "texto": "Votou Não à PEC 3/2021 ('PEC da Blindagem') em primeiro e segundo turnos, em setembro de 2025.",
+      "fontes": [
+        14
+      ]
+    },
+    {
+      "texto": "Votou Não à redação final do novo licenciamento ambiental (PL 2159/2021) em 16/07/2025.",
+      "fontes": [
+        16
+      ]
+    },
+    {
+      "texto": "Em 2026: líder da Federação Brasil da Esperança na Câmara; 62 dias de presença em plenário, 7 ausências justificadas e nenhuma não justificada; R$ 21,2 milhões em emendas para saúde e desenvolvimento rural em SC.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "texto": "Sofreu AVC isquêmico em 11/08/2026 durante reunião do Colégio de Líderes, o que suspendeu votações; recebeu alta em 19/08/2026 sem déficits motores ou cognitivos relatados.",
+      "fontes": [
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "pontosAtencao": [
+    {
+      "texto": "Em 07/07/2026, ao cobrar a tramitação da PEC do fim da escala 6x1 no Senado, afirmou que Davi Alcolumbre seria tratado como 'inimigo'; Alcolumbre respondeu que não toleraria 'tentativas de intimidação ou ameaças'.",
+      "fontes": [
+        11
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Pedro Uczai - Perfil do deputado (2026)",
+      "url": "https://www.camara.leg.br/deputados/160604?ano=2026",
+      "veiculo": "Câmara dos Deputados",
+      "data": ""
+    },
+    {
+      "titulo": "Projetos de Lei",
+      "url": "https://pedrouczai.com.br/projetos-de-lei/",
+      "veiculo": "Site oficial Pedro Uczai",
+      "data": ""
+    },
+    {
+      "titulo": "Câmara aprova urgência para PL que incentiva energia solar para famílias de baixa renda",
+      "url": "https://canalsolar.com.br/camara-aprova-urgencia-para-pl-que-incentiva-energia-solar-para-familias-de-baixa-renda/",
+      "veiculo": "Canal Solar",
+      "data": "2023-12-19"
+    },
+    {
+      "titulo": "Projeto de energia solar para baixa renda é aprovado",
+      "url": "https://diariodocomercio.com.br/sustentabilidade/projeto-energia-solar-baixa-renda-aprovado/",
+      "veiculo": "Diário do Comércio",
+      "data": "2024-05-07"
+    },
+    {
+      "titulo": "Deputado propõe trocar a tarifa social por painéis solares para famílias de baixa renda",
+      "url": "https://eixos.com.br/deputado-propoe-trocar-a-tarifa-social-por-paineis-solares-para-familias-de-baixa-renda/",
+      "veiculo": "eixos",
+      "data": "2023-09-20"
+    },
+    {
+      "titulo": "PL 4449/2023 - Programa Renda Básica Energética (dados abertos)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2387421",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2023-09-13"
+    },
+    {
+      "titulo": "Pedro Uczai - página inicial",
+      "url": "https://pedrouczai.com.br/",
+      "veiculo": "Site oficial Pedro Uczai",
+      "data": ""
+    },
+    {
+      "titulo": "Pedro Uczai",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Uczai",
+      "veiculo": "Wikipedia",
+      "data": ""
+    },
+    {
+      "titulo": "Pedro Uczai, líder do PT na Câmara, é internado após AVC",
+      "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/pedro-uczai-lider-pt-camara-internado-avc/629529/",
+      "veiculo": "Portal de Prefeitura",
+      "data": "2026-08-12"
+    },
+    {
+      "titulo": "Líder do PT Pedro Uczai recebe alta após AVC e agradece pelo apoio",
+      "url": "https://www.congressoemfoco.com.br/noticia/121389/lider-do-pt-pedro-uczai-recebe-alta-apos-avc-e-agradece-pelo-apoio",
+      "veiculo": "Congresso em Foco",
+      "data": "2026-08-19"
+    },
+    {
+      "titulo": "Líder do PT passa mal e Câmara suspende votações",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lider-do-pt-passa-mal-e-camara-suspende-votacoes",
+      "veiculo": "Agência Brasil",
+      "data": "2026-08-11"
+    },
+    {
+      "titulo": "Alcolumbre sobre líder do PT na Câmara: 'esse tipo de ameaça não será tolerado'",
+      "url": "https://www.jornaldocomercio.com/politica/2026/07/1255382-alcolumbre-sobre-lider-do-pt-na-camara-esse-tipo-de-ameaca-nao-sera-tolerado.html",
+      "veiculo": "Jornal do Comércio",
+      "data": "2026-07-07"
+    },
+    {
+      "titulo": "PL 5042/2026 propõe excluir despesas de capital de limites de gasto",
+      "url": "https://atlaspublico.com.br/camara/noticias/pl-5042-2026-propoe-excluir-despesas-de-capital-de-79838",
+      "veiculo": "Atlas Público",
+      "data": "2026-08-12"
+    },
+    {
+      "titulo": "Bancada da educação defende liberação de verbas do Pé-de-Meia",
+      "url": "https://www.brasildefato.com.br/2025/02/11/bancada-da-educacao-defende-liberacao-de-verbas-do-pe-de-meia-confio-em-solucao-nos-proximos-dias-diz-deputado/",
+      "veiculo": "Brasil de Fato",
+      "data": "2025-02-11"
+    },
+    {
+      "titulo": "Votos nominais - PEC 3/2021, 1º turno (votação 2270800-135)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2025-09-16"
+    },
+    {
+      "titulo": "Votos nominais - PLP 93/2023 arcabouço fiscal (votação 2357053-47)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2023-05-23"
+    },
+    {
+      "titulo": "Votos nominais - PL 2159/2021 licenciamento ambiental, redação final (votação 257161-483)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2025-07-16"
+    },
+    {
+      "titulo": "PLP 5/2026 - Imposto sobre Grandes Fortunas",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2600263",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2026-02-02"
+    },
+    {
+      "titulo": "PL 1416/2026 - Instituições Municipais de Educação Superior (PRO-IMES)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612027",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2026-03-25"
+    },
+    {
+      "titulo": "Proposições de autoria de Pedro Uczai em 2026",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=160604&siglaTipo=PL,PEC,PLP&ano=2026",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": ""
+    },
+    {
+      "titulo": "PL 3401/2025 - autores (teto remuneratório)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2536213/autores",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2025-07-15"
+    },
+    {
+      "titulo": "Proposições de autoria de Pedro Uczai em 2024",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=160604&siglaTipo=PL,PEC,PLP&ano=2024",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": ""
+    },
+    {
+      "titulo": "Proposições de autoria de Pedro Uczai em 2025",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=160604&siglaTipo=PL,PEC,PLP&ano=2025",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": ""
+    },
+    {
+      "titulo": "Proposições de autoria de Pedro Uczai em 2023",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=160604&siglaTipo=PL,PEC,PLP&ano=2023",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": ""
+    }
+  ]
+}

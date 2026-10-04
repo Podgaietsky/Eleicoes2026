@@ -1,0 +1,81 @@
+{
+  "id": "240002533283",
+  "urna": "Rodrigo Minotto",
+  "cargo": "Deputado estadual",
+  "partido": "PDT",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Rodrigo Minotto (PDT), de Criciúma, é deputado estadual em terceiro mandato e disputa o quarto em 2026. Sua atuação documentada concentra-se em educação (bolsas do art. 170, magistério), inovação/tecnologia (Frente Parlamentar da Inovação, relatoria do PL de IA na administração pública) e defesa do Sul catarinense, onde coordena a Bancada do Sul. Não foi localizado plano de campanha detalhado para 2026.",
+  "perfil": "Nascido em Criciúma (31/03/1973), formado em Direito e Administração pela Unisul. Advogado, foi coordenador do SINE, superintendente regional do Trabalho em SC e chefe de gabinete do Ministério do Trabalho (exonerado em jan/2014 para disputar eleição). Filiado ao PDT desde 1993, foi secretário executivo nacional e estadual e 1º vice-presidente do PDT-SC. Eleito deputado estadual em 2014 (26.929 votos), 2018 (26.623) e 2022 (28.685); foi 2º vice-presidente (2019-2021) e 2º secretário (2021-2023) da Mesa e presidiu a Alesc de 9 a 14/07/2024. Candidato a prefeito de Criciúma em 2020 (4.195 votos). Base eleitoral no Sul (Criciúma, Forquilhinha, Amrec/Amesc/Amurel); assumiu a coordenação da Bancada do Sul na Alesc em fev/2026. Na campanha de 2026 arrecadou R$ 505.350, dos quais R$ 350.600 de recursos públicos (FEFC e Fundo Partidário).",
+  "temas": {
+    "costumes": {"nota": 3, "evidencia": "Autor do PL 110/2021, que originou o Estatuto da Liberdade Religiosa de SC (Lei 18.349/2022), com princípios de liberdade de culto, igualdade, separação e não confessionalidade do Estado e combate à intolerância religiosa. Publica conteúdo sobre Agosto Lilás/Lei Maria da Penha.", "fontes": [6, 7, 17]},
+    "desenvolvimento": {"nota": 3, "evidencia": "Como coordenador da Bancada do Sul, citou busca de soluções em infraestrutura para Amesc, Amrec e Amurel; vídeo em seu canal cobra continuidade de obra aguardada há mais de 30 anos.", "fontes": [11, 17]},
+    "educacao": {"nota": 8, "evidencia": "Coordenou a Frente Parlamentar em Defesa das Instituições de Ensino Superior para cumprir os arts. 170/171 da Constituição estadual (bolsas); pediu informações sobre o Uniedu (2023); em 2018 criticou cancelamentos de matrículas nos Cedups e o remanejamento de R$ 271 milhões da Educação para pagamento da dívida; vídeos sobre magistério e compromisso com a educação.", "fontes": [5, 8, 9, 17]},
+    "industria": {"nota": 4, "evidencia": "A Frente Parlamentar da Inovação Catarinense, que coordenou, visava incentivar inovação tecnológica na indústria, comércio e serviços; inclui agenda com setor do carvão mineral e Fundação CERTI. Vídeo 'Minotto defende empregadores e setor produtivo'.", "fontes": [4, 17]},
+    "economia": {"nota": 2, "evidencia": "Única menção encontrada: vídeo de seu canal intitulado 'Minotto defende empregadores e setor produtivo'. Não foram localizadas propostas sobre impostos ou burocracia.", "fontes": [17]},
+    "tecnologia": {"nota": 7, "evidencia": "Relator, na Comissão do Consumidor e do Contribuinte, do PL 49/2024 (princípios e diretrizes para uso de IA na Administração Pública Estadual), com voto favorável; autógrafo enviado ao governador em 19/08/2025. Coordenou a Frente Parlamentar da Inovação Catarinense e fez missão oficial a Portugal (2023) sobre cultura de inovação.", "fontes": [2, 3, 4, 10]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 3, "evidencia": "Requerimento à Casan sobre furtos de hidrômetros em Criciúma (2025); vídeos sobre escolas mais seguras e segurança pública em Forquilhinha; título de Amigo do Bombeiro.", "fontes": [12, 17]},
+    "saude": {"nota": 4, "evidencia": "Vídeos em seu canal sobre ação conjunta para zerar a fila de cateterismo na Amrec e Amesc e visita ao Hospital São José (Criciúma); citou saúde entre as prioridades da Bancada do Sul.", "fontes": [11, 17]},
+    "agro": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "ambiente": {"nota": 1, "evidencia": "Menção indireta: cobrança à Casan sobre impacto dos furtos de hidrômetros no abastecimento de água, tratado como serviço essencial.", "fontes": [12]},
+    "social": {"nota": 3, "evidencia": "Vídeos sobre os 10 anos da PEC das Domésticas, Agosto Lilás/Lei Maria da Penha e inauguração do Centro Viver Bem em Sangão.", "fontes": [17]},
+    "transparencia": {"nota": 1, "evidencia": "Apenas vídeo de seu canal com o título 'Político vadio não tem mais vez'; sem propostas de anticorrupção localizadas.", "fontes": [17]},
+    "municipalismo": {"nota": 7, "evidencia": "Coordenador da Bancada do Sul na Alesc desde fev/2026, prometendo defender municípios de Amesc, Amrec e Amurel e aproximar-se dos prefeitos; atuação recorrente em pautas de Criciúma e Forquilhinha.", "fontes": [11, 12, 0]}
+  },
+  "eixos": {
+    "economia": {"valor": -1, "evidencia": "Defende cumprimento integral do repasse constitucional de bolsas (5% do mínimo da educação) e criticou o desvio de verbas da Educação para pagar dívida; por outro lado, publica defesa de empregadores e setor produtivo. Evidência limitada.", "fontes": [5, 9, 17]},
+    "costumes": {"valor": 0, "evidencia": "Seu Estatuto da Liberdade Religiosa combina proteção à liberdade de culto com não confessionalidade do Estado e combate à intolerância; não foram encontradas posições sobre aborto, drogas ou gênero.", "fontes": [6]},
+    "estado": {"valor": null, "evidencia": "Sem evidência suficiente.", "fontes": []},
+    "ambiente": {"valor": null, "evidencia": "Sem evidência suficiente.", "fontes": []},
+    "governo": {"valor": null, "evidencia": "Não foram encontradas declarações verificáveis sobre o governo federal atual.", "fontes": []}
+  },
+  "criterios": {
+    "concretude": {"valor": 5, "evidencia": "Histórico legislativo verificável (lei de liberdade religiosa aprovada, relatoria do PL de IA, frentes parlamentares com atividades registradas, requerimentos), mas não foi localizado plano de campanha 2026 com metas, prazos ou fontes de recursos.", "fontes": [2, 3, 4, 6]},
+    "responsabilidadeFiscal": {"valor": 3, "evidencia": "Defende ampliação do gasto em bolsas do ensino superior até o piso constitucional e criticou remanejamento de verbas da Educação para pagamento da dívida pública, sem apontar contrapartidas; não há compromisso explícito com equilíbrio fiscal localizado.", "fontes": [5, 9]}
+  },
+  "propostas": [
+    {"tema": "educacao", "texto": "Cumprimento dos arts. 170 e 171 da Constituição estadual: aplicação de no mínimo 5% do mínimo constitucional da educação em bolsas para estudantes do ensino superior.", "fontes": [5]},
+    {"tema": "educacao", "texto": "Defesa de educação de qualidade e em tempo integral, valorização e melhores condições para o magistério.", "fontes": [9, 17]},
+    {"tema": "tecnologia", "texto": "Marco de princípios e diretrizes para uso ético e transparente de inteligência artificial na Administração Pública Estadual (relatoria favorável do PL 49/2024), com direito à explicação e contestação de decisões automatizadas.", "fontes": [2, 3]},
+    {"tema": "tecnologia", "texto": "Incentivo à inovação tecnológica na indústria, comércio e serviços via Frente Parlamentar da Inovação Catarinense.", "fontes": [4]},
+    {"tema": "municipalismo", "texto": "Defesa dos municípios do Sul (Amesc, Amrec, Amurel) pela Bancada do Sul, com reuniões periódicas e levantamento de demandas junto aos prefeitos em infraestrutura, educação e saúde.", "fontes": [11]},
+    {"tema": "saude", "texto": "Ação conjunta para zerar a fila de cateterismo na Amrec e Amesc.", "fontes": [17]},
+    {"tema": "seguranca", "texto": "Medidas preventivas contra furtos de hidrômetros (campanhas e adequação da instalação) e esclarecimento sobre custos de reposição pela Casan.", "fontes": [12]},
+    {"tema": "costumes", "texto": "Garantia da liberdade religiosa e combate à intolerância e discriminação religiosa (Estatuto estadual).", "fontes": [6, 7]}
+  ],
+  "historico": [
+    {"texto": "Deputado estadual eleito em 2014, 2018 e 2022; 2º vice-presidente (2019-2021) e 2º secretário (2021-2023) da Mesa; presidente da Alesc entre 9 e 14/07/2024.", "fontes": [0]},
+    {"texto": "Autor do PL 110/2021, que instituiu o Estatuto da Liberdade Religiosa de SC (Lei 18.349, de 26/01/2022).", "fontes": [6, 7]},
+    {"texto": "Relator do PL 49/2024 (IA na Administração Pública Estadual), votou pela aprovação; autógrafo enviado ao governador em 19/08/2025.", "fontes": [2, 3]},
+    {"texto": "Coordenou a Frente Parlamentar da Inovação Catarinense (2019) e a Frente Parlamentar em Defesa das Instituições de Ensino Superior (2019).", "fontes": [4, 5]},
+    {"texto": "Missão oficial a Portugal em março/2023, a convite da Unesc, para conhecer a experiência portuguesa em cultura de inovação.", "fontes": [10]},
+    {"texto": "Assumiu a coordenação da Bancada do Sul na Alesc em 05/02/2026.", "fontes": [11]},
+    {"texto": "Gabinete gastou R$ 426,3 mil em 2026 (pico de R$ 595,5 mil em 2025), com 28 servidores, segundo levantamento do Jornal Razão.", "fontes": [14]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Reportagem de 27/09/2026 afirma que Minotto destinou cerca de R$ 2,5 mil do fundo eleitoral para contratar como cabo eleitoral um homem com registros policiais (furto, ameaça, vias de fato no âmbito da Lei Maria da Penha, embriaguez ao volante) e prisão em flagrante em 2023 por furto em supermercado; até a publicação, o candidato não havia se manifestado.", "fontes": [1]},
+    {"texto": "Reportagem do Estado de Minas (30/01/2014) sobre sua exoneração da chefia de gabinete do Ministério do Trabalho registra que a saída oficial foi para disputar a eleição, mas que ele era citado em reportagens sobre supostas irregularidades: um irmão constava como funcionário de entidade com convênios de R$ 11 milhões com o ministério, sem comprovação de serviços segundo auditoria da CGU. Não foi encontrada acusação formal contra ele.", "fontes": [16]}
+  ],
+  "fontes": [
+    {"titulo": "Biografia - Rodrigo Minotto", "url": "https://memoriapolitica.alesc.sc.gov.br/biografia/985-Rodrigo_Minotto", "veiculo": "Memória Política - Alesc", "data": ""},
+    {"titulo": "Rodrigo Minotto usa fundo eleitoral para contratar homem com histórico de violência doméstica e prisão após furto de picanhas", "url": "https://www.melhorespublicacoes.com.br/destaques/2026/09/27/rodrigo-minotto-usa-fundo-eleitoral-para-contratar-homem-com-historico-de-violencia-domestica-e-prisao-por-furto-de-picanhas", "veiculo": "Melhores Publicações", "data": "2026-09-27"},
+    {"titulo": "Relatório e voto ao PL 0049/2024 (IA na Administração Pública Estadual) - relator Rodrigo Minotto", "url": "https://portalelegis.alesc.sc.gov.br/documentos/3xXEG", "veiculo": "Alesc - eLegis", "data": "2025-07-17"},
+    {"titulo": "Ofício GP/DL/1368/2025 - envio do autógrafo do PL 049/2024 ao governador", "url": "https://portalelegis.alesc.sc.gov.br/documentos/eZ7QE", "veiculo": "Alesc - eLegis", "data": "2025-08-19"},
+    {"titulo": "Relatório da Frente Parlamentar da Inovação Catarinense (RQC 0027.9/2019)", "url": "https://portalelegis.alesc.sc.gov.br/proposicoes/legado/RQC-0027.9-2019/anexo/8015/visualizar", "veiculo": "Alesc - eLegis", "data": ""},
+    {"titulo": "Relatório da Frente Parlamentar em Defesa das Instituições de Ensino Superior (RQC 0014.4/2019)", "url": "https://portalelegis.alesc.sc.gov.br/proposicoes/legado/RQC-0014.4-2019/anexo/8011/visualizar", "veiculo": "Alesc - eLegis", "data": ""},
+    {"titulo": "Relatório e voto ao PL 0110.6/2021 - Estatuto de Liberdade Religiosa (autor Rodrigo Minotto)", "url": "https://portalelegis.alesc.sc.gov.br/proposicoes/legado/PL.-0110.6-2021/anexo/25087/visualizar", "veiculo": "Alesc - eLegis", "data": ""},
+    {"titulo": "Projeto de lei sobre a Bíblia como recurso paradidático (cita a Lei Estadual 18.349/2022 de liberdade religiosa)", "url": "https://portalelegis.alesc.sc.gov.br/documentos/vGO8B", "veiculo": "Alesc - eLegis", "data": ""},
+    {"titulo": "Pedido de informação sobre bolsas Uniedu (arts. 170 e 171)", "url": "https://portalelegis.alesc.sc.gov.br/documentos/zlRAq", "veiculo": "Alesc - eLegis", "data": "2023-05-08"},
+    {"titulo": "Ata da 74ª Sessão Ordinária da 18ª Legislatura", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/42e1e5fe-6eed-4895-a759-e33e0fcaa4f0", "veiculo": "Alesc", "data": "2018-07-05"},
+    {"titulo": "Requerimento de licença para missão oficial a Portugal", "url": "https://portalelegis.alesc.sc.gov.br/documentos/z1lQR", "veiculo": "Alesc - SEI", "data": "2023-02-13"},
+    {"titulo": "Deputado Rodrigo Minotto é o novo coordenador da Bancada do Sul na Alesc", "url": "https://radiomarconi.net/deputado-rodrigo-minotto-e-o-novo-coordenador-da-bancada-do-sul-na-alesc/", "veiculo": "Rádio Fundação Marconi", "data": "2026-02-05"},
+    {"titulo": "Deputado Rodrigo Minotto pede esclarecimentos da Casan sobre furtos de hidrômetros em Criciúma", "url": "https://www.uaaau.com.br/seguranca/deputado-rodrigo-minotto-pede-esclarecimentos-da-casan-sobre-furtos-de-hidrometros-em-criciuma", "veiculo": "Uaaau!", "data": "2025-07-16"},
+    {"titulo": "Rodrigo Minotto (PDT): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/rodrigo-minotto", "veiculo": "Jornal Razão", "data": "2026-09-25"},
+    {"titulo": "Rodrigo Minotto (PDT): gastos de gabinete, assessores e salários", "url": "https://jornalrazao.com/eleicoes-2026/parlamento/rodrigo-minotto", "veiculo": "Jornal Razão", "data": ""},
+    {"titulo": "Rodrigo Minotto (PDT) - Deputado Estadual - Santa Catarina", "url": "https://72horas.org/candidato/rodrigo-minotto-827781/", "veiculo": "72Horas", "data": ""},
+    {"titulo": "Chefe de gabinete do Ministério do Trabalho é exonerado", "url": "https://www.em.com.br/app/noticia/politica/2014/01/30/interna_politica,493354/chefe-de-gabinete-do-ministerio-do-trabalho-e-exonerado.shtml", "veiculo": "Estado de Minas", "data": "2014-01-30"},
+    {"titulo": "Canal Deputado Rodrigo Minotto (vídeos)", "url": "https://www.youtube.com/@deputadorodrigominotto/videos", "veiculo": "YouTube", "data": ""},
+    {"titulo": "Nomes para 2026 começam a aflorar no Sul de SC", "url": "https://www.uaaau.com.br/politica/nomes-para-2026-comecam-a-aflorar-no-sul-de-sc", "veiculo": "Uaaau!", "data": "2025-07-29"}
+  ]
+}
