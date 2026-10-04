@@ -1,0 +1,77 @@
+{
+  "id": "240002539974",
+  "urna": "Frigo",
+  "cargo": "Deputado estadual",
+  "partido": "PL",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Tiago Bolan Frigo, engenheiro de aquicultura e advogado de Florianópolis, foi secretário executivo da Aquicultura e Pesca de SC no governo Jorginho Mello (2023 a março de 2026) e assumiu por 30 dias uma cadeira na Alesc em 2021 como suplente do PSL. A campanha de 2026 tem como bandeira a representação da pesca, da aquicultura e da 'economia azul' na Alesc, com alinhamento declarado a Jorginho Mello e Jair Bolsonaro. Em 2021, na tribuna, também defendeu combate à corrupção, menos impostos e burocracia e o direito à legítima defesa.",
+  "perfil": "Nascido em Florianópolis em 05/12/1980. Formado em Engenharia de Aquicultura e Direito, com MBA em Gestão de Negócios Internacionais (FGV). Presidiu a Associação Brasileira de Engenharia de Aquicultura (2006-2010), integrou o Conselho Nacional de Aquicultura e Pesca e foi secretário adjunto da Pesca e Maricultura de Florianópolis (2013-2015), onde criou o projeto 'DNA do Pescado', que identificou fraudes na venda de peixes. Também foi superintendente adjunto do IGEOF (Florianópolis), gerente de Relações Institucionais da CGT Eletrosul e colaborador do gabinete de transição do governo Bolsonaro (2018-2019) na área de energia. Segundo o Blog do Prisco, foi indicado para essa função por Eduardo Bolsonaro. Disputou vaga de vereador em 2008 e 2012 e de deputado estadual em 2010 (PR, suplente), 2018 (PSL, 19.868 votos, suplente) e 2022 (PL, suplente). Como 2º suplente do PSL, foi deputado estadual de 19/08 a 18/09/2021, durante licença do Coronel Mocellin. De 2023 a 01/04/2026 foi secretário executivo da Aquicultura e Pesca de SC e deixou o cargo para concorrer. Base eleitoral em Florianópolis e no setor pesqueiro e aquícola do litoral. É sobrinho do ex-deputado estadual Aristides Bolan.",
+  "temas": {
+    "costumes": {"nota": 3, "evidencia": "No discurso de posse (2021), citou Deus, família e liberdades e encerrou com 'Deus acima de todos'. Não foram encontradas propostas sobre aborto, drogas ou outras pautas morais específicas.", "fontes": [1]},
+    "desenvolvimento": {"nota": 3, "evidencia": "Disse que queria 'contribuir com o desenvolvimento do Estado' e cobrou na tribuna a iluminação da Rodovia Deputado Aristides Bolan (2021). Material de pré-campanha fala em 'foco no desenvolvimento econômico'.", "fontes": [1, 5, 6]},
+    "educacao": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "industria": {"nota": 2, "evidencia": "Como secretário, defendeu a cadeia produtiva da tilapicultura e lançou o Programa Pescados SC para modernizar a cadeia do pescado.", "fontes": [6, 9]},
+    "economia": {"nota": 5, "evidencia": "Defendeu 'menos burocracia, menos impostos, e um ambiente de negócio que facilite a vida de quem empreende' (2021). Como secretário, ampliou o crédito ao setor pelo Pronampe Aquicultura e Pesca.", "fontes": [1, 6]},
+    "tecnologia": {"nota": 2, "evidencia": "Criou o projeto 'DNA do Pescado', que identifica espécies por DNA barcode, e defendeu pesquisa aplicada e parcerias com universidades.", "fontes": [1, 6, 18]},
+    "nacionalismo": {"nota": 3, "evidencia": "Encerrou o discurso de posse com 'Santa Catarina acima de tudo, o Brasil acima de tudo'. Em 2021, elogiou os atos de 7 de setembro, que chamou de 'nova independência'.", "fontes": [1, 4]},
+    "seguranca": {"nota": 3, "evidencia": "Defendeu na Alesc o direito à legítima defesa e a valorização de quem trabalha na segurança (2021). Como secretário, conduziu o programa Pesca Bem Segura, voltado à segurança no mar.", "fontes": [1, 6]},
+    "saude": {"nota": 2, "evidencia": "Apresentou moções de cumprimento a hospitais pela atuação na pandemia (2021). Justificou a restrição à tilápia do Vietnã com 'proteção da saúde pública'.", "fontes": [5, 9]},
+    "agro": {"nota": 9, "evidencia": "Principal bandeira: pesca, aquicultura e 'economia azul'. Foi secretário da área de 2023 a 2026 e disse que o setor 'nunca teve representantes legítimos na Alesc'.", "fontes": [6, 8, 9, 10, 11]},
+    "ambiente": {"nota": 4, "evidencia": "Regulamentou a pesca da lula, as redes da pesca artesanal e a captura de camarão na Baía de Florianópolis 'buscando conciliar preservação ambiental' e atividade econômica. Propôs um 'crédito de tainha' para repovoamento e questionou as cotas federais da tainha.", "fontes": [6, 8, 10]},
+    "social": {"nota": 1, "evidencia": "Citou a preservação da renda de famílias da pesca artesanal ao contestar as cotas da tainha. Sem outras menções a assistência social.", "fontes": [6]},
+    "transparencia": {"nota": 5, "evidencia": "Disse que o mandato seria guiado pelo 'combate à corrupção e à transparência' (2021) e articulou uma PEC para tornar 'qualificada' a escolha de conselheiros do TCE-SC.", "fontes": [1, 4, 5]},
+    "municipalismo": {"nota": 2, "evidencia": "Base em Florianópolis: foi secretário adjunto municipal e cobrou obra em rodovia da capital. Não foi encontrada defesa explícita de pauta municipalista.", "fontes": [3, 5]}
+  },
+  "eixos": {
+    "economia": {"valor": 3, "evidencia": "Defende menos impostos e burocracia e um ambiente favorável ao empreendedor. Como secretário, conduziu programas estaduais de crédito e incentivo ao setor.", "fontes": [1, 6]},
+    "costumes": {"valor": 3, "evidencia": "Usa discurso com referências religiosas e familiares e defende a legítima defesa. Não foram encontradas posições detalhadas sobre outras pautas de costumes.", "fontes": [1]},
+    "estado": {"valor": 2, "evidencia": "Como secretário, contestou na Justiça e no STF cotas federais da tainha, que chamou de 'discriminatórias' contra SC. Também restringiu por medida estadual a tilápia do Vietnã, segundo o Blog do Prisco sob pressão contrária do governo federal.", "fontes": [6, 10, 11]},
+    "ambiente": {"valor": 2, "evidencia": "Priorizou a continuidade da pesca artesanal contra as cotas federais, mas fala em 'conciliar preservação ambiental' e em repovoamento.", "fontes": [6, 8, 10]},
+    "governo": {"valor": 5, "evidencia": "Alinhamento declarado a Bolsonaro ('100% Jorginho, 100% Bolsonaro'). Enfrentou o governo Lula na disputa pelas cotas da tainha e nas importações de tilápia.", "fontes": [1, 6, 7, 11]}
+  },
+  "propostas": [
+    {"tema": "agro", "texto": "Representar na Alesc o segmento da pesca, da aquicultura e da economia azul, que segundo ele 'nunca teve representantes legítimos na Alesc', para 'defender e desenvolver o setor'.", "fontes": [6]},
+    {"tema": "ambiente", "texto": "Criar um 'crédito de tainha' que compense cotas de pesca com ações de repovoamento, para dar 'mais sustentabilidade para a atividade' (proposta como secretário, 2023).", "fontes": [8]},
+    {"tema": "transparencia", "texto": "Emenda à Constituição Estadual para que a escolha dos conselheiros do Tribunal de Contas de SC seja feita 'de forma qualificada' (proposta de 2021, quando era deputado).", "fontes": [4, 5]},
+    {"tema": "economia", "texto": "Lutar 'por menos burocracia, menos impostos, e um ambiente de negócio que facilite a vida de quem empreende' (discurso de posse, 2021).", "fontes": [1]},
+    {"tema": "seguranca", "texto": "Defender o direito à legítima defesa, pois 'o cidadão de bem merece dispor de meios para se defender, defender sua família e seu patrimônio' (2021).", "fontes": [1]},
+    {"tema": "transparencia", "texto": "Pautar o mandato 'na seriedade, no combate à corrupção' e na transparência no serviço público (2021).", "fontes": [1]}
+  ],
+  "historico": [
+    {"texto": "2013-2015: secretário adjunto da Pesca e Maricultura de Florianópolis. Criou o projeto 'DNA do Pescado', que em 2014 apontou problemas de rotulagem em 24% de 30 amostras de peixe e foi publicado na revista Food Control.", "fontes": [2, 18]},
+    {"texto": "19/08/2021: tomou posse como deputado estadual na vaga do Coronel Mocellin (PSL), como 2º suplente, e ficou no cargo até 18/09/2021.", "fontes": [2, 3]},
+    {"texto": "24/08/2021: votou 'sim' à Moção 0657/2021, que pedia ao Presidente do Senado andamento aos pedidos de impeachment de ministros do STF. A moção foi rejeitada por 13 a 9.", "fontes": [1]},
+    {"texto": "08/09/2021: na tribuna, disse que pedir impeachment de ministros do STF 'não é um ato antidemocrático' e anunciou projeto para mudar a escolha dos membros do Tribunal de Contas. Discutiu o PL 0328/2021 (alteração do PPA).", "fontes": [4]},
+    {"texto": "16/09/2021: informou ter protocolado três projetos, um deles uma emenda constitucional sobre a escolha de conselheiros do TCE-SC, que tinha oito assinaturas. Teve aprovadas moções de cumprimento à Associação de Hospitais de SC, ao Hospital Baía Sul e a atletas.", "fontes": [5]},
+    {"texto": "2023 a 01/04/2026: secretário executivo da Aquicultura e Pesca de SC no governo Jorginho Mello. Exonerado a partir de 01/04/2026 (Ato nº 641/2026), substituído por Fabiano Müller Silva.", "fontes": [6, 13, 14]},
+    {"texto": "Abril de 2023: com o governador Jorginho Mello, reuniu-se com o ministro da Pesca para pedir comitê técnico sobre as cotas de tainha de 2024 e propôs o 'crédito de tainha'.", "fontes": [8]},
+    {"texto": "Março de 2025: após quatro reuniões em Brasília sem acordo, levou à Justiça e ao STF a contestação da cota federal da tainha para a pesca de arrasto de praia, que chamou de 'discriminatória' e 'inconstitucional'.", "fontes": [10, 11]},
+    {"texto": "08/04/2025: assinou o Ofício SAQ-GABS 038/2025, em resposta a indicação na Alesc sobre pesquisa da tainha, citando os projetos BIOPESCA SC e Novos Horizontes na Maricultura.", "fontes": [12]},
+    {"texto": "Dezembro de 2025: defendeu a medida estadual que proibiu a entrada de tilápia do Vietnã em SC, citando risco sanitário (vírus TiLV) à cadeia produtiva.", "fontes": [9]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Mudou de partido entre eleições: foi candidato pelo PR em 2010, pelo PSL em 2018 e pelo PL em 2022 e 2026.", "fontes": [3, 16, 17]}
+  ],
+  "fontes": [
+    {"titulo": "Frigo (PL 22100) - candidato a deputado estadual SC", "url": "https://www.tribunapr.com.br/eleicoes/2026/candidatos/sc/deputado-estadual/frigo-pl-22100/", "veiculo": "Tribuna do Paraná", "data": ""},
+    {"titulo": "Ata da 081ª Sessão Ordinária da 3ª Sessão Legislativa da 19ª Legislatura (24/08/2021)", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/d5dd4be4-7464-42a7-906b-c033e00d1897", "veiculo": "Alesc", "data": "2021-08-24"},
+    {"titulo": "Tiago Frigo assume como deputado em substituição a Coronel Mocellin", "url": "https://www.alesc.sc.gov.br/agencia/noticia/tiago-frigo-assume-como-deputado-em-substituicaeo-a-coronel-mocellin/", "veiculo": "Agência AL / Alesc", "data": "2021-08-19"},
+    {"titulo": "Biografias / Tiago Frigo / Memória Política de Santa Catarina", "url": "https://memoriapolitica.alesc.sc.gov.br/biografia/1397-Tiago_Frigo", "veiculo": "Memória Política de SC (Alesc)", "data": ""},
+    {"titulo": "Ata da 087ª Sessão Ordinária da 3ª Sessão Legislativa da 19ª Legislatura (08/09/2021)", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/1f79ff1a-7010-4bee-8194-3ade0ed0aaa7", "veiculo": "Alesc", "data": "2021-09-08"},
+    {"titulo": "Ata da 091ª Sessão Ordinária da 3ª Sessão Legislativa da 19ª Legislatura (16/09/2021)", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/0ac05b2e-4362-4b1e-a128-23d9706b5f3d", "veiculo": "Alesc", "data": "2021-09-16"},
+    {"titulo": "Tiago Frigo ganha força no campo bolsonarista e entra com força na disputa pela Alesc", "url": "https://www.blogdoprisco.com.br/tiago-frigo-ganha-forca-no-campo-bolsonarista-e-entra-com-forca-na-disputa-pela-alesc/", "veiculo": "Blog do Prisco", "data": "2026-04-30"},
+    {"titulo": "Frigo 22100 - site de campanha", "url": "https://frigo22100.com.br", "veiculo": "Site oficial do candidato", "data": ""},
+    {"titulo": "Secretaria da Aquicultura e Pesca propõe crédito de tainha para fomentar o repovoamento e viabilizar a pesca", "url": "https://opresenterural.com.br/secretaria-da-aquicultura-e-pesca-propoe-credito-de-tainha-para-fomentar-o-repovoamento-e-viabilizar-a-pesca/", "veiculo": "O Presente Rural", "data": "2023-04-24"},
+    {"titulo": "Santa Catarina proíbe entrada de tilápia do Vietnã para proteger cadeia produtiva e segurança sanitária", "url": "https://opresenterural.com.br/santa-catarina-proibe-entrada-de-tilapia-do-vietna-para-proteger-cadeia-produtiva-e-seguranca-sanitaria/", "veiculo": "O Presente Rural", "data": "2025-12-19"},
+    {"titulo": "Governo de SC vai ao STF para derrubar cota federal da pesca da tainha", "url": "https://ndmais.com.br/economia/governo-de-sc-vai-ao-stf-para-derrubar-cota-federal-da-pesca-da-tainha/", "veiculo": "ND+", "data": "2025-03-19"},
+    {"titulo": "Cota para pesca de tainha imposta pelo governo Lula ameaça tradição artesanal", "url": "https://www.gazetadopovo.com.br/brasil/cota-pesca-de-tainha-imposta-pelo-governo-lula-ameaca-tradicao-artesanal/", "veiculo": "Gazeta do Povo", "data": "2025-03-05"},
+    {"titulo": "Ofício SAQ-GABS nº 038-2025 (resposta à Indicação nº 0155/2025)", "url": "https://portalelegis.alesc.sc.gov.br/documentos/NQGMP", "veiculo": "Alesc / Secretaria Executiva da Aquicultura e Pesca", "data": "2025-04-08"},
+    {"titulo": "Mudanças no primeiro escalão", "url": "https://diarinho.net/coluna/630955/Mudancas-no-primeiro-escalao", "veiculo": "Diarinho", "data": "2026-03-31"},
+    {"titulo": "Diário Oficial do Estado de SC nº 22727-A (Ato nº 641/2026)", "url": "https://portal.doe.sea.sc.gov.br/repositorio/2026/20260401/Jornal/22727-A.pdf", "veiculo": "Diário Oficial do Estado de SC", "data": "2026-04-01"},
+    {"titulo": "Frigo 22100 - Candidato a deputado estadual de SC pelo PL", "url": "https://ndmais.com.br/eleicoes/2026/candidatos/sc/deputado-estadual/22100-frigo/", "veiculo": "ND+", "data": ""},
+    {"titulo": "Frigo (PL) — Deputado Estadual de Santa Catarina 2026", "url": "https://tmc.com.br/eleicoes/candidato/frigo/", "veiculo": "TMC", "data": ""},
+    {"titulo": "Tiago Bolan Frigo, candidato ao cargo de Deputado Estadual em Santa Catarina nas Eleições 2010", "url": "https://agenciasertao.com/eleicoes/candidato/SC/tiago-bolan-frigo-pr-sc--240000000381/?ano=2010", "veiculo": "Agência Sertão", "data": ""},
+    {"titulo": "DNA do Pescado entra em revista científica", "url": "https://portal.crea-sc.org.br/dna-do-pescado-entra-em-revista-cientifica/", "veiculo": "CREA-SC", "data": "2014-11-03"}
+  ]
+}

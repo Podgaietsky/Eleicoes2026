@@ -72,7 +72,7 @@ window.renderResearchView = function (root, ctx) {
         const key = p.vx + "," + p.vy; const n = seen[key] = (seen[key] || 0) + 1;
         const ang = (n - 1) * 2.1, rad = n > 1 ? 9 : 0;
         const x = sx(p.vx) + Math.cos(ang) * rad, y = sy(p.vy) + Math.sin(ang) * rad;
-        return `<g class="sc-p" data-id="${esc(p.r.id)}" tabindex="0"><circle cx="${x}" cy="${y}" r="7"/><text x="${x + 10}" y="${y + 4}">${esc(p.c.urna)}</text></g>`;
+        return `<g class="sc-p" data-id="${esc(p.r.id)}" tabindex="0"><circle cx="${x}" cy="${y}" r="7"/><text x="${x > W * 0.62 ? x - 10 : x + 10}" y="${y + 4}" text-anchor="${x > W * 0.62 ? "end" : "start"}">${esc(p.c.urna)}</text></g>`;
       }).join("")}
     </svg>`;
   const axSel = (i) => `<select class="select" id="rs-ax${i}" aria-label="Eixo ${i ? "vertical" : "horizontal"}">${EIXOS.map(e => `<option value="${e.k}" ${st.ax[i] === e.k ? "selected" : ""}>${esc(e.nome)}</option>`).join("")}</select>`;
