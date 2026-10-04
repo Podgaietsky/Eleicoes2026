@@ -1,0 +1,453 @@
+{
+  "id": "240002539372",
+  "urna": "Valdir Colatto",
+  "cargo": "Deputado federal",
+  "partido": "PL",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "alta",
+  "resumo": "Valdir Colatto, 76 anos, técnico agrícola e engenheiro agrônomo com base em Chapecó, foi deputado federal por SC pelo PMDB/MDB em vários mandatos, presidiu a Frente Parlamentar da Agropecuária, dirigiu o Serviço Florestal Brasileiro (2019-2021) e foi secretário da Agricultura de SC no governo Jorginho Mello (2023-2025). Na campanha de 2026 pelo PL, suas bandeiras centrais são agricultura e produtor rural (seguro-renda, crédito, segurança jurídica e direito de propriedade), desburocratização, infraestrutura e regras ambientais que conciliem produção e preservação.",
+  "perfil": "Nascido em Lagoa Vermelha (RS) em 1949, mudou-se para SC aos quatro anos; filho de agricultores, é agricultor, técnico agrícola e engenheiro agrônomo. Foi diretor do Incra/SC, superintendente da OCB e secretário da Agricultura de SC em gestões anteriores. Na Câmara dos Deputados, segundo o histórico oficial, teve mandatos nas legislaturas 48, 49 e 50 (1987-1999), exerceu como suplente em 2005, foi eleito titular em 2007-2011, exerceu como suplente em 2011-2014 e foi titular em 2015-2019, sempre pelo PMDB/MDB (filiado ao PMDB desde 1980). Presidiu a Frente Parlamentar da Agropecuária por duas gestões e a Frente Parlamentar da Desburocratização. Foi diretor-geral do Serviço Florestal Brasileiro (Ministério da Agricultura, 2019-2021) e secretário de Estado da Agricultura de SC de janeiro de 2023 a março de 2025. Em 2022 concorreu a deputado federal pelo PL e ficou suplente. Base eleitoral no Oeste catarinense, com escritório de campanha em Chapecó.",
+  "temas": {
+    "costumes": {
+      "nota": 1,
+      "evidencia": "Menciona valores de 'família' e 'trabalho' na apresentação; não foram encontradas propostas sobre aborto, drogas ou religião.",
+      "fontes": [
+        0
+      ]
+    },
+    "desenvolvimento": {
+      "nota": 6,
+      "evidencia": "Proposta 'Infraestrutura para produzir e crescer': rodovias, ferrovias, portos, energia, conectividade e logística; foi relator da Lei dos Motoristas (13.103/2015).",
+      "fontes": [
+        0
+      ]
+    },
+    "educacao": {
+      "nota": 2,
+      "evidencia": "Proposta de esporte e juventude e capacitação para jovens rurais; quando deputado, propôs bolsa para cursos agropecuários (PL 3725/2008).",
+      "fontes": [
+        0,
+        4
+      ]
+    },
+    "industria": {
+      "nota": 2,
+      "evidencia": "Cita agroindústria e cooperativismo; foi relator da Lei da Integração (13.288/2016) entre produtores e agroindústrias.",
+      "fontes": [
+        0
+      ]
+    },
+    "economia": {
+      "nota": 6,
+      "evidencia": "Defende 'Menos burocracia, mais liberdade', critica juros altos e dificuldade de crédito e afirma que 'burocracia também é custo de produção'.",
+      "fontes": [
+        0,
+        1
+      ]
+    },
+    "tecnologia": {
+      "nota": 2,
+      "evidencia": "Menciona tecnologia e conectividade no campo e biotecnologia na 'Economia Azul'; sem propostas específicas de inovação digital.",
+      "fontes": [
+        0
+      ]
+    },
+    "nacionalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "seguranca": {
+      "nota": 1,
+      "evidencia": "Não há propostas de segurança pública na campanha; o PL 6268/2016 de sua autoria previa flexibilizar posse de armas para proprietários rurais.",
+      "fontes": [
+        11
+      ]
+    },
+    "saude": {
+      "nota": 3,
+      "evidencia": "Proposta 'Saúde com dignidade': hospitais, atendimento regional e filantrópicas fortalecidos com mais gestão.",
+      "fontes": [
+        0
+      ]
+    },
+    "agro": {
+      "nota": 10,
+      "evidencia": "Principal bandeira: seguro-renda, crédito, segurança jurídica, sucessão familiar no campo, cooperativismo; trajetória ligada à FPA e à Secretaria da Agricultura.",
+      "fontes": [
+        0,
+        1,
+        14
+      ]
+    },
+    "ambiente": {
+      "nota": 6,
+      "evidencia": "Proposta 'Meio ambiente e Economia Azul' ('Preservar é necessário. Produzir também'); histórico ligado ao Código Florestal, ao CAR e à Política Nacional de Fauna.",
+      "fontes": [
+        0,
+        11
+      ]
+    },
+    "social": {
+      "nota": 4,
+      "evidencia": "Propostas para Lares de Idosos e Instituições de Longa Permanência e valorização da aposentadoria rural.",
+      "fontes": [
+        0
+      ]
+    },
+    "transparencia": {
+      "nota": 1,
+      "evidencia": "Menções pontuais a 'menos desperdício' e a que 'o dinheiro público da saúde precisa chegar à ponta'.",
+      "fontes": [
+        0
+      ]
+    },
+    "municipalismo": {
+      "nota": 5,
+      "evidencia": "Apresenta-se como representante de SC e 'cidadão chapecoense'; foi coordenador da Frente Parlamentar dos Municípios Sedes de Usinas Hidrelétricas e Alagados.",
+      "fontes": [
+        0
+      ]
+    }
+  },
+  "eixos": {
+    "economia": {
+      "valor": 2,
+      "evidencia": "Defende menos burocracia, 'liberdade para produzir' e respeito a contratos, mas também mecanismos estatais de apoio como seguro-renda e crédito rural; votou a favor do teto de gastos e da reforma trabalhista.",
+      "fontes": [
+        0,
+        5,
+        6
+      ]
+    },
+    "costumes": {
+      "valor": null,
+      "evidencia": "Não foram encontradas manifestações sobre pautas de costumes.",
+      "fontes": []
+    },
+    "estado": {
+      "valor": 3,
+      "evidencia": "Segundo reportagens, defendeu transferir aos estados a decisão sobre percentuais de reserva legal e aos municípios a competência sobre APPs urbanas.",
+      "fontes": [
+        11,
+        12
+      ]
+    },
+    "ambiente": {
+      "valor": 4,
+      "evidencia": "Autor do PL 6268/2016 (Política Nacional de Fauna, que libera caça e abate de espécies que causam dano à agricultura) e de PDC para sustar a lista de espécies ameaçadas; discurso de conciliar preservação e produção.",
+      "fontes": [
+        0,
+        4,
+        11
+      ]
+    },
+    "governo": {
+      "valor": 3,
+      "evidencia": "Candidato pelo PL em dobradinha com Carol de Toni (PL); critica juros altos e a aplicação uniforme da jornada de 40 horas ao meio rural.",
+      "fontes": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "propostas": [
+    {
+      "tema": "agro",
+      "texto": "Ampliar os mecanismos de seguro-renda para proteger o produtor diante de perdas, eventos climáticos e oscilações de mercado.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "agro",
+      "texto": "Sucessão familiar no campo: acesso dos jovens à terra, crédito, tecnologia, capacitação e renda.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "agro",
+      "texto": "Segurança jurídica, direito de propriedade e acesso ao crédito, tratando agricultura familiar, cooperativismo e agronegócio como uma mesma cadeia; transformar o crédito anunciado em crédito efetivamente contratado.",
+      "fontes": [
+        0,
+        1
+      ]
+    },
+    {
+      "tema": "economia",
+      "texto": "Menos burocracia, menos desperdício e mais eficiência; 'o cidadão não pode ser tratado como suspeito quando quer abrir uma empresa, produzir ou investir'.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "desenvolvimento",
+      "texto": "Rodovias, ferrovias, portos, energia, saneamento, conectividade e logística compatíveis com a capacidade produtiva de SC.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "ambiente",
+      "texto": "Meio ambiente e 'Economia Azul': regras claras, valorizando mares, rios, pesca, aquicultura, turismo, biotecnologia e energia.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "social",
+      "texto": "Política pública específica para Lares de Idosos e Instituições de Longa Permanência, com infraestrutura, acessibilidade e profissionais qualificados.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "saude",
+      "texto": "Fortalecer hospitais, atendimento regional e instituições filantrópicas com mais gestão e eficiência.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "educacao",
+      "texto": "Mais espaços esportivos para a juventude, associando esporte a saúde, educação e prevenção.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "agro",
+      "texto": "Na discussão da jornada de 40 horas, prever regras específicas para o trabalho rural: compensação de jornada, banco de horas, regras para períodos de safra e negociação coletiva.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "tema": "social",
+      "texto": "Valorização do trabalhador rural e da aposentadoria rural para que as famílias permaneçam no campo.",
+      "fontes": [
+        0
+      ]
+    }
+  ],
+  "historico": [
+    {
+      "texto": "Deputado federal por SC pelo PMDB/MDB nas legislaturas 1987-1999, titular em 2007-2011 e 2015-2019, e em exercício como suplente em 2005 e 2011-2014; em out/2020 declarou impossibilidade de assumir como suplente.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "texto": "Autor do PL 5367/2009 (Código Ambiental Brasileiro), citado por ele como base do novo Código Florestal; em 24/05/2011 votou 'Sim' na emenda substitutiva global do Código Florestal (PL 1876/1999) e 'Sim' na Emenda 164.",
+      "fontes": [
+        0,
+        4,
+        8,
+        9
+      ]
+    },
+    {
+      "texto": "Em 2007 apresentou PDCs para sustar portarias de demarcação/ampliação de terras indígenas em SC (Xapecó, Toldo Imbu, Toldo Pinhal, Araça'í) e o PL 1218/2007 para disciplinar demarcações; em 2014 defendeu o marco temporal de 5/10/1988. Como secretário estadual, alertou para riscos da criação de novas áreas indígenas em SC.",
+      "fontes": [
+        4,
+        13,
+        17
+      ]
+    },
+    {
+      "texto": "Autor do PL 6268/2016 (Política Nacional de Fauna), que prevê caça em determinadas condições, abate de animais que causam dano à agricultura e comércio de fauna; também autor do PDC 427/2016 para sustar a lista nacional de espécies ameaçadas e do PL 3786/2015 sobre exposições e competições de aves 'combatentes'.",
+      "fontes": [
+        4,
+        11
+      ]
+    },
+    {
+      "texto": "Votou 'Sim' à abertura do processo de impeachment de Dilma Rousseff em 17/04/2016.",
+      "fontes": [
+        10
+      ]
+    },
+    {
+      "texto": "Votou 'Sim' à PEC 241/2016 (teto de gastos) no 1º turno (10/10/2016) e no 2º turno (25/10/2016).",
+      "fontes": [
+        6,
+        7
+      ]
+    },
+    {
+      "texto": "Votou 'Sim' ao texto-base da reforma trabalhista (PL 6787/2016) em 26/04/2017.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "texto": "Relator da Lei dos Motoristas (Lei 13.103/2015) e da Lei da Integração entre produtores e agroindústrias (Lei 13.288/2016), segundo seu site de campanha.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "texto": "Diretor-geral do Serviço Florestal Brasileiro (2019-2021), nomeado pela ministra Tereza Cristina; deixou o cargo a pedido.",
+      "fontes": [
+        11,
+        18
+      ]
+    },
+    {
+      "texto": "Secretário de Estado da Agricultura, Pesca e Desenvolvimento Rural de SC a partir de 02/01/2023; substituído por Carlos Chiodini em março de 2025.",
+      "fontes": [
+        14,
+        15
+      ]
+    },
+    {
+      "texto": "Concorreu a deputado federal pelo PL em 2022 e ficou suplente (dado do TSE informado).",
+      "fontes": []
+    }
+  ],
+  "pontosAtencao": [
+    {
+      "texto": "Mudança de partido: filiado ao PMDB/MDB desde 1980, passou ao PL, legenda pela qual concorreu em 2022 e concorre em 2026.",
+      "fontes": [
+        3,
+        16
+      ]
+    },
+    {
+      "texto": "Reportagem do De Olho nos Ruralistas (republicada pelo IHU, jan/2019) relatou que ele possui 1.000 ha em Vilhena (RO) adquiridos do Incra em 1980 e que em 2013 pediu o despejo de cerca de 120 famílias que ocupavam a área.",
+      "fontes": [
+        12
+      ]
+    },
+    {
+      "texto": "O PL 6268/2016, de sua autoria, que libera caça de animais silvestres em determinadas condições, foi alvo de oposição de organizações ambientais, incluindo o WWF-Brasil, e de petição pública quando de sua nomeação ao Serviço Florestal.",
+      "fontes": [
+        11
+      ]
+    },
+    {
+      "texto": "Saiu da Secretaria da Agricultura de SC em 2025 após o governador Jorginho Mello afirmar que ele 'não estava rendendo'; Colatto discordou publicamente e divulgou balanço de sua gestão.",
+      "fontes": [
+        15
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "VOTE 2216 - Valdir Colatto",
+      "url": "https://valdircolatto.com.br/",
+      "veiculo": "Site oficial do candidato",
+      "data": ""
+    },
+    {
+      "titulo": "As dificuldades do agricultor no Brasil em 2026",
+      "url": "https://valdircolatto.com.br/noticias-da-campanha-i/",
+      "veiculo": "Site oficial do candidato",
+      "data": "2026"
+    },
+    {
+      "titulo": "Jornada rural e a proposta de 40 horas: uma pergunta que o país precisa responder",
+      "url": "https://valdircolatto.com.br/noticias-da-campanha-ii/",
+      "veiculo": "Site oficial do candidato",
+      "data": "2026"
+    },
+    {
+      "titulo": "Histórico do deputado Valdir Colatto (id 74010)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/74010/historico",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": ""
+    },
+    {
+      "titulo": "Proposições de autoria de Valdir Colatto",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=74010",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": ""
+    },
+    {
+      "titulo": "Votos - PL 6787/2016 (reforma trabalhista), subemenda substitutiva global",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2122076-348/votos",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2017-04-26"
+    },
+    {
+      "titulo": "Votos - PEC 241/2016, 1º turno",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-235/votos",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2016-10-10"
+    },
+    {
+      "titulo": "Votos - PEC 241/2016, 2º turno",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2016-10-25"
+    },
+    {
+      "titulo": "Votos - PL 1876/1999 (Código Florestal), Emenda Substitutiva Global 186",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/17338-302/votos",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2011-05-24"
+    },
+    {
+      "titulo": "Votos - PL 1876/1999 (Código Florestal), Emenda de Plenário 164",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/17338-321/votos",
+      "veiculo": "Câmara dos Deputados - Dados Abertos",
+      "data": "2011-05-24"
+    },
+    {
+      "titulo": "Como os deputados de Santa Catarina votaram o impeachment",
+      "url": "https://www.congressoemfoco.com.br/noticia/46569/como-os-deputados-de-santa-catarina-votaram",
+      "veiculo": "Congresso em Foco",
+      "data": "2016-04-17"
+    },
+    {
+      "titulo": "Deputado defensor da liberação da caça de animais vai comandar órgão de proteção florestal",
+      "url": "https://congressoemfoco.com.br/noticia/39194/deputado-defensor-da-liberacao-da-caca-de-animais-vai-comandar-orgao-de-protecao-florestal",
+      "veiculo": "Congresso em Foco",
+      "data": "2019-01-17"
+    },
+    {
+      "titulo": "Novo chefe do Serviço Florestal, Colatto adquiriu terras públicas em Rondônia durante a ditadura",
+      "url": "https://ihu.unisinos.br/586204-novo-chefe-do-servico-florestal-colatto-adquiriu-terras-publicas-em-rondonia-durante-a-ditadura",
+      "veiculo": "IHU Unisinos (reprodução de De Olho nos Ruralistas)",
+      "data": "2019-01-20"
+    },
+    {
+      "titulo": "Ruralistas defendem marco temporal para demarcação de terras indígenas",
+      "url": "https://www.camara.leg.br/noticias/428747-ruralistas-defendem-marco-temporal-para-demarcacao-de-terras-indigenas/",
+      "veiculo": "Agência Câmara de Notícias",
+      "data": "2014-03-14"
+    },
+    {
+      "titulo": "Valdir Colatto é o novo secretário da Agricultura, da Pesca e do Desenvolvimento Rural de Santa Catarina",
+      "url": "https://www.noticiasagricolas.com.br/noticias/agronegocio/337432-valdir-colatto-e-o-novo-secretario-da-agricultura-da-pesca-e-do-desenvolvimento-rural-de-santa-catarina.html",
+      "veiculo": "Notícias Agrícolas",
+      "data": "2023-01-02"
+    },
+    {
+      "titulo": "Colatto discorda do governador e mostra trabalho que realizou em dois anos",
+      "url": "https://www.nsctotal.com.br/?p=7447843",
+      "veiculo": "NSC Total",
+      "data": "2025-03"
+    },
+    {
+      "titulo": "Eleições 2026: nomes conhecidos tentam voltar à política de SC após anos longe das urnas",
+      "url": "https://www.nsctotal.com.br/?p=8013169",
+      "veiculo": "NSC Total",
+      "data": ""
+    },
+    {
+      "titulo": "Secretário de Agricultura fala de riscos sobre criação de áreas indígenas em SC",
+      "url": "https://www.nsctotal.com.br/?p=6970441",
+      "veiculo": "NSC Total",
+      "data": ""
+    },
+    {
+      "titulo": "Valdir Colatto: exoneração do Serviço Florestal Brasileiro",
+      "url": "https://www.canalrural.com.br/politica/valdir-colatto-exoneracao-servico-florestal-brasileiro/",
+      "veiculo": "Canal Rural",
+      "data": ""
+    }
+  ]
+}
