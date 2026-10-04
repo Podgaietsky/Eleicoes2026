@@ -1,0 +1,68 @@
+{
+  "id": "240002548539",
+  "urna": "Raimundo Colombo",
+  "cargo": "Deputado federal",
+  "partido": "PSD",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Ex-governador de Santa Catarina (2011-2018), ex-prefeito de Lages e ex-senador, Raimundo Colombo (PSD) disputa vaga na Câmara dos Deputados em 2026 após perder as eleições ao Senado em 2018 e 2022. A campanha enfatiza experiência, diálogo contra a polarização, ampliação da força política de SC em Brasília, revisão da reforma tributária em defesa da indústria e do agro, duplicação da BR-282 e proibição das apostas online.",
+  "perfil": "João Raimundo Colombo, nascido em Lages (1955), produtor agropecuário segundo o registro no TSE. Foi deputado estadual (1987-1988), prefeito de Lages (1989-1992 e 2001-2006), deputado federal (1999-2000), senador (2007-2010) e governador de SC por dois mandatos (2011-2018, eleito em 2010 com 52,72% dos votos e reeleito em 2014). Filiações: PDS, PFL, DEM e, desde 2011, PSD. Candidato ao Senado em 2018 e 2022, não eleito. Base eleitoral histórica na Serra catarinense (Lages), com atuação estadual.",
+  "temas": {
+    "costumes": {"nota": 3, "evidencia": "Defende a proibição das apostas online (bets): 'O celular virou um cassino e o dinheiro das famílias está sendo comprometido'. Não foram encontradas posições sobre aborto, drogas ou outras pautas morais.", "fontes": [0]},
+    "desenvolvimento": {"nota": 8, "evidencia": "Propõe duplicar a BR-282 do Litoral ao Extremo-Oeste, cobra manutenção, sinalização e terceiras faixas, e defende participação financeira federal na concessão da BR-470 para reduzir o pedágio. Como governador, conduziu o Pacto por SC (R$ 11,3 bi em obras, incluindo rodovias).", "fontes": [0, 2, 6]},
+    "educacao": {"nota": 3, "evidencia": "Cita saúde e educação como prioridades para alocação de recursos federais, sem propostas detalhadas. No governo, programas de ensino médio em tempo integral e modernização de escolas.", "fontes": [2, 3, 7]},
+    "industria": {"nota": 6, "evidencia": "Defende que SC não perca competitividade com a reforma tributária, 'especialmente na indústria, no agronegócio'.", "fontes": [0]},
+    "economia": {"nota": 6, "evidencia": "Defende rever pontos da reforma tributária para proteger a competitividade catarinense e argumenta que SC contribui mais em impostos do que recebe da União; fala em reformas para eficiência do Estado construídas por consenso.", "fontes": [0, 1, 2]},
+    "tecnologia": {"nota": 0, "evidencia": "Sem menção encontrada nas propostas de 2026.", "fontes": []},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada.", "fontes": []},
+    "seguranca": {"nota": 2, "evidencia": "Menciona a BR-282 como eixo para a segurança (viária). No governo, implantou sistema de câmeras com reconhecimento facial ('Bem-te-vi'); sem propostas específicas de segurança pública em 2026.", "fontes": [0, 3]},
+    "saude": {"nota": 5, "evidencia": "Propõe ampliar a participação federal no financiamento dos hospitais regionais; cita saúde como prioridade de recursos federais.", "fontes": [0, 2]},
+    "agro": {"nota": 6, "evidencia": "Defende proteger o agronegócio na reforma tributária e buscar redução do custo de insumos e melhores condições de produção e investimento.", "fontes": [0]},
+    "ambiente": {"nota": 3, "evidencia": "Defende a continuidade das obras de contenção de enchentes no Alto Vale do Itajaí.", "fontes": [2]},
+    "social": {"nota": 2, "evidencia": "Aborda o endividamento das famílias com apostas online como argumento para proibir as bets; sem propostas de assistência, moradia ou PcD.", "fontes": [0]},
+    "transparencia": {"nota": 0, "evidencia": "Sem menção encontrada nas propostas de 2026.", "fontes": []},
+    "municipalismo": {"nota": 7, "evidencia": "Defende ampliar a bancada federal de SC de 16 para 20 deputados por proporcionalidade, aumentar a representação do Alto Vale ('se tiver dois, dobra sua força') e da Serra, e trazer mais recursos federais ao estado.", "fontes": [1, 2]}
+  },
+  "eixos": {
+    "economia": {"valor": 1, "evidencia": "Discurso de 'Estado mais eficiente' e gestão 'semelhante ao modelo de gestão de pequena empresa' (2015), defesa da competitividade empresarial; ao mesmo tempo, ênfase em ampliar investimentos e repasses federais.", "fontes": [0, 1, 5]},
+    "costumes": {"valor": 1, "evidencia": "Única pauta do campo encontrada é a proibição das apostas online, motivada pela proteção das famílias.", "fontes": [0]},
+    "estado": {"valor": 2, "evidencia": "Defende mais representação e mais recursos federais para SC, argumentando que o estado contribui mais do que recebe da União.", "fontes": [1, 2]},
+    "ambiente": {"valor": 1, "evidencia": "Prioriza produção (agro, insumos, logística), com menção a obras de prevenção de enchentes; sem posições sobre clima ou preservação.", "fontes": [0, 2]},
+    "governo": {"valor": 0, "evidencia": "Discurso contra a polarização; defende cooperação entre governo e oposição e que, em visitas de presidente ou ministros, 'o interesse da população deve estar acima das diferenças partidárias'. Não se posiciona claramente como aliado ou opositor do governo federal.", "fontes": [1]}
+  },
+  "criterios": {
+    "concretude": {"valor": 4, "evidencia": "Indica obras específicas (duplicação da BR-282, terceiras faixas, BR-470, hospitais regionais) e tem histórico extenso de gestão executiva, mas não apresenta prazos, metas, custos ou fonte de recursos; parte das propostas é de articulação política (mais deputados, mais força em Brasília).", "fontes": [0, 1, 2, 6]},
+    "responsabilidadeFiscal": {"valor": 4, "evidencia": "Como governador, criticou o modelo fiscal ('completamente inviável'), apontou o déficit previdenciário e defendeu gestão enxuta; o Pacto por SC foi financiado em grande parte por operações de crédito (ex.: R$ 3 bi do BNDES). Na campanha de 2026 as propostas dependem de ampliar recursos federais, sem indicar contrapartidas.", "fontes": [5, 7, 0, 2]}
+  },
+  "propostas": [
+    {"tema": "desenvolvimento", "texto": "Duplicar a BR-282 do Litoral ao Extremo-Oeste, com manutenção, sinalização e terceiras faixas.", "fontes": [0, 2]},
+    {"tema": "desenvolvimento", "texto": "Defender participação financeira federal na concessão da BR-470 para evitar pedágio excessivo aos usuários.", "fontes": [2]},
+    {"tema": "economia", "texto": "Rever a reforma tributária para que SC não perca competitividade, especialmente na indústria e no agronegócio.", "fontes": [0]},
+    {"tema": "agro", "texto": "Buscar medidas para reduzir custos de insumos e melhorar condições de produção e investimento no agronegócio.", "fontes": [0]},
+    {"tema": "saude", "texto": "Ampliar a participação federal no financiamento dos hospitais regionais.", "fontes": [0]},
+    {"tema": "costumes", "texto": "Proibir as apostas online (bets).", "fontes": [0]},
+    {"tema": "municipalismo", "texto": "Defender que SC tenha 20 deputados federais, e não 16, pela proporcionalidade constitucional; ampliar a representação regional (Alto Vale, Serra).", "fontes": [1, 2]},
+    {"tema": "ambiente", "texto": "Dar continuidade às obras de contenção de enchentes no Alto Vale do Itajaí.", "fontes": [2]}
+  ],
+  "historico": [
+    {"texto": "Governador de SC de 2011 a abril de 2018; eleito em 2010 com 52,72% dos votos e reeleito em 2014. Prefeito de Lages (1989-1992; 2001-2006), deputado estadual, deputado federal e senador (2007-2010).", "fontes": [3]},
+    {"texto": "Criou o programa Pacto por Santa Catarina, com R$ 11,3 bilhões em obras previstas; em março de 2017, R$ 9,4 bi estavam contratados e R$ 6,8 bi executados, com 26% dos projetos concluídos e 65% em andamento.", "fontes": [6]},
+    {"texto": "Assinou com o BNDES financiamento de R$ 3 bilhões, o maior do banco ao estado, incluindo R$ 1,8 bi para infraestrutura (restauração da Ponte Hercílio Luz, rodovias, policlínicas, escolas) e R$ 979,6 milhões para dívida da Celesc.", "fontes": [7]},
+    {"texto": "Em 2015, como governador, afirmou que 'o modelo que temos para o Brasil é completamente inviável' e citou déficit previdenciário anual de cerca de R$ 270 milhões em SC; o estado projetava superávit de R$ 52 milhões naquele ano.", "fontes": [5]},
+    {"texto": "Candidato ao Senado em 2018 e 2022, não foi eleito; em 2022 destacou a experiência e o relacionamento político como instrumento de ação.", "fontes": [3, 8]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Foi citado em delações da Lava Jato (executivos da JBS e da Odebrecht). Denunciado pelo MPF por omitir doações da Odebrecht nas campanhas de 2010 (R$ 2,3 mi) e 2014 (R$ 7 mi), foi absolvido pela 12ª Zona Eleitoral de Florianópolis em julho de 2020 por falta de provas que corroborassem as delações.", "fontes": [3, 4]}
+  ],
+  "fontes": [
+    {"titulo": "SC precisa de voz, experiência e coragem em Brasília, por Raimundo Colombo", "url": "https://upiara.com.br/artigos/sc-precisa-de-voz-experiencia-e-coragem-em-brasilia-por-raimundo-colombo/", "veiculo": "Upiara", "data": "2026-09-11"},
+    {"titulo": "Santa Catarina precisa de mais força em Brasília e menos radicalismo na política, por Raimundo Colombo", "url": "https://upiara.com.br/artigos/santa-catarina-precisa-de-mais-forca-em-brasilia-e-menos-radicalismo-na-politica-por-raimundo-colombo/", "veiculo": "Upiara", "data": "2026-06-22"},
+    {"titulo": "Raimundo Colombo defende mais força política do Alto Vale e cobra melhorias nas BRs", "url": "https://www.sintonia.fm.br/noticias/raimundo-colombo-defende-mais-forca-politica-do-alto-vale-e-cobra-melhorias-nas-brs-51901.html", "veiculo": "Rádio Sintonia", "data": "2026-09-08"},
+    {"titulo": "Raimundo Colombo", "url": "https://pt.wikipedia.org/wiki/Raimundo_Colombo", "veiculo": "Wikipédia", "data": ""},
+    {"titulo": "Ex-governador de SC é absolvido pela Justiça Eleitoral", "url": "https://www.conjur.com.br/2020-jul-23/ex-governador-sc-absolvido-justica-eleitoral//?print=1", "veiculo": "Consultor Jurídico", "data": "2020-07-23"},
+    {"titulo": "Governador de SC critica quadro fiscal brasileiro", "url": "https://www.tribunapr.com.br/noticias/politica/governador-de-sc-critica-quadro-fiscal-brasileiro/", "veiculo": "Tribuna PR", "data": "2015-11-18"},
+    {"titulo": "Vice-governador anuncia que Pacto por SC injetará R$ 1,8 bilhão na economia catarinense", "url": "https://acontecendoaqui.com.br/?p=59254", "veiculo": "Acontecendo Aqui", "data": "2017-03-14"},
+    {"titulo": "BNDES libera R$ 3 bilhões para infraestrutura em Santa Catarina", "url": "https://olhardireto.com.br/agro-e-negocios/noticias/bndes-libera-r-3-bilhoes-para-infraestrutura-em-santa-catarina", "veiculo": "Olhar Direto", "data": ""},
+    {"titulo": "Gean Loureiro e Raimundo Colombo estiveram presentes na sede da associação para o diálogo junto à sociedade", "url": "https://www.acif.org.br/?p=14793", "veiculo": "ACIF", "data": "2022-09-27"}
+  ]
+}
