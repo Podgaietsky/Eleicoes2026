@@ -1,0 +1,74 @@
+{
+  "id": "240002537908",
+  "urna": "Jean Kuhlmann",
+  "cargo": "Deputado estadual",
+  "partido": "REPUBLICANOS",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Jean Kuhlmann (Republicanos, nº 10022), administrador de Blumenau, foi vereador, secretário estadual do Desenvolvimento Econômico Sustentável (2007) e deputado estadual por três mandatos (2007-2019). Em 2026 busca voltar à Alesc com discurso centrado em representação regional, especialmente do Planalto Norte, infraestrutura, emprego e integração entre municípios e Estado; não foram encontradas propostas detalhadas.",
+  "perfil": "Nascido em Blumenau em 29/04/1975, formado em Administração pela FURB, com pós-graduação em Administração Pública e especialização em gestão pública na Alemanha. Vereador em Blumenau eleito em 2000 (3.242 votos) e reeleito em 2004 (7.984 votos). Secretário de Estado do Desenvolvimento Econômico Sustentável em 2007, período associado ao PRODEC e ao Pró-Emprego. Deputado estadual em 2007-2011 (PFL, 38.047 votos), 2011-2015 (DEM, 59.789) e 2015-2019 (PSD, 56.468); suplente convocado por 60 dias em 2021. Disputou duas vezes a Prefeitura de Blumenau. Filiações posteriores: Podemos (2021), PP (2023, quando disse que não seria candidato) e Republicanos (fevereiro de 2025), onde assumiu a coordenação regional do Médio Vale do Itajaí. Base eleitoral histórica em Blumenau e Vale do Itajaí; em 2026 também busca votos no Planalto Norte (Rio Negrinho, São Bento do Sul, Campo Alegre, entre outros). Segundo agregador de contas, declarou cerca de R$ 381,6 mil em receitas até 30/09/2026, a maior parte de fundo público eleitoral.",
+  "temas": {
+    "costumes": {"nota": 1, "evidencia": "Como deputado, foi autor do PL 314/2009, que instituiu o Dia de Combate ao Crack em SC (19 de outubro); nenhuma posição sobre pautas morais em 2026 encontrada.", "fontes": [10]},
+    "desenvolvimento": {"nota": 5, "evidencia": "Atuou pela duplicação da BR-470 nos mandatos; em 2026 defende investimentos em infraestrutura para o Planalto Norte.", "fontes": [0, 2]},
+    "educacao": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "industria": {"nota": 5, "evidencia": "Criou frente parlamentar de apoio ao setor têxtil; em 2026 cita o potencial industrial do Planalto Norte.", "fontes": [0, 2]},
+    "economia": {"nota": 4, "evidencia": "Secretário de Desenvolvimento Econômico em 2007, associado ao PRODEC e Pró-Emprego; criou frente parlamentar da desburocratização; em 2026 fala em geração de empregos.", "fontes": [0, 2]},
+    "tecnologia": {"nota": 2, "evidencia": "Criou frente parlamentar de apoio à inovação catarinense; nada específico em 2026.", "fontes": [0]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 1, "evidencia": "Iniciativa de conscientização contra o crack (2009) e relatoria na CCJ de projeto sobre trabalho de presos (2018); nada em 2026.", "fontes": [10, 12]},
+    "saude": {"nota": 1, "evidencia": "Justificou o Dia de Combate ao Crack com danos à saúde e às famílias; em 2026 menciona genericamente melhoria de serviços públicos.", "fontes": [10, 2]},
+    "agro": {"nota": 2, "evidencia": "Cita o potencial agrícola do Planalto Norte, sem propostas específicas.", "fontes": [2]},
+    "ambiente": {"nota": 3, "evidencia": "Atuação histórica em prevenção de desastres naturais/enchentes no Vale do Itajaí; nada específico em 2026.", "fontes": [0, 1]},
+    "social": {"nota": 1, "evidencia": "Menção genérica a emprego e melhoria de serviços públicos.", "fontes": [2]},
+    "transparencia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "municipalismo": {"nota": 7, "evidencia": "Eixo central da campanha de 2026: fortalecer a representação do Planalto Norte e ser ponte entre municípios, Governo do Estado e Alesc; como deputado, cobrou do governo estadual distribuição mais equilibrada de recursos para Blumenau (2018).", "fontes": [2, 9]}
+  },
+  "eixos": {
+    "economia": {"valor": 2, "evidencia": "Histórico ligado a programa de incentivo à atração de empresas (PRODEC) e frente pela desburocratização; sem posições recentes explícitas.", "fontes": [0]},
+    "costumes": {"valor": null, "evidencia": "Sem posições sobre pautas de costumes em 2026; apenas a iniciativa antidrogas de 2009.", "fontes": [10]},
+    "estado": {"valor": null, "evidencia": "Defende integração municípios-Estado e distribuição regional de recursos, sem posição clara sobre centralização/descentralização.", "fontes": [2, 9]},
+    "ambiente": {"valor": null, "evidencia": "Sem evidência sobre o trade-off preservação versus produção.", "fontes": []},
+    "governo": {"valor": 3, "evidencia": "Ao se filiar ao Republicanos, avaliou que o partido pode ser alternativa política com Tarcísio de Freitas como possível candidato a presidente; o Republicanos-SC é descrito como alinhado ao governo estadual de Jorginho Mello (PL).", "fontes": [3, 4]}
+  },
+  "criterios": {
+    "concretude": {"valor": 3, "evidencia": "Propostas de 2026 são genéricas (infraestrutura, emprego, integração regional), sem metas, prazos ou fontes; há histórico legislativo documentado (201 projetos em três mandatos; 66 de 77 aprovados no 1º).", "fontes": [0, 1, 2]},
+    "responsabilidadeFiscal": {"valor": null, "evidencia": "Nenhuma manifestação encontrada sobre equilíbrio fiscal ou gasto público.", "fontes": []}
+  },
+  "propostas": [
+    {"tema": "municipalismo", "texto": "Fortalecer a representação política do Planalto Norte na Alesc, com presença constante junto a municípios, lideranças, empresários, trabalhadores e entidades.", "fontes": [2]},
+    {"tema": "municipalismo", "texto": "Atuar como elo entre municípios, Governo do Estado e Assembleia, levando demandas regionais e buscando maior integração entre prefeituras e Estado.", "fontes": [2]},
+    {"tema": "desenvolvimento", "texto": "Buscar investimentos em infraestrutura para desenvolver o potencial do Planalto Norte.", "fontes": [2]},
+    {"tema": "industria", "texto": "Explorar o potencial econômico, industrial, agrícola e turístico da região com investimentos direcionados.", "fontes": [2]},
+    {"tema": "economia", "texto": "Geração de empregos na região do Planalto Norte.", "fontes": [2]},
+    {"tema": "social", "texto": "Melhoria dos serviços públicos na região (sem detalhamento).", "fontes": [2]}
+  ],
+  "historico": [
+    {"texto": "Deputado estadual por três mandatos (2007-2019) e suplente convocado por 60 dias em 2021; apresentou 201 projetos de lei nos três mandatos.", "fontes": [0]},
+    {"texto": "No primeiro mandato apresentou 77 projetos de lei e obteve aprovação de 66.", "fontes": [1]},
+    {"texto": "Secretário de Estado do Desenvolvimento Econômico Sustentável em 2007, período em que se destacou no desenvolvimento do PRODEC e do Pró-Emprego.", "fontes": [0]},
+    {"texto": "Criou frentes parlamentares de apoio ao setor têxtil, à inovação catarinense e à desburocratização; defendeu a duplicação da BR-470 e a prevenção de desastres naturais.", "fontes": [0]},
+    {"texto": "Autor do PL 314/2009, aprovado na Alesc, que instituiu o Dia de Combate ao Crack em Santa Catarina.", "fontes": [10]},
+    {"texto": "Em junho de 2018 criticou na tribuna a diferença entre os R$ 345 milhões anunciados pelo governador Eduardo Pinho Moreira para Florianópolis e R$ 1,44 milhão para Blumenau.", "fontes": [9]},
+    {"texto": "Como membro da CCJ, considerou apto à tramitação o PL 167/2017, que regulamenta convênios de trabalho para presos (2018).", "fontes": [12]},
+    {"texto": "Vereador de Blumenau eleito em 2000 e reeleito em 2004 com 7.984 votos, apontada como a maior votação de vereador na história de SC.", "fontes": [0]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Trocou de partido várias vezes: PFL, DEM, PSD, Podemos (2021), PP (2023) e Republicanos (2025). Ao entrar no PP, em 2023, declarou que não seria candidato nas eleições seguintes.", "fontes": [0, 11, 3]},
+    {"texto": "Sem mandato desde 2019, exceto a convocação de 60 dias como suplente em 2021.", "fontes": [0]}
+  ],
+  "fontes": [
+    {"titulo": "Biografias / Jean Kuhlmann", "url": "https://memoriapolitica.alesc.sc.gov.br/biografia/971-Jean_Kuhlmann", "veiculo": "Memória Política de SC (Alesc)", "data": ""},
+    {"titulo": "Jean Kuhlmann", "url": "https://pt.wikipedia.org/wiki/Jean_Kuhlmann", "veiculo": "Wikipédia", "data": ""},
+    {"titulo": "Jean Kuhlmann quer defender o Planalto Norte na Alesc", "url": "https://www.primeirapaginasc.com/jean-kuhlmann-quer-defender-o-planalto-norte-na-alesc/", "veiculo": "Primeira Página SC", "data": "2026-09-16"},
+    {"titulo": "Jean Kuhlmann se filia ao Republicanos e assumirá Coordenação Regional no Médio Vale", "url": "https://www.informeblumenau.com/jean-kuhlmann-se-filia-ao-republicanos-e-assumira-coordenacao-regional-no-medio-vale/", "veiculo": "Informe Blumenau", "data": "2025-02-03"},
+    {"titulo": "Com Jean Kuhlmann e Egidio Beckhauser, Republicanos de Blumenau realiza ato nesta segunda", "url": "https://www.informeblumenau.com/com-jean-kuhlmann-e-egidio-beckhauser-republicanos-de-blumenau-realiza-ato-nesta-segunda/", "veiculo": "Informe Blumenau", "data": "2025-02-09"},
+    {"titulo": "Com muitas lideranças do PL, \"novo\" Republicanos de Blumenau realiza evento de posse de novas lideranças regionais", "url": "https://www.informeblumenau.com/com-muitas-liderancas-do-pl-novo-republicanos-de-blumenau-realiza-evento-de-posse-de-novas-liderancas-regionais/", "veiculo": "Informe Blumenau", "data": "2025-02-10"},
+    {"titulo": "Entrevista: Jean Kuhlmann (Republicanos), ex-deputado", "url": "https://www.informeblumenau.com/entrevista-jean-kuhlmann-republicanos-ex-deputado/", "veiculo": "Informe Blumenau", "data": "2026-05-31"},
+    {"titulo": "Blumenau deve ter pelo menos 16 candidatos à Assembleia Legislativa", "url": "https://www.informeblumenau.com/blumenau-deve-ter-pelo-menos-16-candidatos-a-assembleia-legislativa/", "veiculo": "Informe Blumenau", "data": "2026-07-22"},
+    {"titulo": "Jean Kuhlmann (REPUBLICANOS): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/jean-kuhlmann", "veiculo": "Jornal Razão", "data": "2026-09-30"},
+    {"titulo": "Jean Kuhlmann cobra respeito de Pinho Moreira à Blumenau", "url": "https://www.mesorregional.com.br/jean-kuhlmann-cobra-respeito-de-pinho-moreira-a-blumenau/", "veiculo": "Mesorregional", "data": "2018-06-13"},
+    {"titulo": "Aprovada lei que institui o Dia de Combate ao Crack", "url": "https://www.alesc.sc.gov.br/agencia/noticia/aprovada-lei-que-institui-o-dia-de-combate-ao-crack", "veiculo": "Agência Alesc", "data": "2009-09-22"},
+    {"titulo": "Jean Kuhlmann no PP", "url": "https://www.informeblumenau.com/jean-kuhlmann-no-pp/", "veiculo": "Informe Blumenau", "data": "2023-05-22"},
+    {"titulo": "CCJ aprova projeto para normatizar convênios que oferecem emprego a presos", "url": "https://www.alesc.sc.gov.br/agencia/noticia/ccj-aprova-projeto-para-normatizar-convenios-que-oferecem-emprego-a-presos/", "veiculo": "Agência Alesc", "data": "2018-06-26"}
+  ]
+}
