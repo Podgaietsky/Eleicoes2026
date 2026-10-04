@@ -480,3 +480,5 @@ table.hm { border-collapse: separate; border-spacing: 2px; font-size: 12.5px; mi
 .rd-src { margin: 8px 0 0; padding-left: 22px; display: flex; flex-direction: column; gap: 4px; font-size: 12.5px; }
 .rd-src a { overflow-wrap: anywhere; }
 .rd-src span { color: var(--ink-3); }
+.aff-presets { display: flex; gap: 8px; flex-wrap: wrap; }
+.seg button.avoid[aria-pressed="true"] { background: var(--crit); color: #fff; }

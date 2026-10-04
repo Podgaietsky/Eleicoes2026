@@ -78,10 +78,27 @@ window.renderResearchView = function (root, ctx) {
   const axSel = (i) => `<select class="select" id="rs-ax${i}" aria-label="Eixo ${i ? "vertical" : "horizontal"}">${EIXOS.map(e => `<option value="${e.k}" ${st.ax[i] === e.k ? "selected" : ""}>${esc(e.nome)}</option>`).join("")}</select>`;
 
   // ------------------------------------------------ calculadora de afinidade
-  const pesoAtivo = TEMAS.some(t => (st.pesos[t.k] || 0) > 0) || EIXOS.some(e => st.pref[e.k] != null && st.pref[e.k] !== "");
+  const CRIT = [
+    { k: "concretude", nome: "Propostas concretas e viáveis", desc: "Propostas específicas, com como fazer e de onde vem o recurso, ou histórico de entrega" },
+    { k: "responsabilidadeFiscal", nome: "Responsabilidade fiscal", desc: "Compromisso com equilíbrio das contas e qualidade do gasto" },
+  ];
+  const crit = (r, k) => { const v = r.criterios?.[k]?.valor; return typeof v === "number" ? v : null; };
+  const HAS_CRIT = list.some(x => x.r.criterios);
+  const PRESET = { pesos: { desenvolvimento: 3, industria: 3, tecnologia: 3, economia: 2, educacao: 1, costumes: -1 }, crit: { concretude: 3, responsabilidadeFiscal: 3 } };
+  st.critP = st.critP || store.get("rsCrit", {});
+  const pesoAtivo = TEMAS.some(t => (st.pesos[t.k] || 0) !== 0) || CRIT.some(c => (st.critP[c.k] || 0) > 0) || EIXOS.some(e => st.pref[e.k] != null && st.pref[e.k] !== "");
   function score(r) {
-    let wsum = 0, acc = 0;
-    for (const t of TEMAS) { const w = st.pesos[t.k] || 0; if (w) { wsum += w; acc += w * nota(r, t.k) / 10; } }
+    // temas e critérios com peso positivo: média ponderada das notas (0–1)
+    let wsum = 0, acc = 0, penal = 1;
+    for (const t of TEMAS) {
+      const w = st.pesos[t.k] || 0;
+      if (w > 0) { wsum += w; acc += w * nota(r, t.k) / 10; }
+      else if (w < 0) penal *= 1 - 0.5 * nota(r, t.k) / 10;   // "evitar": quanto mais foco no tema, maior o desconto
+    }
+    for (const c of CRIT) {
+      const w = st.critP[c.k] || 0;
+      if (w > 0) { wsum += w; acc += w * (crit(r, c.k) ?? 0) / 10; }
+    }
     const foco = wsum ? acc / wsum : null;
     let n = 0, d = 0;
     for (const e of EIXOS) {
@@ -91,15 +108,21 @@ window.renderResearchView = function (root, ctx) {
     }
     const pos = n ? d / n : null;
     const parts = [foco, pos].filter(v => v != null);
-    return { total: parts.length ? parts.reduce((a, b) => a + b, 0) / parts.length : null, foco, pos, nEixos: n };
+    const base = parts.length ? parts.reduce((a, b) => a + b, 0) / parts.length : null;
+    return { total: base == null ? null : base * penal, foco, pos, penal, nEixos: n };
   }
   const ranked = shown.map(x => ({ ...x, s: score(x.r) })).sort((a, b) => (b.s.total ?? -1) - (a.s.total ?? -1));
+  const WOPTS = [[-1, "Evitar"], [0, "—"], [1, "1"], [2, "2"], [3, "3"]];
   const calc = `
     <div class="aff">
       <div class="aff-in">
+        <div class="aff-presets"><button type="button" class="btn sm primary" id="aff-preset" title="Desenvolvimento, indústria, tecnologia/IA e economia com peso alto; pautas morais em Evitar; propostas concretas e responsabilidade fiscal com peso alto">Aplicar meu perfil: desenvolvimento com responsabilidade</button></div>
         <h4>1. Quanto cada tema importa para você?</h4>
         <div class="aff-grid">${TEMAS.map(t => `<label class="aff-row" title="${esc(t.desc)}"><span>${esc(t.nome)}</span>
-          <span class="seg sm" role="group">${[0, 1, 2, 3].map(w => `<button type="button" data-w="${t.k}:${w}" aria-pressed="${(st.pesos[t.k] || 0) === w}">${["—", "1", "2", "3"][w]}</button>`).join("")}</span></label>`).join("")}</div>
+          <span class="seg sm" role="group">${WOPTS.map(([w, l]) => `<button type="button" data-w="${t.k}:${w}" aria-pressed="${(st.pesos[t.k] || 0) === w}" ${w < 0 ? 'class="avoid"' : ""}>${l}</button>`).join("")}</span></label>`).join("")}</div>
+        ${HAS_CRIT ? `<h4>Qualidade das propostas</h4>
+        <div class="aff-grid">${CRIT.map(c => `<label class="aff-row" title="${esc(c.desc)}"><span>${esc(c.nome)}</span>
+          <span class="seg sm" role="group">${[0, 1, 2, 3].map(w => `<button type="button" data-cw="${c.k}:${w}" aria-pressed="${(st.critP[c.k] || 0) === w}">${["—", "1", "2", "3"][w]}</button>`).join("")}</span></label>`).join("")}</div>` : ""}
         <h4>2. Onde você se posiciona? <small>(opcional)</small></h4>
         <div class="aff-grid">${EIXOS.map(e => `<div class="aff-row aff-ax"><span>${esc(e.nome)}</span>
           <select class="select sm" data-pref="${e.k}" aria-label="${esc(e.nome)}"><option value="">Indiferente</option>
@@ -114,7 +137,7 @@ window.renderResearchView = function (root, ctx) {
             <span class="track"><span class="fill" style="width:${s.total == null ? 0 : Math.round(s.total * 100)}%"></span></span>
             <span class="val">${s.total == null ? "—" : Math.round(s.total * 100) + "%"}</span>
           </button>`).join("")}</div>
-          <p class="hint">O percentual combina (a) quanto cada candidato fala dos temas que você marcou, ponderado pelos seus pesos, e (b) a distância entre a sua posição e a dele nos eixos que você escolheu. Eixos sem informação sobre o candidato são ignorados. É um resultado das suas respostas e das notas da pesquisa; não é uma recomendação.</p>`
+          <p class="hint">O percentual combina (a) quanto cada candidato fala dos temas que você marcou e, se houver, as notas de concretude e responsabilidade fiscal, ponderados pelos seus pesos; temas em “Evitar” reduzem o resultado de quem dá muito espaço a eles; e (b) a distância entre a sua posição e a dele nos eixos que você escolheu. Eixos sem informação sobre o candidato são ignorados. É um resultado das suas respostas e das notas da pesquisa; não é uma recomendação.</p>`
           : `<div class="empty" style="padding:24px 8px"><h3>Responda ao lado</h3><p>Dê um peso aos temas que mais importam para você e, se quiser, marque sua posição nos eixos. O painel mostra o quanto cada candidato pesquisado se aproxima das suas respostas.</p></div>`}
       </div>
     </div>`;
@@ -153,6 +176,8 @@ window.renderResearchView = function (root, ctx) {
           <div class="rd-top">${top.slice(0, 14).map(t => `<div class="rd-t" title="${esc(r.temas[t.k]?.evidencia || "")}"><span>${esc(t.nome)}</span><span class="bar"><i style="width:${nota(r, t.k) * 10}%"></i></span><b>${nota(r, t.k)}</b></div>`).join("") || `<p class="hint">Nenhum tema com evidência suficiente.</p>`}</div>
         </div>
         <div class="rd-col">
+          ${r.criterios ? `<h4>Qualidade das propostas</h4><div class="rd-top" style="margin-bottom:16px">${CRIT.map(k => { const v = crit(r, k.k); const ev = r.criterios[k.k];
+            return `<div class="rd-t" title="${esc(ev?.evidencia || "")}"><span>${esc(k.nome)}</span><span class="bar"><i style="width:${(v ?? 0) * 10}%"></i></span><b>${v ?? "—"}</b></div>${ev?.evidencia ? `<p class="pos-e" style="margin:0 0 6px">${esc(ev.evidencia)} ${src(r, ev.fontes)}</p>` : ""}`; }).join("")}</div>` : ""}
           <h4>Posicionamento</h4>
           <div class="pos">${EIXOS.map(e => { const v = eixo(r, e.k); const ev = r.eixos?.[e.k];
             return `<div class="pos-r"><div class="pos-l"><span>${esc(e.neg)}</span><b>${esc(e.nome)}</b><span>${esc(e.pos)}</span></div>
@@ -210,7 +235,9 @@ window.renderResearchView = function (root, ctx) {
   [0, 1].forEach(i => $("#rs-ax" + i, root)?.addEventListener("change", e => { st.ax[i] = e.target.value; store.set("rsAx", st.ax); window.renderResearchView(root, ctx); }));
   $$("[data-w]", root).forEach(b => b.addEventListener("click", () => { const [k, w] = b.dataset.w.split(":"); st.pesos[k] = +w; store.set("rsPesos", st.pesos); window.renderResearchView(root, ctx); }));
   $$("[data-pref]", root).forEach(s => s.addEventListener("change", () => { st.pref[s.dataset.pref] = s.value === "" ? null : +s.value; store.set("rsPref", st.pref); window.renderResearchView(root, ctx); }));
-  $("#aff-reset", root)?.addEventListener("click", () => { st.pesos = {}; st.pref = {}; store.set("rsPesos", {}); store.set("rsPref", {}); window.renderResearchView(root, ctx); });
+  $("#aff-reset", root)?.addEventListener("click", () => { st.pesos = {}; st.pref = {}; st.critP = {}; store.set("rsPesos", {}); store.set("rsPref", {}); store.set("rsCrit", {}); window.renderResearchView(root, ctx); });
+  $$("[data-cw]", root).forEach(b => b.addEventListener("click", () => { const [k, w] = b.dataset.cw.split(":"); st.critP[k] = +w; store.set("rsCrit", st.critP); window.renderResearchView(root, ctx); }));
+  $("#aff-preset", root)?.addEventListener("click", () => { st.pesos = { ...PRESET.pesos }; st.critP = { ...PRESET.crit }; store.set("rsPesos", st.pesos); store.set("rsCrit", st.critP); window.renderResearchView(root, ctx); });
   $$("[data-open]", root).forEach(b => b.addEventListener("click", () => openCandidate(b.dataset.open)));
 };
 })();
