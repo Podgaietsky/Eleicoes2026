@@ -1,0 +1,84 @@
+{
+  "id": "240002541926",
+  "urna": "Angela Amin",
+  "cargo": "Deputado federal",
+  "partido": "PP",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Ex-vereadora e ex-prefeita de Florianópolis (1997-2004) e deputada federal em três legislaturas (1991-1995, 2007-2011, 2019-2023), professora de formação em Matemática, que tenta voltar à Câmara pelo PP em 2026. Declara a tecnologia na educação e o preparo de professores e alunos para a inteligência artificial como sua principal bandeira, ao lado de infraestrutura. É autora da lei que criou a Política Nacional de Educação Digital (Lei 14.533/2023); as propostas de 2026 localizadas são genéricas, sem custo ou fonte de recurso.",
+  "perfil": "Angela Regina Heinzen Amin Helou, 72 anos, nascida em Indaial (SC), graduada em Matemática (UFSC) com mestrado em Engenharia do Conhecimento (UFSC); professora, trabalhou como administradora na Companhia de Desenvolvimento do Estado (1976-1990). Vereadora de Florianópolis (PDS, 1989-1990), deputada federal (PDS, 1991-1995), prefeita de Florianópolis por dois mandatos (PPB, 1997-2004) e deputada federal pelo PP (2007-2011 e 2019-2023). Foi a mais votada de SC em 1990 e 2006 (174.511 votos em 2006). Presidiu a Comissão de Educação, Cultura e Desportos (1993) e a de Desenvolvimento Urbano (2008-2009); em 2019-2023 foi titular e 2ª vice-presidente da Comissão de Ciência, Tecnologia e Inovação e presidente da Subcomissão de Empreendedorismo e Inovação. Não foi reeleita em 2022. Casada com o senador Esperidião Amin (PP), candidato à reeleição ao Senado em 2026. Filiações: PDS, PPR, PPB, PP (desde 2003). Patrimônio declarado em 2026: R$ 1.234.749. Base eleitoral histórica na Grande Florianópolis.",
+  "temas": {
+    "costumes": {"nota": 1, "evidencia": "Campanha 2026 não aborda pautas morais nas fontes encontradas. No mandato 2019-2023, votou Sim ao PL 3723/2019 (regras de posse/porte de armas para CACs).", "fontes": [0, 14]},
+    "desenvolvimento": {"nota": 6, "evidencia": "Infraestrutura citada como prioridade em 2026; histórico em projetos de infraestrutura urbana; presidiu a Comissão de Desenvolvimento Urbano; integrou a Comissão Especial do Código Brasileiro de Energia Elétrica; autora do PL 640/2019 (compensação tarifária para pequenas distribuidoras de energia) e coautora do PL 976/2021 (Política Nacional de Cidades Inteligentes).", "fontes": [0, 2, 18, 22, 4]},
+    "educacao": {"nota": 9, "evidencia": "Educação digital é a bandeira central de 2026 ('A evolução da tecnologia vai ser a minha grande bandeira, para que tenhamos profissionais da educação utilizando os mecanismos de tecnologia para a melhoria da qualidade do ensino'). Autora do PL 4513/2020, convertido na Lei 14.533/2023 (Política Nacional de Educação Digital); presidiu a Comissão de Educação em 1993; votou Sim ao PL 5595/2020 (educação como atividade essencial).", "fontes": [0, 5, 6, 7, 2, 16]},
+    "industria": {"nota": 2, "evidencia": "Sem proposta específica para indústria em 2026. Presidiu em 2019 a Subcomissão Especial de Empreendedorismo e Inovação da Câmara.", "fontes": [18]},
+    "economia": {"nota": 5, "evidencia": "Autora do PLP 59/2019 (critérios, metas e avaliação periódica de incentivos fiscais na LRF); coassinou o PLP 17/2022 (Código de Defesa do Contribuinte); votou Sim à reforma da Previdência (PEC 6/2019), à autonomia do Banco Central (PLP 19/2019) e à reforma do IR (PL 2337/2021). Também coassinou PECs que ampliam transferências da União a municípios.", "fontes": [8, 4, 9, 10, 19]},
+    "tecnologia": {"nota": 9, "evidencia": "Em 2026 defende preparar crianças e professores para a IA ('A Inteligência Artificial está aqui e temos que preparar as nossas crianças para esse novo mundo'). Autora da Lei 14.533/2023 (educação digital, com uso de recursos do Fust e Funttel) e do PL 4449/2020 (fundos de telecom para Cesta Básica Digital); titular e vice-presidente da Comissão de Ciência, Tecnologia e Inovação e membro da subcomissão do 5G.", "fontes": [0, 5, 7, 23, 18]},
+    "nacionalismo": {"nota": 1, "evidencia": "Consta entre os signatários da PEC 17/2022 (atualização tecnológica e orçamento das Forças Armadas). Sem menção ao tema na campanha 2026.", "fontes": [20]},
+    "seguranca": {"nota": 4, "evidencia": "Coautora de projetos contra violência doméstica (PL 641/2020, alterações na Lei Maria da Penha como o PL 2311/2020); autora da PEC 218/2019 (corpos de bombeiros municipais via convênio com bombeiros voluntários); integrou CPI da violência contra a mulher; votou Sim ao PL 3723/2019 (armas).", "fontes": [4, 21, 17, 14]},
+    "saude": {"nota": 3, "evidencia": "Coautora de projetos como a Política Nacional de Proteção ao Paciente com Lúpus (PL 3798/2020) e isenção de IR para fibrose pulmonar idiopática (PL 3040/2020). Sem menção na campanha 2026.", "fontes": [4]},
+    "agro": {"nota": 2, "evidencia": "Coautora do PL 3834/2020 (compra de pescado direto de aquicultores e pescadores artesanais); votou Sim ao PL 6299/2002 (agrotóxicos).", "fontes": [4, 15]},
+    "ambiente": {"nota": 2, "evidencia": "Autora (1991) de projeto que obriga aplicar no município multas por dano ambiental e (2007) de projeto sobre fontes renováveis de energia e geração distribuída. Sem menção na campanha 2026.", "fontes": [4]},
+    "social": {"nota": 5, "evidencia": "Coautora de projetos sobre pessoa idosa (Junho Violeta, PL 3518/2020; Década do Envelhecimento Ativo, PL 5497/2020), licença parental (PL 3110/2021), crédito para empreendedorismo feminino (PL 2589/2021) e proteção a vítimas de violência doméstica; integrou a Secretaria da Mulher da Câmara.", "fontes": [4, 18]},
+    "transparencia": {"nota": 3, "evidencia": "PLP 59/2019 propõe avaliação periódica de impacto dos incentivos fiscais; PL 4366/2021 obriga a ANEEL a explicar periodicamente as tarifas em linguagem acessível. Por outro lado, consta entre os signatários da PEC 3/2021 (prerrogativas parlamentares).", "fontes": [8, 4]},
+    "municipalismo": {"nota": 6, "evidencia": "Ex-prefeita da Capital; coassinou PECs que elevam o FPM (PEC 25/2022), reduzem contribuição previdenciária patronal dos municípios (PEC 14/2022) e permitem parcelar débitos previdenciários municipais (PEC 15/2021); autora de projetos de títulos para municípios catarinenses (Urupema, Timbó, Indaial, Jaguaruna) e da PEC dos bombeiros municipais.", "fontes": [3, 4, 21]}
+  },
+  "eixos": {
+    "economia": {"valor": 1, "evidencia": "Votou Sim à reforma da Previdência, autonomia do BC e privatização da Eletrobras; propôs critérios para incentivos fiscais. Mas também coassinou PECs de aumento de transferências da União (FPM, saúde) e, em 2007, PEC elevando de 18% para 25% o gasto da União em educação.", "fontes": [9, 10, 11, 8, 4]},
+    "costumes": {"valor": 1, "evidencia": "Pouca evidência: campanha sem pautas morais; voto Sim ao PL 3723/2019 (armas).", "fontes": [0, 14]},
+    "estado": {"valor": 3, "evidencia": "Pautas municipalistas recorrentes (FPM, previdência municipal, bombeiros municipais).", "fontes": [4, 21]},
+    "ambiente": {"valor": 1, "evidencia": "Voto Sim ao PL 6299/2002 (agrotóxicos), mas propostas antigas de energia renovável e multas ambientais revertidas aos municípios.", "fontes": [15, 4]},
+    "governo": {"valor": 2, "evidencia": "Partido (PP) e marido (Esperidião Amin) na oposição em SC; nos votos de 2019-2022 seguiu pautas apoiadas pelo governo anterior (Previdência, Eletrobras, precatórios). Não foi encontrada declaração dela sobre o governo Lula em 2026.", "fontes": [9, 11, 13]}
+  },
+  "criterios": {
+    "concretude": {"valor": 5, "evidencia": "Propostas de 2026 são genéricas (preparar professores e alunos para IA, infraestrutura), sem meta, prazo ou custo; há porém histórico comprovado de entrega no mesmo tema (Lei 14.533/2023, com fonte de recursos via Fust/Funttel).", "fontes": [0, 5, 7]},
+    "responsabilidadeFiscal": {"valor": 5, "evidencia": "Autora do PLP 59/2019 (metas e avaliação de incentivos fiscais) e votou a reforma da Previdência; ao mesmo tempo, coassinou PECs que aumentam repasses da União (FPM, saúde) e votou Sim à PEC dos Precatórios (PEC 23/2021). Sem compromisso fiscal explícito na campanha 2026.", "fontes": [8, 9, 4, 13]}
+  },
+  "propostas": [
+    {"tema": "tecnologia", "texto": "Fazer da evolução da tecnologia sua principal bandeira, com profissionais da educação usando mecanismos tecnológicos para melhorar a qualidade do ensino.", "fontes": [0]},
+    {"tema": "educacao", "texto": "Preparar crianças para a inteligência artificial ('A Inteligência Artificial está aqui e temos que preparar as nossas crianças para esse novo mundo').", "fontes": [0]},
+    {"tema": "educacao", "texto": "Capacitação de professores e alunos em IA e novas ferramentas digitais.", "fontes": [0]},
+    {"tema": "desenvolvimento", "texto": "Infraestrutura como uma das prioridades declaradas, ao lado de educação e tecnologia.", "fontes": [0]},
+    {"tema": "educacao", "texto": "Melhoria da qualidade do ensino pela adoção de tecnologia nas escolas.", "fontes": [0]}
+  ],
+  "historico": [
+    {"texto": "Vereadora de Florianópolis (1989-1990), deputada federal (1991-1995, 2007-2011, 2019-2023) e prefeita de Florianópolis (1997-2000 e 2001-2004).", "fontes": [2, 3]},
+    {"texto": "Autora do PL 4513/2020, transformado na Lei 14.533/2023 (Política Nacional de Educação Digital), sancionada com vetos, entre eles o da inclusão obrigatória de computação, robótica e programação no currículo.", "fontes": [5, 6, 7]},
+    {"texto": "Presidiu a Comissão de Educação, Cultura e Desportos (1993) e a Comissão de Desenvolvimento Urbano (2008-2009); em 2019-2023 foi 2ª vice-presidente da Comissão de Ciência, Tecnologia e Inovação e presidente da Subcomissão de Empreendedorismo e Inovação.", "fontes": [2, 18]},
+    {"texto": "Votos em plenário (2019-2022): Sim à reforma da Previdência (PEC 6/2019, 2º turno), à autonomia do Banco Central (PLP 19/2019), à privatização da Eletrobras (MP 1031/2021), à PEC dos Precatórios (PEC 23/2021, 2º turno), ao PL 3723/2019 (armas), ao PL 6299/2002 (agrotóxicos), à reforma do IR (PL 2337/2021) e ao PL 5595/2020 (educação essencial); Não à PEC 135/2019 (voto impresso).", "fontes": [9, 10, 11, 13, 14, 15, 19, 16, 12]},
+    {"texto": "Autora do PLP 59/2019, que altera a LRF para exigir critérios objetivos, metas de desempenho e avaliação periódica de incentivos fiscais (tramitando em conjunto).", "fontes": [8]},
+    {"texto": "Mais votada de SC para deputado federal em 1990 e 2006 (174.511 votos em 2006); não reeleita em 2022.", "fontes": [17, 1]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Votou Sim ao substitutivo da PEC 5/2021, que alterava a composição do Conselho Nacional do Ministério Público (CNMP); o texto foi rejeitado em plenário em 20/10/2021 por não atingir o quórum (297 votos Sim).", "fontes": [24]},
+    {"texto": "Consta entre os 186 signatários da PEC 3/2021, que alterava regras de prerrogativas parlamentares (imunidade); a proposta foi arquivada.", "fontes": [25]}
+  ],
+  "fontes": [
+    {"titulo": "Esperidião e Angela Amin reafirmam pré-candidaturas e elegem educação, tecnologia e infraestrutura como prioridades em SC", "url": "https://ndmais.com.br/politica/esperidiao-e-angela-amin-reafirmam-pre-candidaturas-e-elegem-educacao-tecnologia-e-infraestrutura-como-prioridades-em-sc/", "veiculo": "ND+", "data": "2026-07-31"},
+    {"titulo": "Angela Amin (PP) 1133 - Deputado Federal SC - Eleições 2026", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/sc/deputado-federal/angela-amin-pp-1133/", "veiculo": "Gazeta do Povo", "data": ""},
+    {"titulo": "Biografia - Angela Amin", "url": "https://www.camara.leg.br/deputados/73696/biografia", "veiculo": "Câmara dos Deputados", "data": ""},
+    {"titulo": "Mandatos externos - Angela Amin (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/73696/mandatosExternos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "Proposições de autoria/coautoria de Angela Amin (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=73696&siglaTipo=PL,PLP,PEC&itens=100", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "PL 4513/2020 - Política Nacional de Educação Digital", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2262422", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "Lula sanciona lei da educação digital com três vetos", "url": "https://www.baguete.com.br/noticias/lula-sanciona-lei-da-educacao-digital-com-tres-vetos", "veiculo": "Baguete", "data": "2023-01-13"},
+    {"titulo": "Política Nacional de Educação Digital poderá usar recursos do Fust a partir de 2025", "url": "https://teletime.com.br/12/01/2023/politica-nacional-de-educacao-digital-podera-usar-recursos-do-fust-a-partir-de-2025/", "veiculo": "Teletime", "data": "2023-01-12"},
+    {"titulo": "PLP 59/2019 - critérios e avaliação de incentivos fiscais (LRF)", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193819", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "Votos - PEC 6/2019 (reforma da Previdência), 2º turno", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2192459-786/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2019-08-06"},
+    {"titulo": "Votos - PLP 19/2019 (autonomia do Banco Central)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2021-02-10"},
+    {"titulo": "Votos - MP 1031/2021 (desestatização da Eletrobras)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2021-05-19"},
+    {"titulo": "Votos - PEC 135/2019 (voto impresso)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2220292-229/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2021-08-10"},
+    {"titulo": "Votos - PEC 23/2021 (precatórios), 2º turno", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2293449-241/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2021-11-09"},
+    {"titulo": "Votos - PL 3723/2019 (armas)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2209381-100/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2019-11-05"},
+    {"titulo": "Votos - PL 6299/2002 (agrotóxicos)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2022-02-09"},
+    {"titulo": "Votos - PL 5595/2020 (educação como atividade essencial)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2267745-104/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2021-04-20"},
+    {"titulo": "Angela Amin (PP-SC)", "url": "https://www.congressoemfoco.com.br/noticia/84729/angela-amin-pp-sc", "veiculo": "Congresso em Foco", "data": "2007-11-19"},
+    {"titulo": "Órgãos/comissões de Angela Amin 2019-2023 (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/73696/orgaos?itens=100&dataInicio=2019-02-01", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "Votos - PL 2337/2021 (reforma do Imposto de Renda)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2288389-78/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2021-09-01"},
+    {"titulo": "PEC 17/2022 - autores (Forças Armadas)", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2329063/autores", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "PEC 218/2019 - corpos de bombeiros municipais", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233640", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "PL 640/2019 - compensação tarifária de pequenas distribuidoras de energia", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2191682", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "PL 4449/2020 - fundos de telecom para Cesta Básica Digital", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2262021", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "Votos - PEC 5/2021 (CNMP), substitutivo rejeitado", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2275537-128/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2021-10-20"},
+    {"titulo": "PEC 3/2021 - autores (prerrogativas parlamentares)", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270800/autores", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""}
+  ]
+}
