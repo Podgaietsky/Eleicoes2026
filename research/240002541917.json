@@ -1,0 +1,65 @@
+{
+  "id": "240002541917",
+  "urna": "Carlos Moisés",
+  "cargo": "Deputado federal",
+  "partido": "UNIÃO",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Ex-governador de Santa Catarina (2019-2022) e coronel da reserva do Corpo de Bombeiros Militar, disputa pela primeira vez um cargo legislativo, pelo União Brasil (número 4411). Na campanha, defende uma fatia orçamentária vinculada à segurança pública, a revisão da tabela SUS e critica a polarização entre esquerda e direita. Destaca do seu governo a gestão fiscal, a revisão de contratos e investimentos em rodovias federais.",
+  "perfil": "Carlos Moisés da Silva, 59 anos, nascido em Florianópolis. Serviu no Corpo de Bombeiros Militar de SC de 1987 a 2016, chegando a coronel. É formado em Direito pela Unisul e tem mestrado em Direito Constitucional. Foi eleito governador em 2018 pelo PSL, com mais de 71% dos votos no 2º turno. Enfrentou dois processos de impeachment e foi absolvido nos dois (2020 e 2021). Saiu do PSL em 2021 e tentou a reeleição em 2022 pelo Republicanos, ficando com 16,99% dos votos válidos no 1º turno. Presidiu o Republicanos-SC a partir de 2023. Em 2026 é candidato a deputado federal pelo União Brasil. No TSE declarou ocupação 'membro das Forças Armadas' e patrimônio de R$ 2.497.864.",
+  "temas": {
+    "costumes": {"nota": 0, "evidencia": "Sem menção encontrada. Não apareceram pautas morais nas fontes. Em 2022 defendeu a vacinação e uma gestão baseada na ciência.", "fontes": [1]},
+    "desenvolvimento": {"nota": 5, "evidencia": "Diz ter investido na BR-163 (pavimento rígido) só com recursos do Estado, além da BR-470, BR-280 e BR-285, e cita o primeiro projeto ferroviário de SC. Critica 504 obras paralisadas no governo atual e a nova licitação da barragem de Botuverá.", "fontes": [0, 1]},
+    "educacao": {"nota": 4, "evidencia": "Critica o fim da bolsa de ensino médio contra a evasão, que segundo ele atendia 57 mil alunos. Afirma ter feito o maior investimento em educação da história de SC.", "fontes": [0, 1]},
+    "industria": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "economia": {"nota": 4, "evidencia": "Diz que não aumentou impostos no governo e que economizou R$ 500 milhões por ano revendo contratos. Cita a quitação de um empréstimo com o Bank of America (economia anual de R$ 630 milhões para o sucessor) e o menor desemprego da história do Estado.", "fontes": [1, 0]},
+    "tecnologia": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 7, "evidencia": "Diz que 'é oriundo da segurança pública' e que tem como bandeira uma fatia orçamentária destinada à segurança, a exemplo da saúde e da educação. Cita o avanço do crime organizado.", "fontes": [0, 5]},
+    "saude": {"nota": 6, "evidencia": "Defende a revisão do SUS, especialmente da tabela SUS, e apoio aos hospitais, sobretudo filantrópicos. No governo, diz ter ampliado as UTIs de Covid de 500 para 1.800 leitos e destaca a menor taxa de mortalidade por Covid do país.", "fontes": [0, 1]},
+    "agro": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "ambiente": {"nota": 1, "evidencia": "A única menção é a barragem de Botuverá (obra de contenção de cheias), citada como crítica ao custo da nova licitação.", "fontes": [0]},
+    "social": {"nota": 1, "evidencia": "A única menção é a bolsa estudantil contra a evasão escolar. Não foram encontradas propostas específicas de assistência social.", "fontes": [0]},
+    "transparencia": {"nota": 6, "evidencia": "Afirma que 'a linguagem da política é corrupção' e que é preciso mudá-la. Diz que a revisão de contratos 'feriu muitos interesses políticos'. Defende uma gestão técnica em vez de partidária.", "fontes": [0, 1]},
+    "municipalismo": {"nota": 4, "evidencia": "No governo criou o 'Plano 1000', com repasse de R$ 1.000 por habitante aos municípios para obras, e diz ter destinado recursos a todos os 295 municípios. Em 2026 diz que quer representar os interesses do Estado no Congresso.", "fontes": [5, 1, 0]}
+  },
+  "eixos": {
+    "economia": {"valor": 1, "evidencia": "O que aparece é gestão fiscal (não aumentar impostos, rever contratos), sem discurso ideológico pró-mercado ou pró-Estado. A proposta de vincular orçamento à segurança amplia gasto obrigatório.", "fontes": [1, 0]},
+    "costumes": {"valor": null, "evidencia": "Não há evidência de posições sobre pautas morais.", "fontes": []},
+    "estado": {"valor": 2, "evidencia": "Repasses diretos aos municípios pelo Plano 1000 e a todos os 295 municípios durante o governo.", "fontes": [5, 1]},
+    "ambiente": {"valor": null, "evidencia": "Não há evidência suficiente.", "fontes": []},
+    "governo": {"valor": null, "evidencia": "Critica a polarização entre esquerda e direita e relata distanciamento de Bolsonaro quando era governador. Não foi encontrada posição explícita sobre o governo federal atual.", "fontes": [0]}
+  },
+  "criterios": {
+    "concretude": {"valor": 4, "evidencia": "Tem histórico de gestão com números citados (UTIs, economia em contratos, rodovias). As propostas para deputado são genéricas: vinculação orçamentária para segurança sem percentual nem fonte, e revisão da tabela SUS sem detalhar como.", "fontes": [0, 1]},
+    "responsabilidadeFiscal": {"valor": 6, "evidencia": "Como governador, diz que não aumentou impostos, que reviu contratos (R$ 500 milhões por ano) e que quitou dívida. Em 2022 seu plano destacava o equilíbrio fiscal. Mas a proposta de vincular orçamento à segurança cria gasto obrigatório sem indicar de onde viria o recurso.", "fontes": [1, 0]}
+  },
+  "propostas": [
+    {"tema": "seguranca", "texto": "Criar uma fatia orçamentária destinada à segurança pública, a exemplo dos pisos da saúde e da educação.", "fontes": [0]},
+    {"tema": "saude", "texto": "Rever o sistema SUS, em especial a tabela SUS.", "fontes": [0]},
+    {"tema": "saude", "texto": "Apoiar os hospitais, sobretudo os filantrópicos.", "fontes": [0]},
+    {"tema": "educacao", "texto": "Defende a bolsa de ensino médio contra a evasão escolar, que existia em seu governo e foi extinta.", "fontes": [0]},
+    {"tema": "transparencia", "texto": "'Mudar a linguagem da política', com combate à corrupção e gestão técnica em vez de partidária.", "fontes": [0]},
+    {"tema": "municipalismo", "texto": "Representar os interesses de Santa Catarina no Congresso, inclusive para obter recursos federais para o Estado.", "fontes": [0]}
+  ],
+  "historico": [
+    {"texto": "Governador de SC de 2019 a 2022, eleito em 2018 pelo PSL com mais de 71% dos votos válidos no 2º turno. Não se reelegeu em 2022 pelo Republicanos (16,99% no 1º turno).", "fontes": [5]},
+    {"texto": "Segundo o balanço que ele próprio fez do mandato: não aumentou impostos, economizou R$ 500 milhões por ano revendo contratos, teve o menor desemprego da história do Estado e a menor taxa de mortalidade por Covid do país.", "fontes": [1]},
+    {"texto": "Investiu recursos estaduais na BR-163 (pavimento rígido), na BR-470 e na BR-285, e lançou o primeiro projeto ferroviário de SC.", "fontes": [1]},
+    {"texto": "Ampliou os leitos de UTI para Covid de 500 para 1.800, segundo ele.", "fontes": [0]},
+    {"texto": "Criou o Plano 1000, com repasse de R$ 1.000 por habitante aos municípios para obras.", "fontes": [5]},
+    {"texto": "Foi coronel do Corpo de Bombeiros Militar de SC (1987-2016).", "fontes": [5]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Foi afastado e passou por processo de impeachment pelo reajuste salarial dado aos procuradores do Estado em 2019. Foi absolvido pelo Tribunal Especial em 27/11/2020, por 6 votos a 3 e 1 abstenção.", "fontes": [4]},
+    {"texto": "Passou por segundo processo de impeachment pela compra sem licitação de 200 respiradores por R$ 33 milhões, com pagamento antecipado, no início da pandemia. Foi absolvido em 07/05/2021 por 6 votos a 4, quando eram necessários 7 para a condenação.", "fontes": [3, 4]}
+  ],
+  "fontes": [
+    {"titulo": "\"A linguagem da política é corrupção. Nós precisamos mudar a linguagem da política\", fala ex-governador Carlos Moisés", "url": "https://diarinho.net/materia/675589/---A-linguagem-da-politica-e-corrupcao--Nos-precisamos-mudar-a-linguagem-da-politica-----fala-ex-governador-Carlos-Moises", "veiculo": "Diarinho", "data": "2026-09-25"},
+    {"titulo": "Carlos Moisés faz balanço do mandato e mira Senado ou Câmara Federal na eleição de 2026", "url": "https://ndmais.com.br/politica/carlos-moises-faz-balanco-do-mandato-e-mira-senado-ou-camara-federal-na-eleicao-de-2026/", "veiculo": "ND+", "data": "2022-12-26"},
+    {"titulo": "Carlos Moisés (UNIÃO) 4411 - Deputado federal SC", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/sc/deputado-federal/carlos-moises-uniao-4411/", "veiculo": "Gazeta do Povo", "data": ""},
+    {"titulo": "Carlos Moisés consegue votos necessários e escapa de impeachment em SC", "url": "https://www.cnnbrasil.com.br/politica/carlos-moises-consegue-votos-necessarios-e-escapa-de-impeachment-em-sc/", "veiculo": "CNN Brasil", "data": "2021-05-07"},
+    {"titulo": "Governador de Santa Catarina é absolvido em processo de impeachment", "url": "https://www.correiobraziliense.com.br/politica/2020/11/4891685-governador-de-santa-catarina-e-absolvido-em-processo-de-impeachment.html", "veiculo": "Correio Braziliense", "data": "2020-11-27"},
+    {"titulo": "Carlos Moisés", "url": "https://pt.wikipedia.org/wiki/Carlos_Mois%C3%A9s", "veiculo": "Wikipédia", "data": ""}
+  ]
+}
