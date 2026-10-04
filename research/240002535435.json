@@ -1,0 +1,375 @@
+{
+  "id": "240002535435",
+  "urna": "André de Oliveira",
+  "cargo": "Deputado federal",
+  "partido": "NOVO",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Engenheiro de controle e automação e empresário da construção civil, vereador de Itapema (NOVO) eleito em 2024 com 1.761 votos e deputado estadual suplente que exerceu mandato na Alesc por 30 dias em 2024. Concorre a deputado federal com discurso que se define como 'conservador nos valores e liberal na economia', com foco em fiscalização de obras e transparência, rodovias federais (BR-101) e infraestrutura da Costa Esmeralda, repasses federais a municípios turísticos e pautas de família, vida e proteção de crianças.",
+  "perfil": "Nascido em 18/01/1991 (o TSE registra naturalidade Tijucas/SC; a Alesc e a Câmara de Itapema indicam Itapema). Formado em Engenharia de Controle e Automação pela UNISOCIESC, com MBA em gestão empresarial pela FGV; técnico em eletromecânica, foi instrutor do SENAI Tijucas (2016-2018) e é dono de construtora em Itapema. Liderança católica ligada à Renovação Carismática Católica; a Câmara de Itapema o descreve como 'direita-conservador', com início na política em 2015 contra a 'ideologia de gênero' nas escolas. Trajetória eleitoral: vereador em Itapema pelo PMDB (2016, não eleito); deputado estadual pelo PODEMOS (2018, 12.326 votos, suplente); prefeito de Itapema pelo PODEMOS (2020, 8.415 votos, não eleito); deputado estadual pelo NOVO (2022, 12.165 votos, 1º suplente); assumiu na Alesc de 30/04 a 30/05/2024 no lugar de Matheus Cadorin; foi pré-candidato a prefeito em 2024 e acabou eleito vereador de Itapema com 1.761 votos, a maior votação da história do município. Na Câmara, preside a Comissão de Educação e é vice-presidente da CCJ (2025). Base eleitoral: Itapema e Costa Esmeralda (Porto Belo, Bombinhas). Consta como líder ligado ao RenovaBR.",
+  "temas": {
+    "costumes": {
+      "nota": 7,
+      "evidencia": "Defende família, direito à vida desde a concepção, liberdade religiosa e direito dos pais na educação; na Alesc citou projeto contra o aborto e criticou o Plano Nacional de Educação por 'doutrinação ideológica'.",
+      "fontes": [
+        0,
+        4,
+        6,
+        9
+      ]
+    },
+    "desenvolvimento": {
+      "nota": 7,
+      "evidencia": "Promete cobrar melhorias na BR-101 (Morro dos Cavalos, acessos), fiscalizar obras das BRs 470 e 280 e integrar mobilidade, energia e acessos rodoviários no litoral.",
+      "fontes": [
+        0
+      ]
+    },
+    "educacao": {
+      "nota": 4,
+      "evidencia": "Como vereador visitou 11 escolas municipais e preside a Comissão de Educação; na Alesc cobrou lei de apadrinhamento de escolas estaduais por empresas.",
+      "fontes": [
+        0,
+        6,
+        11
+      ]
+    },
+    "industria": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "economia": {
+      "nota": 6,
+      "evidencia": "Defende liberdade econômica, menos impostos e burocracia e responsabilidade com dinheiro público; propôs pagamento de tributos municipais por Pix.",
+      "fontes": [
+        0,
+        4
+      ]
+    },
+    "tecnologia": {
+      "nota": 1,
+      "evidencia": "Menção pontual: portal de transparência de obras federais acessível por QR Code nas placas.",
+      "fontes": [
+        0
+      ]
+    },
+    "nacionalismo": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "seguranca": {
+      "nota": 5,
+      "evidencia": "Cobra implementação do Cadastro Nacional de Predadores Sexuais (ação judicial com o NOVO), propõe lei de segurança para corretores de imóveis e cobrou segurança nas escolas.",
+      "fontes": [
+        0
+      ]
+    },
+    "saude": {
+      "nota": 3,
+      "evidencia": "Fiscalizou unidades de saúde e hospital de Itapema; defende repasses de saúde considerando população flutuante.",
+      "fontes": [
+        0,
+        6
+      ]
+    },
+    "agro": {
+      "nota": 0,
+      "evidencia": "Sem menção encontrada",
+      "fontes": []
+    },
+    "ambiente": {
+      "nota": 3,
+      "evidencia": "Cita saneamento e drenagem no litoral e, na Alesc, a necessidade de discutir soluções para eventos climáticos extremos após enchentes no RS.",
+      "fontes": [
+        0,
+        5
+      ]
+    },
+    "social": {
+      "nota": 2,
+      "evidencia": "Fala em família 'com renda e dignidade' e acompanhou obras de moradias do Sertão do Trombudo.",
+      "fontes": [
+        0
+      ]
+    },
+    "transparencia": {
+      "nota": 8,
+      "evidencia": "Fiscalização é eixo central: abriu mão de carro oficial, diárias e outras regalias; propõe transparência integral de obras federais e apresentou propostas de transparência de currículos, contratos e desapropriações.",
+      "fontes": [
+        0
+      ]
+    },
+    "municipalismo": {
+      "nota": 8,
+      "evidencia": "Defende Itapema e a Costa Esmeralda e critérios que considerem população sazonal nos repasses federais a municípios turísticos.",
+      "fontes": [
+        0,
+        6
+      ]
+    }
+  },
+  "eixos": {
+    "economia": {
+      "valor": 4,
+      "evidencia": "Declara-se 'liberal na economia'; defende liberdade para empreender e redução de impostos e burocracia; na posse citou 'livre mercado' e propriedade privada.",
+      "fontes": [
+        0,
+        4
+      ]
+    },
+    "costumes": {
+      "valor": 5,
+      "evidencia": "Contra o aborto, defende 'valores cristãos', família tradicional e combate à 'ideologia de gênero'; perfil da Câmara o classifica como 'direita-conservador'.",
+      "fontes": [
+        0,
+        6,
+        9
+      ]
+    },
+    "estado": {
+      "valor": 2,
+      "evidencia": "Defende mais recursos federais para municípios turísticos e que o Estado não substitua os pais; evidência indireta.",
+      "fontes": [
+        0
+      ]
+    },
+    "ambiente": {
+      "valor": null,
+      "evidencia": "Evidência insuficiente sobre preferência entre preservação e produção.",
+      "fontes": []
+    },
+    "governo": {
+      "valor": 4,
+      "evidencia": "Critica o governo federal pela não implementação do Cadastro Nacional de Predadores Sexuais e participou de ação judicial do NOVO contra a União; partido se declara oposição ao governo Lula.",
+      "fontes": [
+        0
+      ]
+    }
+  },
+  "propostas": [
+    {
+      "tema": "desenvolvimento",
+      "texto": "Exigir melhorias em rodovias federais, como a BR-101 (gargalos como o Morro dos Cavalos e acessos nas regiões que mais crescem), e fiscalizar a conclusão das duplicações das BRs 470 e 280.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "transparencia",
+      "texto": "Proposta de transparência integral das obras com recursos federais: página pública por obra, acessível por QR Code na placa, com projeto, valor, aditivos, empresa, medições, pagamentos e prazos.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "transparencia",
+      "texto": "Fiscalizar obras federais diretamente, solicitar documentos, convocar autoridades e encaminhar irregularidades ao TCU e ao Ministério Público.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "municipalismo",
+      "texto": "Projeto para que a população flutuante seja considerada na distribuição de recursos federais a municípios turísticos (saúde, mobilidade, segurança, saneamento e limpeza urbana).",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "desenvolvimento",
+      "texto": "Integração entre municípios, União, concessionárias e governo estadual para planejar acessos à BR-101, transporte regional, saneamento, drenagem e capacidade energética na Costa Esmeralda.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "seguranca",
+      "texto": "Lei de Proteção e Segurança dos Corretores de Imóveis, como um dos primeiros projetos do mandato.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "seguranca",
+      "texto": "Pressionar pela implementação do Cadastro Nacional de Pedófilos e Predadores Sexuais (Lei 15.035/2024).",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "costumes",
+      "texto": "Defender o direito dos pais de participarem da educação dos filhos, a liberdade religiosa, de consciência e de expressão e o direito à vida.",
+      "fontes": [
+        0
+      ]
+    },
+    {
+      "tema": "economia",
+      "texto": "Defender liberdade para trabalhar e empreender, com menos impostos e burocracia sobre as famílias.",
+      "fontes": [
+        0
+      ]
+    }
+  ],
+  "historico": [
+    {
+      "texto": "2016-2022: candidato a vereador de Itapema (PMDB, 2016), deputado estadual (PODEMOS, 2018, 12.326 votos), prefeito de Itapema (PODEMOS, 2020, 8.415 votos) e deputado estadual (NOVO, 2022, 12.165 votos, 1º suplente).",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "texto": "30/04/2024: tomou posse como deputado estadual suplente na Alesc, por 30 dias, no lugar de Matheus Cadorin (NOVO); primeiro representante de Itapema na Assembleia. Na posse, declarou defender família, vida desde a concepção, propriedade privada, liberdade de expressão e livre mercado.",
+      "fontes": [
+        3,
+        4
+      ]
+    },
+    {
+      "texto": "02/05/2024: discutiu em plenário a Moção 0095/2024 (apelo ao Ministério da Saúde por vacinas contra a dengue), aprovada.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "texto": "07/05/2024: na sessão itinerante da Alesc em Blumenau, falou sobre solidariedade ao RS após enchentes e sobre a necessidade de discutir eventos climáticos extremos; votou 'sim' em votação nominal da sessão (29 votos sim).",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "texto": "21/05/2024: apresentou requerimento de congratulação à Renovação Carismática Católica de Santa Catarina.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "texto": "29/05/2024: em discurso de despedida, cobrou cumprimento da Lei estadual 18.745/2023 (apadrinhamento de escolas por empresas), relatou fiscalização de escolas e unidades de saúde, citou projeto de resolução contra o aborto e criticou o Plano Nacional de Educação.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "texto": "Outubro/2024: eleito vereador de Itapema pelo NOVO com 1.761 votos, maior votação da história do município.",
+      "fontes": [
+        10,
+        9
+      ]
+    },
+    {
+      "texto": "22/01/2025: eleito presidente da Comissão de Educação e vice-presidente da CCJ da Câmara de Itapema.",
+      "fontes": [
+        11
+      ]
+    },
+    {
+      "texto": "2025-2026 (vereador): segundo o próprio candidato, visitou 11 escolas, fiscalizou obras (Ponte do Perequê, moradias do Sertão do Trombudo), propôs transparência de currículos de comissionados, desapropriações, locações e outorga onerosa, pagamento de tributos por Pix, e acionou o Ministério Público sobre apagões da Celesc. O portal da Câmara registra 76 projetos de sua autoria na legislatura (32 aprovados).",
+      "fontes": [
+        0,
+        9
+      ]
+    }
+  ],
+  "pontosAtencao": [
+    {
+      "texto": "Mudanças de partido: PMDB (2016), PODEMOS (2018 e 2020) e NOVO (desde 2022).",
+      "fontes": [
+        3
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "NOVO Entrevista: André de Oliveira, candidato a deputado federal por Santa Catarina",
+      "url": "https://novo.org.br/noticias/andre-de-oliveira-candidato-deputado-federal-santa-catarina/",
+      "veiculo": "Partido Novo",
+      "data": "2026-09-29"
+    },
+    {
+      "titulo": "André de Oliveira 3010 - Candidato a deputado federal de SC pelo NOVO",
+      "url": "https://ndmais.com.br/eleicoes/2026/candidatos/sc/deputado-federal/3010-andre-de-oliveira/",
+      "veiculo": "ND+",
+      "data": ""
+    },
+    {
+      "titulo": "André de Oliveira (NOVO 3010) - Deputado federal SC",
+      "url": "https://www.tribunapr.com.br/eleicoes/2026/candidatos/sc/deputado-federal/andre-de-oliveira-novo-3010/",
+      "veiculo": "Tribuna do Paraná",
+      "data": ""
+    },
+    {
+      "titulo": "Biografias / André de Oliveira / Memória Política de Santa Catarina",
+      "url": "https://memoriapolitica.alesc.sc.gov.br/biografia/1437-Andre_de_Oliveira",
+      "veiculo": "Alesc - Memória Política",
+      "data": ""
+    },
+    {
+      "titulo": "Com posse de André de Oliveira, Itapema tem o primeiro representante na Alesc",
+      "url": "https://www.alesc.sc.gov.br/agenciaal/noticia/com-posse-de-andre-de-oliveira-itapema-tem-o-primeiro-representante-na-ales/",
+      "veiculo": "Agência AL - Alesc",
+      "data": "2024-04-30"
+    },
+    {
+      "titulo": "Ata da 043ª Sessão Ordinária (7 de maio de 2024)",
+      "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/6f377f5b-42c8-48a5-bf60-2d287f70faba",
+      "veiculo": "Alesc - eLegis",
+      "data": "2024-05-07"
+    },
+    {
+      "titulo": "Ata da 055ª Sessão Ordinária (29 de maio de 2024)",
+      "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/30cc6944-cb91-4340-91dc-6b97376d4d6a",
+      "veiculo": "Alesc - eLegis",
+      "data": "2024-05-29"
+    },
+    {
+      "titulo": "Requerimento do Deputado André de Oliveira à Renovação Carismática Católica de SC",
+      "url": "https://portalelegis.alesc.sc.gov.br/documentos/NOyQm",
+      "veiculo": "Alesc - eLegis",
+      "data": "2024-05-21"
+    },
+    {
+      "titulo": "Ata da 042ª Sessão Ordinária (2 de maio de 2024)",
+      "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/e101490e-ba87-4aeb-afb6-c674579b83c6",
+      "veiculo": "Alesc - eLegis",
+      "data": "2024-05-02"
+    },
+    {
+      "titulo": "André de Oliveira - Câmara de Vereadores de Itapema",
+      "url": "https://site.itapema.sc.leg.br/vereadores/vereador/cod_vereador/106",
+      "veiculo": "Câmara de Vereadores de Itapema",
+      "data": ""
+    },
+    {
+      "titulo": "André de Oliveira (NOVO) bate recorde e é o vereador mais votado da história de Itapema",
+      "url": "https://www.paulomarquesnoticias.com.br/noticia,55784,Andre-de-Oliveira-NOVO-bate-recorde-e-e-o-vereador-mais-votado-da-historia-de-Itapema",
+      "veiculo": "Paulo Marques Notícias",
+      "data": ""
+    },
+    {
+      "titulo": "Vereador André de Oliveira (NOVO) é eleito presidente da Comissão de Educação e vice-presidente da CCJ",
+      "url": "https://nopontosc.com.br/2025/01/23/vereador-andre-de-oliveira-novo-e-eleito-presidente-da-comissao-de-educacao-e-vice-presidente-da-ccj/",
+      "veiculo": "NoPontoSC",
+      "data": "2025-01-23"
+    },
+    {
+      "titulo": "Eleições 2024: quem são os pré-candidatos a prefeito de Itapema",
+      "url": "https://ndmais.com.br/politica/eleicoes-2024-quem-sao-os-pre-candidatos-a-prefeito-de-itapema/",
+      "veiculo": "ND+",
+      "data": "2024-07-08"
+    },
+    {
+      "titulo": "Fato ou Fake: vereador André de Oliveira erra ao atribuir à Prefeitura de Itapema a responsabilidade pela ponte da 306",
+      "url": "https://folhaestado.com/fato-ou-fake-vereador-andre-de-oliveira-erra-ao-atribuir-a-prefeitura-de-itapema-a-responsabilidade-pela-ponte-da-306/",
+      "veiculo": "Folha do Estado SC",
+      "data": ""
+    },
+    {
+      "titulo": "ANDRÉ DE OLIVEIRA - Renova BR",
+      "url": "https://www.renovabr.org/lider/andre-de-oliveira/",
+      "veiculo": "RenovaBR",
+      "data": ""
+    }
+  ]
+}
