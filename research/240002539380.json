@@ -1,0 +1,71 @@
+{
+  "id": "240002539380",
+  "urna": "João Paulo Kleinübing",
+  "cargo": "Deputado federal",
+  "partido": "PL",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Ex-prefeito de Blumenau (dois mandatos), ex-deputado estadual e federal, que deixou a diretoria financeira do BRDE em 2026 e se filiou ao PL para disputar a Câmara (nº 2288). A campanha encontrada se apresenta como representante do Vale do Itajaí, alinhada ao governador Jorginho Mello, e cita valores de 'liberdade, família e desenvolvimento'; não foram encontradas propostas de campanha detalhadas.",
+  "perfil": "João Paulo Karam Kleinübing, 53 anos, nascido em Florianópolis, administrador (graduação em História e Administração; mestrado em Políticas Públicas em Oxford, segundo a Wikipédia). Filiações: PFL, DEM, PSD (2011-2018), DEM, União e, desde 15/03/2026, PL. Cargos: conselho da Celesc, presidente da Eletrosul (2001-2002), deputado estadual (eleito em 2002), prefeito de Blumenau (2005-2012, eleito em 2004 e reeleito em 2008), presidente do Badesc (2013-2014), deputado federal eleito em 2014 com 132.349 votos, mas licenciado boa parte de 2015-2016 para ser secretário de Estado (Saúde); candidato a vice-governador em 2018 e a prefeito de Blumenau em 2020 (perdeu as duas). No BRDE foi diretor-presidente (2023-2024) e depois diretor financeiro (2024-março/2026), indicado pelo governo Jorginho Mello. Sua base eleitoral é Blumenau e o Vale do Itajaí; a filiação ao PL teve a presença do governador e do prefeito de Blumenau, Egídio Ferrari. A prestação de contas parcial (via Jornal Razão) mostra R$ 891 mil arrecadados (doações de pessoas físicas, FEFC e recursos próprios).",
+  "temas": {
+    "costumes": {"nota": 2, "evidencia": "Na filiação ao PL citou valores de 'liberdade, família e desenvolvimento'. Não foram encontradas propostas sobre pautas morais.", "fontes": [3, 5]},
+    "desenvolvimento": {"nota": 4, "evidencia": "Diz querer garantir investimentos federais para o Vale do Itajaí e apoiar projetos estratégicos de desenvolvimento local, sem citar obras específicas. Presidiu a Eletrosul.", "fontes": [1, 6]},
+    "educacao": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "industria": {"nota": 3, "evidencia": "No BRDE ampliou o volume de crédito ao setor produtivo, inclusive linhas para sustentabilidade, inovação e exportação (R$ 350 mi).", "fontes": [0]},
+    "economia": {"nota": 5, "evidencia": "Histórico no BRDE: mais de R$ 640 mi pelo Pronampe para micro e pequenas empresas e linhas emergenciais. Na Câmara, relatou pareceres na Comissão de Finanças e Tributação e apresentou o PL 11199/2018 (oferta de títulos da dívida pública a pessoas jurídicas). Votou Sim à reforma trabalhista.", "fontes": [0, 8, 9]},
+    "tecnologia": {"nota": 3, "evidencia": "Criou no BRDE o programa BRDE Labs, de aceleração de startups. Não foi encontrada proposta de campanha sobre inovação ou IA.", "fontes": [0]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "saude": {"nota": 3, "evidencia": "Foi secretário de Estado da Saúde de SC (licenciado da Câmara entre 2015 e 2016 para isso). Na Câmara apresentou requerimentos sobre planos de saúde (ANS/Abramge) e ao Ministério da Saúde. Não há proposta de campanha sobre saúde.", "fontes": [6, 7, 9]},
+    "agro": {"nota": 4, "evidencia": "No BRDE: mais de R$ 800 mi em operações para o agro em SC em 2025, R$ 75 mi pelo Pronampe Leite (cerca de 2.700 produtores) e lançamento do Coopera Agro SC, com meta de R$ 1 bi. Na Câmara apresentou o PDC 598/2017, contra a transferência da Secretaria de Aquicultura e Pesca para o Ministério da Indústria.", "fontes": [0, 9]},
+    "ambiente": {"nota": 3, "evidencia": "No BRDE: R$ 73 mi para resposta a desastres climáticos (fim de 2025) e criação do Fundo Verde e Equity. Apresentou o PL 10082/2018, que redefine o traçado do Parque Nacional de São Joaquim e o renomeia 'Parque Nacional da Serra Catarinense'.", "fontes": [0, 9]},
+    "social": {"nota": 2, "evidencia": "Autor do PL 7993/2017 (prorrogação da licença-maternidade enquanto o recém-nascido estiver internado) e do PL 10261/2018, que altera a lei de garantia de direitos da criança vítima ou testemunha de violência.", "fontes": [9]},
+    "transparencia": {"nota": 2, "evidencia": "Autor do PL 7523/2017, que impõe condições à compra e locação de imóveis pela administração pública com dispensa de licitação.", "fontes": [9]},
+    "municipalismo": {"nota": 7, "evidencia": "Eixo central da campanha: representar o Vale do Itajaí em Brasília e trazer investimentos federais para a região, 'somando forças' com o governador. Foi prefeito de Blumenau por dois mandatos. Na Câmara apresentou o PL 9811/2018, que dá a São João Batista (SC) o título de Capital Nacional da Imigração Italiana.", "fontes": [1, 2, 4, 9]}
+  },
+  "eixos": {
+    "economia": {"valor": 2, "evidencia": "Votou Sim ao texto-base da reforma trabalhista (2017) e se filiou ao PL. Ao mesmo tempo, sua experiência recente é em banco público de fomento (crédito subsidiado, Pronampe).", "fontes": [8, 0]},
+    "costumes": {"valor": 1, "evidencia": "Evidência fraca: só a menção a 'liberdade, família e desenvolvimento' na filiação ao PL; não foram encontradas posições sobre pautas morais.", "fontes": [3, 5]},
+    "estado": {"valor": null, "evidencia": "Sem evidência suficiente sobre centralização ou descentralização; o foco regional (Vale do Itajaí) não define posição sobre o pacto federativo.", "fontes": []},
+    "ambiente": {"valor": null, "evidencia": "Sem posição explícita encontrada entre preservação e produção.", "fontes": []},
+    "governo": {"valor": 3, "evidencia": "Candidato pelo PL, que faz oposição ao governo federal, e alinhado ao governador Jorginho Mello (PL). Segundo a Wikipédia, votou pelo impeachment de Dilma Rousseff em 2016.", "fontes": [1, 3, 6]}
+  },
+  "criterios": {
+    "concretude": {"valor": 4, "evidencia": "As falas de campanha encontradas são genéricas (representar o Vale, buscar investimentos, alinhamento com o governador), sem metas nem fontes de recurso. O histórico de gestão no BRDE tem números concretos de crédito liberado, e há longa trajetória executiva.", "fontes": [0, 1, 2]},
+    "responsabilidadeFiscal": {"valor": null, "evidencia": "Nenhum compromisso fiscal explícito foi encontrado na campanha. Como relator na Comissão de Finanças e Tributação, assinou vários pareceres de adequação ou inadequação financeira e orçamentária, mas isso é atuação técnica, não uma posição declarada.", "fontes": [9]}
+  },
+  "propostas": [
+    {"tema": "municipalismo", "texto": "Garantir representação forte e alinhada do Vale do Itajaí e de SC na Câmara, 'somando forças com o governador Jorginho Mello'.", "fontes": [1]},
+    {"tema": "desenvolvimento", "texto": "Buscar investimentos federais para o Vale do Itajaí.", "fontes": [1]},
+    {"tema": "desenvolvimento", "texto": "Apoiar projetos estratégicos de desenvolvimento local, usando a experiência administrativa.", "fontes": [1]},
+    {"tema": "municipalismo", "texto": "Pôr a experiência a serviço do fortalecimento do Vale do Itajaí, região que considera de 'enorme importância' para o desenvolvimento de SC.", "fontes": [2]},
+    {"tema": "economia", "texto": "Valorizar a capacidade empreendedora de SC como motor de desenvolvimento (discurso de filiação, sem medidas específicas).", "fontes": [5]},
+    {"tema": "costumes", "texto": "Atuação pautada por valores de 'liberdade, família e desenvolvimento' (discurso de filiação ao PL).", "fontes": [3]}
+  ],
+  "historico": [
+    {"texto": "Deputado federal (2015-2019) pelo PSD e depois pelo DEM; licenciado de 05/02/2015 a 25/02/2015, de 02/03/2015 a 05/04/2016 e de 09/05/2016 a 04/01/2017 para ser secretário de Estado.", "fontes": [7]},
+    {"texto": "Votou Sim ao texto-base (subemenda substitutiva global) da reforma trabalhista, PL 6787/2016, em 26/04/2017.", "fontes": [8]},
+    {"texto": "Segundo a Wikipédia, votou pelo impeachment de Dilma Rousseff (2016).", "fontes": [6]},
+    {"texto": "Na Câmara foi autor dos PLs 7523/2017 (limites à compra e locação de imóveis públicos sem licitação), 7993/2017 (licença-maternidade com bebê internado), 10261/2018 (criança vítima de violência), 10082/2018 (Parque Nacional da Serra Catarinense), 11199/2018 (títulos da dívida a pessoas jurídicas) e 9811/2018, além do PDC 598/2017, e relatou pareceres na Comissão de Finanças e Tributação.", "fontes": [9]},
+    {"texto": "Presidente (2023-2024) e diretor financeiro (2024-abril/2026) do BRDE: mais de R$ 640 mi pelo Pronampe, R$ 141 mi em linhas emergenciais (2023), mais de R$ 800 mi para o agro em SC (2025), R$ 73 mi para desastres climáticos, BRDE Labs, Fundo Verde e Equity e Coopera Agro SC.", "fontes": [0]},
+    {"texto": "Prefeito de Blumenau eleito em 2004 (45,73%) e reeleito em 2008 (63,67%); deputado estadual eleito em 2002; derrotado como vice-governador (2018) e como prefeito de Blumenau (2020).", "fontes": [6]},
+    {"texto": "Filiou-se ao PL em 15/03/2026, com a presença do governador Jorginho Mello e do prefeito Egídio Ferrari; candidatura homologada na convenção estadual de 01/08/2026.", "fontes": [2, 3, 4, 1]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Na prestação de contas parcial de campanha compilada pelo Jornal Razão, as despesas contratadas declaradas (cerca de R$ 1,22 mi) superam a receita declarada (R$ 891 mil), diferença que o próprio site observa ser comum em relatórios parciais e alvo de atenção da Justiça Eleitoral.", "fontes": [10]}
+  ],
+  "fontes": [
+    {"titulo": "João Paulo Kleinübing deixa o BRDE", "url": "https://www.informeblumenau.com/joao-paulo-kleinubing-deixa-o-brde/comment-page-1/", "veiculo": "Informe Blumenau", "data": "2026-04-01"},
+    {"titulo": "João Paulo Kleinübing tem candidatura à Câmara Federal homologada pelo PL", "url": "https://www.mesorregional.com.br/joao-paulo-kleinubing-tem-candidatura-a-camara-federal-homologada-pelo-pl/", "veiculo": "Mesorregional", "data": "2026-08-02"},
+    {"titulo": "João Paulo Kleinübing oficializa filiação ao PL e pode disputar vaga de deputado federal", "url": "https://www.mesorregional.com.br/joao-paulo-kleinubing-oficializa-filiacao-ao-pl-e-pode-disputar-vaga-de-deputado-federal/", "veiculo": "Mesorregional", "data": "2026-03-15"},
+    {"titulo": "Com apoio de Jorginho e Egídio, Kleinübing se filia ao PL para concorrer a deputado federal", "url": "https://upiara.com.br/noticias/com-apoio-de-jorginho-e-egidio-kleinubing-se-filia-ao-pl-para-concorrer-a-deputado-federal/", "veiculo": "Portal Upiara", "data": "2026-03-16"},
+    {"titulo": "João Paulo Kleinübing se filia ao PL. Está fardado para ser candidato a deputado federal", "url": "https://www.informeblumenau.com/joao-paulo-kleinubing-se-filia-ao-pl-esta-fardado-para-ser-candidato-a-deputado-federal/", "veiculo": "Informe Blumenau", "data": "2026-03-15"},
+    {"titulo": "Eleições 2026: João Paulo Kleinubing se filia ao PL e é pré-candidato a deputado federal", "url": "https://www.karinamanarin.com.br/artigo/eleicoes-2026-joao-paulo-kleinubing-se-filia-ao-pl-e-e-pre-candidato-a-deputado-federal/", "veiculo": "Karina Manarin", "data": "2026-03-15"},
+    {"titulo": "João Paulo Kleinübing", "url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Paulo_Klein%C3%BCbing", "veiculo": "Wikipédia", "data": ""},
+    {"titulo": "Histórico de exercício do deputado João Paulo Kleinübing (id 178967)", "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/178967/historico", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "Votos nominais - PL 6787/2016 (reforma trabalhista), votação 2122076-348", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2122076-348/votos", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": "2017-04-26"},
+    {"titulo": "Proposições de autoria do deputado João Paulo Kleinübing", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=178967&itens=100", "veiculo": "Câmara dos Deputados - Dados Abertos", "data": ""},
+    {"titulo": "João Paulo Kleinübing (PL): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/joao-paulo-kleinubing", "veiculo": "Jornal Razão", "data": ""},
+    {"titulo": "Quem são os candidatos a deputado federal por Santa Catarina", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-deputado-federal-santa-catarina-2026/", "veiculo": "Gazeta do Povo", "data": "2026-08-17"}
+  ]
+}

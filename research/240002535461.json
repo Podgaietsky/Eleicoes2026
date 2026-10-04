@@ -1,0 +1,81 @@
+{
+  "id": "240002535461",
+  "urna": "Matheus Cadorin",
+  "cargo": "Deputado estadual",
+  "partido": "NOVO",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "alta",
+  "resumo": "Deputado estadual de Joinville pelo NOVO, candidato à reeleição (número 30000). O mandato concentrou-se em liberdade econômica e desburocratização (é autor do PL 563/2024, que virou a Lei estadual 19.481/2025), tecnologia e IA, fiscalização de gastos e emendas escolhidas por voto popular. A campanha de 2026 fala em liberdade econômica, fiscalização dos recursos públicos, desburocratização, participação cidadã e segurança.",
+  "perfil": "Matheus Andreis Cadorin, 45 anos, nascido em Joinville (16/04/1981), formado em Relações Internacionais. Morou quatro anos na China e foi bolsista na Nova Zelândia. Foi gestor de Desenvolvimento Econômico em Joinville e Jaraguá do Sul, comandou os Bombeiros Voluntários de Joinville e se apresenta como empreendedor que apoiou mais de 80 negócios. Eleito deputado estadual em 2022 pelo NOVO com 12.390 votos. Na ALESC integrou comissões como Segurança Pública, Direitos Humanos, Educação e Economia/Ciência e Tecnologia, além da Frente Parlamentar do Ensino Técnico. A base é Joinville e o Norte catarinense. No lançamento da campanha, em 18/08/2026 em Joinville, recebeu apoio de Romeu Zema, Deltan Dallagnol, Carol de Toni, Marcel van Hattem e do governador Jorginho Mello. Estavam presentes Adriano Silva (candidato a vice-governador) e Gilson Marques. Patrimônio declarado ao TSE: cerca de R$ 900 mil.",
+  "temas": {
+    "costumes": {"nota": 1, "evidencia": "Não aparece pauta moral no lançamento nem nos materiais do mandato que foram abertos. Na entrevista à Rádio Araranguá, disse apenas que 'ideologia' deve ficar fora das escolas e que o conteúdo acadêmico deve predominar.", "fontes": [1, 3]},
+    "desenvolvimento": {"nota": 3, "evidencia": "Propõe desenvolver polos regionais conforme a vocação de cada local. Atuou como gestor de Desenvolvimento Econômico em Joinville e Jaraguá do Sul. Não foram encontradas propostas detalhadas de infraestrutura.", "fontes": [0, 3]},
+    "educacao": {"nota": 6, "evidencia": "Apresentou PL que cria o programa de aprendizagem do uso ético de IA nas escolas. Em plenário (04/03/2026), defendeu o ensino técnico como 'prioridade estratégica' e elogiou as 50 mil vagas do CaTec+. Na campanha, propõe alfabetização em IA no contraturno das escolas públicas.", "fontes": [8, 13, 3]},
+    "industria": {"nota": 2, "evidencia": "Defende uma educação técnica ligada ao mercado e o desenvolvimento de polos regionais. Não há agenda industrial específica.", "fontes": [13, 3]},
+    "economia": {"nota": 9, "evidencia": "É autor do PL 563/2024 (Declaração de Direitos de Liberdade Econômica), sancionado como Lei 19.481/2025. A lei dispensa de atos de liberação as atividades de baixo risco listadas em anexo, com 896 itens. Também propôs o pagamento de tributos estaduais via PIX. Defende 'Estado enxuto'.", "fontes": [4, 5, 6, 7, 3, 0]},
+    "tecnologia": {"nota": 9, "evidencia": "Protocolou em 2023 um PL redigido com ChatGPT (transparência do estoque de medicamentos). Propôs IA nas escolas, PIX para tributos e uma delegacia de crimes cibernéticos. Na campanha propõe um alerta tecnológico para vítimas de violência doméstica.", "fontes": [2, 8, 7, 9, 3]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada.", "fontes": []},
+    "seguranca": {"nota": 6, "evidencia": "Indicou ao governador a criação de uma delegacia de crimes cibernéticos em Joinville. A Polícia Civil respondeu em 2024 que a unidade estava em 'fase avançada'. Cita o fortalecimento dos Bombeiros Voluntários. Propõe um alerta para vítimas quando o agressor entrar em zona proibida. Segurança aparece entre as prioridades da campanha.", "fontes": [9, 10, 0, 1, 3]},
+    "saude": {"nota": 4, "evidencia": "O PL feito com IA trata da transparência dos estoques de medicamentos. Na campanha, propõe aumentar o pagamento de procedimentos do SUS para reduzir filas.", "fontes": [2, 3]},
+    "agro": {"nota": 0, "evidencia": "Sem menção encontrada.", "fontes": []},
+    "ambiente": {"nota": 0, "evidencia": "Sem menção encontrada.", "fontes": []},
+    "social": {"nota": 3, "evidencia": "Defende o combate à violência contra a mulher. Com o programa Você Decide, destinou emendas a instituições e cidades menores.", "fontes": [3, 11]},
+    "transparencia": {"nota": 8, "evidencia": "Criou o 'Tô de Olho', para acompanhar a aplicação de recursos, e o 'Você Decide', com emendas escolhidas por voto online: em 2023 foram 246 projetos inscritos, 16 contemplados e R$ 5,18 milhões. Cobrou explicações sobre a dispensa de licitação de uniformes para presos, contrato depois suspenso pela SAP. Defende 'menos privilégios para político'.", "fontes": [0, 11, 12, 3]},
+    "municipalismo": {"nota": 4, "evidencia": "Atua em Joinville e no Norte de SC (delegacia em Joinville). Diz ter destinado mais de R$ 2 milhões em emendas ao Sul. Cita o movimento 'Respeita Catarina' pela autonomia do estado.", "fontes": [9, 3, 0]}
+  },
+  "eixos": {
+    "economia": {"valor": 4, "evidencia": "Liberdade econômica, intervenção 'subsidiária e excepcional' do Estado, desburocratização e defesa de 'Estado enxuto'.", "fontes": [6, 4, 3]},
+    "costumes": {"valor": null, "evidencia": "Não há pauta de costumes explícita. A única fala encontrada é 'ideologia fora das escolas', insuficiente para posicioná-lo.", "fontes": [3]},
+    "estado": {"valor": 2, "evidencia": "Movimento 'Respeita Catarina' pela autonomia estadual e emendas para cidades menores via voto popular.", "fontes": [0, 11]},
+    "ambiente": {"valor": null, "evidencia": "Sem menção encontrada.", "fontes": []},
+    "governo": {"valor": 3, "evidencia": "Não foi encontrada declaração direta sobre o governo federal. Filiado ao NOVO, recebeu no lançamento o apoio de Romeu Zema (candidato a presidente) e de nomes da oposição, como Dallagnol, Carol de Toni e Van Hattem.", "fontes": [1]}
+  },
+  "criterios": {
+    "concretude": {"valor": 7, "evidencia": "Tem entregas comprovadas: Lei 19.481/2025 a partir do seu PL, com a ressalva de que o texto final veio de emenda substitutiva do Governo; Você Decide com números públicos; delegacia de cibercrimes encaminhada. As propostas de campanha (IA no contraturno, alerta para vítimas, SUS) não trazem custo nem prazo.", "fontes": [4, 5, 11, 10, 3]},
+    "responsabilidadeFiscal": {"valor": 6, "evidencia": "Defende 'Estado enxuto', menos privilégios e fiscalização de gastos (contestou a compra emergencial de uniformes). Por outro lado, propõe aumentar o pagamento de procedimentos do SUS sem indicar a fonte. A lei de liberdade econômica atribui as despesas a dotações já existentes da JUCESC.", "fontes": [3, 12, 4]}
+  },
+  "propostas": [
+    {"tema": "economia", "texto": "Liberdade econômica e desburocratização: atividades de baixo risco dispensadas de alvará e licenças (Lei 19.481/2025, a partir do PL 563/2024).", "fontes": [6, 4, 1]},
+    {"tema": "economia", "texto": "Direito do contribuinte de pagar tributos, taxas e contribuições estaduais via PIX, com QR Code no site da Fazenda.", "fontes": [7]},
+    {"tema": "educacao", "texto": "Alfabetização em inteligência artificial nas escolas públicas, no contraturno.", "fontes": [3]},
+    {"tema": "educacao", "texto": "Programa de aprendizagem do uso ético de IA nas escolas, com formação de professores e parcerias com universidades e empresas.", "fontes": [8]},
+    {"tema": "educacao", "texto": "Ensino técnico tratado como prioridade estratégica para SC.", "fontes": [13]},
+    {"tema": "seguranca", "texto": "Sistema tecnológico que alerta a vítima de violência doméstica quando o agressor entra em zona proibida.", "fontes": [3]},
+    {"tema": "saude", "texto": "Aumentar o valor pago por procedimentos do SUS para reduzir filas.", "fontes": [3]},
+    {"tema": "desenvolvimento", "texto": "Desenvolvimento de polos regionais conforme a vocação de cada local.", "fontes": [3]},
+    {"tema": "transparencia", "texto": "Manter a fiscalização dos recursos públicos e a participação cidadã na destinação de emendas (Tô de Olho e Você Decide).", "fontes": [0, 1]}
+  ],
+  "historico": [
+    {"texto": "Eleito deputado estadual em 2022 pelo NOVO, com 12.390 votos.", "fontes": [16]},
+    {"texto": "Autor do PL 563/2024 (Declaração de Direitos de Liberdade Econômica). O projeto foi aprovado na forma de Emenda Substitutiva Global do Governo do Estado e sancionado como Lei 19.481, de 07/10/2025. O Anexo Único lista 896 atividades de baixo risco dispensadas de atos públicos de liberação.", "fontes": [6, 5, 4]},
+    {"texto": "Em março de 2023 protocolou na ALESC um projeto redigido com o ChatGPT, sobre transparência do estoque de medicamentos. A equipe o apresentou como o primeiro do tipo no país.", "fontes": [2]},
+    {"texto": "Programa Você Decide (2023): 246 projetos inscritos, 30 finalistas em votação online, 16 contemplados, quase 27 mil votos e R$ 5.183.000 em emendas. Em 2026 o deputado diz ter distribuído quase R$ 20 milhões pelo programa no total.", "fontes": [11, 3]},
+    {"texto": "Indicou em fevereiro de 2023 a criação de uma delegacia de crimes cibernéticos em Joinville. Em maio de 2024 a Polícia Civil informou que a unidade estava em fase avançada, dentro da ampliação da DIC de Joinville.", "fontes": [9, 10]},
+    {"texto": "Em julho de 2023 questionou a dispensa de licitação para compra de uniformes de inverno para presos. Segundo seu relato em plenário, a SAP suspendeu o contrato e abriu investigação.", "fontes": [12]},
+    {"texto": "Antes do mandato: gestor de Desenvolvimento Econômico em Joinville e Jaraguá do Sul e comandante dos Bombeiros Voluntários de Joinville.", "fontes": [0]}
+  ],
+  "pontosAtencao": [
+    {"texto": "O texto sancionado da Lei de Liberdade Econômica, incluindo o anexo com as 896 atividades, veio de Emenda Substitutiva Global apresentada pelo Governo do Estado (Mensagem nº 1119), que substituiu o texto original do PL de Cadorin.", "fontes": [5, 4]},
+    {"texto": "Ele cita números diferentes para o Você Decide: a ata de 2023 registra R$ 5,18 milhões em uma edição, e na entrevista de 2026 ele fala em 'quase R$ 20 milhões', sem detalhar as edições.", "fontes": [11, 3]},
+    {"texto": "Segundo levantamento com dados da ALESC, o gabinete tinha 27 servidores em 2026, e as despesas de gabinete passaram de R$ 149,7 mil (2023) para R$ 298,6 mil (2025).", "fontes": [14]}
+  ],
+  "fontes": [
+    {"titulo": "Matheus Cadorin lança campanha à reeleição nesta terça-feira, em Joinville", "url": "https://ocp.news/politica/matheus-cadorin-lanca-campanha-a-reeleicao-nesta-terca-feira-em-joinville", "veiculo": "OCP News", "data": "2026-08-18"},
+    {"titulo": "Matheus Cadorin reúne cerca de 2 mil pessoas no lançamento oficial da campanha à reeleição", "url": "https://upiara.com.br/sc-em-campanha/matheus-cadorin-reune-cerca-de-2-mil-pessoas-no-lancamento-oficial-da-campanha-a-reeleicao/", "veiculo": "Portal Upiara", "data": "2026-08-19"},
+    {"titulo": "Deputado protocola projeto na Alesc feito por inteligência artificial", "url": "https://ndmais.com.br/justica/deputado-protocola-projeto-na-alesc-feito-por-inteligencia-artificial-iniciativa-inedita/", "veiculo": "ND+", "data": "2023-03-01"},
+    {"titulo": "Matheus Cadorin destaca ações do mandato e defende tecnologia, desburocratização e combate à violência contra a mulher", "url": "https://radioararangua.com.br/matheus-cadorin-destaca-acoes-do-mandato-e-defende-tecnologia-desburocratizacao-e-combate-a-violencia-contra-a-mulher/", "veiculo": "Rádio Araranguá FM", "data": "2026-09-03"},
+    {"titulo": "Diário Oficial de SC nº 22614-A – Lei nº 19.481, de 7 de outubro de 2025", "url": "https://portal.doe.sea.sc.gov.br/repositorio/2025/20251007/Jornal/22614-A.pdf", "veiculo": "DOE-SC", "data": "2025-10-07"},
+    {"titulo": "Relatório e voto (CCJ) ao PL 0563/2024 – reapreciação da Emenda Substitutiva Global do Governo", "url": "https://portalelegis.alesc.sc.gov.br/documentos/Mx7ZL", "veiculo": "ALESC", "data": ""},
+    {"titulo": "Projeto de Lei – Institui a Declaração de Direitos de Liberdade Econômica do Estado de SC (Dep. Matheus Cadorin)", "url": "https://portalelegis.alesc.sc.gov.br/documentos/Kgkb0", "veiculo": "ALESC", "data": "2024"},
+    {"titulo": "Projeto de Lei – pagamento de tributos estaduais via PIX", "url": "https://portalelegis.alesc.sc.gov.br/documentos/K9yQK", "veiculo": "ALESC", "data": "2023-02-16"},
+    {"titulo": "Projeto de Lei – Programa de aprendizagem do uso ético da IA nas escolas de SC", "url": "https://portalelegis.alesc.sc.gov.br/documentos/5nqom", "veiculo": "ALESC", "data": ""},
+    {"titulo": "Indicação – delegacia especializada em crimes cibernéticos em Joinville", "url": "https://portalelegis.alesc.sc.gov.br/documentos/KvqGz", "veiculo": "ALESC", "data": "2023-02-15"},
+    {"titulo": "Ofício nº 07/2024/02DRP – resposta da Polícia Civil sobre delegacia de crimes cibernéticos", "url": "https://portalelegis.alesc.sc.gov.br/documentos/zVvLG", "veiculo": "Polícia Civil SC / ALESC", "data": "2024-05-09"},
+    {"titulo": "Ata da 093ª Sessão Ordinária (Programa Você Decide)", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/8081192c-64ba-4640-b43c-f14f9a3e4971", "veiculo": "ALESC", "data": "2023-10-04"},
+    {"titulo": "Ata da 065ª Sessão Ordinária (dispensa de licitação de uniformes para presos)", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/01f5d66d-3ca9-4c87-8e42-c628d74d4f1d", "veiculo": "ALESC", "data": "2023-07-13"},
+    {"titulo": "Ata da 5ª Sessão Extraordinária (ensino técnico)", "url": "https://portalelegis.alesc.sc.gov.br/sessoes-plenarias/atas/download/811b1e96-e22b-4745-b28c-37e9c89d549a", "veiculo": "ALESC", "data": "2026-03-04"},
+    {"titulo": "Matheus Cadorin (Novo): gastos de gabinete, assessores e salários", "url": "https://jornalrazao.com/eleicoes-2026/parlamento/matheus-cadorin", "veiculo": "Jornal Razão", "data": "2026-10-03"},
+    {"titulo": "Matheus Cadorin 30000 para deputado estadual em SC", "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/santa-catarina/deputado-estadual/matheus-cadorin-30000", "veiculo": "O Tempo", "data": ""},
+    {"titulo": "Matheus Cadorin (NOVO) 30000: eleições e votos", "url": "https://hubpolitico.com.br/perfil/matheuscadorin/eleicoes", "veiculo": "Hub Político", "data": ""}
+  ]
+}

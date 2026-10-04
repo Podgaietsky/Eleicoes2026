@@ -1,0 +1,80 @@
+{
+  "id": "240002537085",
+  "urna": "Jorge Goetten",
+  "cargo": "Deputado federal",
+  "partido": "REPUBLICANOS",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "media",
+  "resumo": "Jorge Goetten, 64 anos, empresário natural de Mirim Doce (Alto Vale do Itajaí), é deputado federal eleito em 2022 pelo PL com 159.339 votos e hoje preside o Republicanos em SC, partido pelo qual tenta a reeleição. Sua atuação mais visível em 2026 é a relatoria do PLP 108/2021, que atualiza os limites do MEI e do Simples Nacional, e a defesa de compensação a pequenos negócios caso a escala 6x1 acabe. Declara alinhamento total do Republicanos-SC com o governador Jorginho Mello.",
+  "perfil": "Nascido em 10/04/1962 em Mirim Doce (SC), começou como garçom em Rio do Sul e fundou em 1985 uma empresa de segurança e serviços em Itajaí. Família com tradição política no Alto Vale (o irmão Nelson Goetten foi prefeito, deputado estadual e federal). Foi suplente em exercício na Câmara entre out/2020 e jan/2021; eleito deputado federal em 2022 pelo PL com 159.339 votos (2,72% dos válidos). Em 2024 foi autorizado pelo TSE a deixar o PL e assumiu a presidência estadual do Republicanos, numa articulação do governador Jorginho Mello. Na Câmara: relator da Comissão Especial do PLP 108/2021 (novo enquadramento do MEI), 2º vice-presidente de comissão especial, titular das comissões de Turismo e de Indústria, Comércio e Serviços; integra frentes como a Mista das Micro e Pequenas Empresas, a do Empreendedorismo, a da Agropecuária (FPA) e a da Segurança Pública.",
+  "temas": {
+    "costumes": {"nota": 2, "evidencia": "Pouca ênfase em pautas morais. Coassinou PECs de redução da maioridade penal (com enfoque mais de segurança) e é autor do PL 6458/2025, que proíbe o acesso de menores de 16 anos a redes sociais (alterando o ECA Digital).", "fontes": [8]},
+    "desenvolvimento": {"nota": 2, "evidencia": "É autor do PL 6256/2025, sobre a comercialização de créditos de energia da micro e minigeração distribuída. Não se encontraram propostas de infraestrutura viária ou portuária.", "fontes": [8]},
+    "educacao": {"nota": 1, "evidencia": "Apresentou emenda a um substitutivo da Comissão de Educação (PL 4.077/2025) e integra a Frente em Defesa da Segurança nas Escolas. Não há agenda educacional destacada.", "fontes": [8, 13]},
+    "industria": {"nota": 2, "evidencia": "É titular da Comissão de Indústria, Comércio e Serviços (desde abr/2026), mas sua agenda econômica é voltada ao pequeno negócio, não à indústria de transformação.", "fontes": [13]},
+    "economia": {"nota": 9, "evidencia": "Tema central do mandato: relator do PLP 108/2021, propõe elevar o teto do MEI de R$ 81 mil para cerca de R$ 130–134 mil, o da ME de R$ 360 mil para R$ 800 mil e o da EPP de R$ 4,8 milhões para R$ 8 milhões, com correção anual pelo IPCA; quer que o MEI possa contratar mais um empregado; e defende desoneração patronal temporária para pequenos negócios se a escala 6x1 acabar. Autor do PLP 132/2026 (corretor de imóveis como MEI).", "fontes": [0, 3, 5, 6, 8]},
+    "tecnologia": {"nota": 1, "evidencia": "Coassinou a PEC 38/2025 (reforma administrativa, que prevê transformação digital da gestão pública) e é suplente da Comissão de Ciência, Tecnologia e Inovação. Não há propostas próprias sobre IA, inovação ou startups.", "fontes": [8, 13]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 5, "evidencia": "Empresário do setor de segurança privada. Autor do PL 5121/2025 (Lei Orgânica das PMs e Bombeiros), do PL 676/2026 (monitoramento eletrônico de agressores pela Lei Maria da Penha) e do PL 502/2026 (internação de adolescentes por maus-tratos a animais); apresentou emendas à PEC 18 (segurança pública); votou Sim ao substitutivo do PL Antifacção (PL 5582/2025); integra as frentes da Segurança Pública e dos Profissionais de Segurança Pública e Privada.", "fontes": [1, 8, 12, 13]},
+    "saude": {"nota": 1, "evidencia": "Relatou parecer favorável, com substitutivo, a projeto que fixa prazo máximo para o INSS analisar benefícios por incapacidade (PL 6939/2025). Não há agenda de saúde destacada.", "fontes": [8]},
+    "agro": {"nota": 3, "evidencia": "Autor do PL 1062/2026 (linha de crédito rural para apicultores e meliponicultores); coassinou a PEC 16/2026 (registros de imóveis rurais em faixa de fronteira); integra a Frente Parlamentar da Agropecuária e a do Empreendedorismo Rural.", "fontes": [8, 13]},
+    "ambiente": {"nota": 1, "evidencia": "O perfil oficial no Republicanos cita atuação diante das enchentes na região, mas não foram encontrados projetos ou ações específicas sobre o tema.", "fontes": [1]},
+    "social": {"nota": 2, "evidencia": "Relatou substitutivo sobre a responsabilização de entidades que fazem descontos irregulares em benefícios do INSS (PL 2.822/2025) e outro sobre cotas de PcD em empresas de segurança privada (PL 6144/2013 e apensados); coautor do PL 6482/2025 (proteção a vítimas de crimes sexuais).", "fontes": [8]},
+    "transparencia": {"nota": 2, "evidencia": "Coassinou o pedido de CPI sobre as fraudes do Banco Master e emendas para reduzir em pelo menos 10% os benefícios fiscais federais. Por outro lado, votou Sim à PEC 3/2021 (PEC das Prerrogativas, ou 'da Blindagem') nos dois turnos.", "fontes": [8, 9]},
+    "municipalismo": {"nota": 4, "evidencia": "Lema 'Santa Catarina em primeiro lugar'; origem e base no Alto Vale do Itajaí e em Itajaí; declara apoio aos projetos de desenvolvimento do governo estadual.", "fontes": [1, 2, 7]}
+  },
+  "eixos": {
+    "economia": {"valor": 3, "evidencia": "Defende ampliar os limites do Simples/MEI, reduzir encargos sobre a folha de pequenos negócios e desburocratizar o empreendedorismo; coassinou emendas para cortar benefícios fiscais e a reforma administrativa. Mas propõe renúncias de receita setoriais.", "fontes": [0, 3, 6, 8]},
+    "costumes": {"valor": null, "evidencia": "Não há evidência suficiente de posições sobre pautas morais; as propostas encontradas ligadas a menores se referem a segurança e redes sociais.", "fontes": []},
+    "estado": {"valor": null, "evidencia": "Sem posição explícita sobre centralização ou descentralização.", "fontes": []},
+    "ambiente": {"valor": null, "evidencia": "Integra a FPA, mas não foram encontradas votações ou declarações sobre o equilíbrio entre preservação e produção.", "fontes": []},
+    "governo": {"valor": 3, "evidencia": "Eleito pelo PL e alinhado ao governador Jorginho Mello (PL); votou Sim à PEC da Blindagem e ao PL da Dosimetria (PL 2162/2023), pautas defendidas pela oposição; diverge do governo federal sobre o custo fiscal da atualização do Simples. Também votou Sim à isenção do IR até R$ 5 mil (PL 1087/2025), proposta do governo.", "fontes": [2, 5, 9, 10, 11]}
+  },
+  "criterios": {
+    "concretude": {"valor": 7, "evidencia": "Apresenta números específicos para os limites do MEI, da ME e da EPP, a correção pelo IPCA, o desenho da desoneração (100% da contribuição patronal de 20%, por 2 anos, só para novas contratações) e uma estimativa de empregos. Tudo isso dentro de um projeto que ele relata, que ainda não foi votado até ago/2026.", "fontes": [0, 3, 6, 14]},
+    "responsabilidadeFiscal": {"valor": 3, "evidencia": "O Ministério da Fazenda estima uma perda de cerca de R$ 50 bilhões/ano com a atualização do Simples; Goetten nega o impacto fiscal ('não é correção, é atualização') e não indica compensação. Por outro lado, coassinou emendas para reduzir em pelo menos 10% os benefícios fiscais federais.", "fontes": [0, 3, 5, 6, 8]}
+  },
+  "propostas": [
+    {"tema": "economia", "texto": "Elevar o teto do MEI de R$ 81 mil para cerca de R$ 130–134 mil anuais, com correção anual pelo IPCA (relatoria do PLP 108/2021).", "fontes": [0, 3, 5]},
+    {"tema": "economia", "texto": "Atualizar também o Simples Nacional: microempresa de R$ 360 mil para R$ 800 mil e pequena empresa de R$ 4,8 milhões para R$ 8 milhões, para evitar distorções entre faixas.", "fontes": [0, 5]},
+    {"tema": "economia", "texto": "Permitir que o MEI contrate mais um empregado; estima 1,7 milhão de empregos se 10% dos MEIs o fizerem.", "fontes": [0]},
+    {"tema": "economia", "texto": "Se a escala 6x1 acabar, isentar por 2 anos a contribuição patronal (20%) sobre as novas contratações feitas por MEIs, micro e pequenas empresas por causa da mudança.", "fontes": [3, 6]},
+    {"tema": "economia", "texto": "Adiar para depois das eleições de 2026 o debate sobre o fim da escala 6x1.", "fontes": [4]},
+    {"tema": "economia", "texto": "Permitir o enquadramento do corretor de imóveis como MEI (PLP 132/2026).", "fontes": [8]},
+    {"tema": "seguranca", "texto": "Obrigar a monitoração eletrônica do agressor em casos previstos na Lei Maria da Penha (PL 676/2026).", "fontes": [8]},
+    {"tema": "costumes", "texto": "Proibir o acesso de menores de 16 anos a redes sociais, alterando o ECA Digital (PL 6458/2025).", "fontes": [8]},
+    {"tema": "agro", "texto": "Criar uma linha especial de crédito rural para apicultores e meliponicultores (PL 1062/2026).", "fontes": [8]},
+    {"tema": "desenvolvimento", "texto": "Regulamentar a comercialização de créditos de energia gerada por micro e minigeração distribuída (PL 6256/2025).", "fontes": [8]}
+  ],
+  "historico": [
+    {"texto": "Eleito deputado federal em 2022 pelo PL com 159.339 votos (2,72% dos válidos); já havia exercido o mandato como suplente entre out/2020 e jan/2021.", "fontes": [1, 7]},
+    {"texto": "Em 2024 deixou o PL com autorização do TSE e assumiu a presidência estadual do Republicanos; em jul/2026 declarou o partido '100% fechado com o governador Jorginho Mello' e a meta de eleger 3 deputados federais e 5 estaduais.", "fontes": [1, 2]},
+    {"texto": "Relator da Comissão Especial do PLP 108/2021 (novo enquadramento do MEI) desde abr/2026; até ago/2026 o projeto seguia sem votação em plenário.", "fontes": [13, 14]},
+    {"texto": "Votou Sim à PEC 3/2021 (PEC das Prerrogativas/'Blindagem') em 1º e 2º turnos (set/2025).", "fontes": [9]},
+    {"texto": "Votou Sim ao substitutivo do PL 2162/2023 (Dosimetria), em dez/2025.", "fontes": [10]},
+    {"texto": "Votou Sim à isenção do IR para quem ganha até R$ 5 mil (PL 1087/2025), em out/2025.", "fontes": [11]},
+    {"texto": "Votou Sim ao substitutivo do PL Antifacção (PL 5582/2025), em nov/2025.", "fontes": [12]},
+    {"texto": "Relatou pareceres favoráveis, com substitutivo, sobre prazo máximo para benefícios por incapacidade no INSS, descontos irregulares em benefícios previdenciários e cotas de PcD em empresas de segurança privada.", "fontes": [8]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Votou Sim à PEC 3/2021 (PEC das Prerrogativas, chamada de 'PEC da Blindagem'), que ampliava proteções processuais a parlamentares, em 1º e 2º turnos em 16/09/2025.", "fontes": [9]},
+    {"texto": "O Ministério da Fazenda estima em cerca de R$ 50 bilhões/ano a perda de arrecadação com a atualização do Simples que ele defende; o deputado contesta a existência de impacto fiscal e não indica compensação.", "fontes": [0, 3, 5]}
+  ],
+  "fontes": [
+    {"titulo": "Relator do MEI tenta convencer governo a ampliar teto do Simples", "url": "https://www.congressoemfoco.com.br/noticia/119913/relator-do-mei-tenta-convencer-governo-a-ampliar-teto-do-simples", "veiculo": "Congresso em Foco", "data": "2026-06-23"},
+    {"titulo": "Quem é quem: Jorge Goetten", "url": "https://republicanos10.org.br/quem-e-quem/jorge-goetten", "veiculo": "Republicanos", "data": ""},
+    {"titulo": "Goetten projeta eleições 2026 e crava alinhamento total do Republicanos com Jorginho Mello em SC", "url": "https://nossa.fm/goetten-projeta-eleicoes-2026-e-crava-alinhamento-total-do-republicanos-com-jorginho-mello-em-sc/", "veiculo": "Nossa FM", "data": "2026-07-17"},
+    {"titulo": "Relator de proposta que atualiza o Simples Nacional defende medidas compensatórias pelo fim da escala 6x1", "url": "https://www.camara.leg.br/noticias/1281742-relator-de-proposta-que-atualiza-o-simples-nacional-defende-medidas-compensatorias-pelo-fim-da-escala-6x1/", "veiculo": "Agência Câmara", "data": "2026-06-12"},
+    {"titulo": "Discussão sobre fim da escala 6x1 deve ser feita depois das eleições, defende deputado de SC", "url": "https://brasil61.com/n/discussao-sobre-fim-da-escala-6x1-deve-ser-feita-depois-das-eleicoes-defende-deputado-de-sc-cacb260126", "veiculo": "Brasil 61", "data": ""},
+    {"titulo": "Relator defende atualizar Simples Nacional e descarta reajuste só para MEIs", "url": "https://www.cnnbrasil.com.br/politica/relator-defende-atualizar-simples-nacional-e-descarta-reajuste-so-para-meis/", "veiculo": "CNN Brasil", "data": "2026-06-15"},
+    {"titulo": "Relator propõe isenção patronal para pequenos negócios após fim da 6x1", "url": "https://www.congressoemfoco.com.br/noticia/119696/relator-propoe-isencao-patronal-para-pequenos-negocios-apos-fim-da-6x1", "veiculo": "Congresso em Foco", "data": ""},
+    {"titulo": "Jorge Goetten", "url": "https://pt.wikipedia.org/wiki/Jorge_Goetten", "veiculo": "Wikipédia", "data": ""},
+    {"titulo": "Proposições de autoria/coautoria do Dep. Jorge Goetten (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?idDeputadoAutor=214694&itens=100&ordem=DESC&ordenarPor=id", "veiculo": "Câmara dos Deputados", "data": ""},
+    {"titulo": "Votos nominais – PEC 3/2021, 1º turno (votação 2270800-135; 2º turno em 2270800-160)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos", "veiculo": "Câmara dos Deputados", "data": "2025-09-16"},
+    {"titulo": "Votos nominais – PL 2162/2023 (Dosimetria), substitutivo", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos", "veiculo": "Câmara dos Deputados", "data": "2025-12-09"},
+    {"titulo": "Votos nominais – PL 1087/2025 (isenção do IR até R$ 5 mil)", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos", "veiculo": "Câmara dos Deputados", "data": "2025-10-01"},
+    {"titulo": "Votos nominais – PL 5582/2025 (Antifacção), substitutivo", "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2579832-62/votos", "veiculo": "Câmara dos Deputados", "data": "2025-11-18"},
+    {"titulo": "Frentes e órgãos do Dep. Jorge Goetten (API Dados Abertos)", "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/214694/orgaos", "veiculo": "Câmara dos Deputados", "data": ""},
+    {"titulo": "Tramitação do PLP 108/2021", "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295251/tramitacoes", "veiculo": "Câmara dos Deputados", "data": ""}
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "240002543400",
+  "urna": "Gean Loureiro",
+  "cargo": "Deputado estadual",
+  "partido": "UNIÃO",
+  "pesquisadoEm": "2026-10-04",
+  "confianca": "alta",
+  "resumo": "Ex-prefeito de Florianópolis (2017-2022) e candidato ao governo em 2022, Gean Loureiro (União Brasil, nº 44123) disputa vaga na Alesc com propostas de qualificação profissional por vocação regional, replicação da 'Escola do Futuro', não aumento de impostos e prioridade à duplicação da BR-282. Seu histórico inclui um pacote de ajuste fiscal e reforma administrativa em 2017, parcialmente revertido após greve de servidores, e a regulamentação do Sistema Municipal de Inovação.",
+  "perfil": "Gean Marques Loureiro, 53 anos, nascido em Florianópolis (09/10/1972), advogado e administrador formado pela UFSC, com mestrado em Engenharia de Produção. Eleito vereador de Florianópolis cinco vezes a partir de 1992 (aos 19 anos), presidente da Câmara Municipal (2009-2010), deputado federal na 54ª legislatura (registro na Câmara com atividade 2011-2015, pelo PMDB), presidente da Fatma (atual IMA) em 2013-2014, deputado estadual eleito em 2014 (segundo ele, cerca de 90% dos votos vieram da Grande Florianópolis), prefeito de Florianópolis eleito em 2016 (2º turno, 50,26%) e reeleito em 2020 no 1º turno (53,46%); renunciou em 31/03/2022 para disputar o governo, ficando em 4º lugar (555.615 votos). Passou por PDT, PMDB/MDB, PSDB, DEM e União Brasil, do qual foi presidente estadual e é vice-presidente. Rompeu publicamente com o sucessor Topázio Neto em 2024. Base eleitoral histórica na Grande Florianópolis; afirma ter visitado 288 dos 295 municípios na pré-campanha. Declarou patrimônio de R$ 4.928.203 ao TSE.",
+  "temas": {
+    "costumes": {"nota": 1, "evidencia": "Não há pauta moral/religiosa em seu discurso de 2026. No plano de reeleição municipal de 2020 constava o aplicativo 'SOMOS' para combate a crimes de homofobia.", "fontes": [7]},
+    "desenvolvimento": {"nota": 8, "evidencia": "Trata a duplicação da BR-282 como a obra mais importante do estado; cita BR-470, BR-280, ferrovia para insumos do agro, energia trifásica e internet rural. Em 2022 propôs plano emergencial de manutenção de rodovias e rejeitou pedágios.", "fontes": [0, 9]},
+    "educacao": {"nota": 8, "evidencia": "Propõe replicar a 'Escola do Futuro' (integral, 7h-18h, inglês, letramento digital, libras, robótica, artes), criada na prefeitura (unidades na Tapera e em Ratones), uma por região, conectada à vocação econômica local.", "fontes": [0]},
+    "industria": {"nota": 6, "evidencia": "Diz que o 'apagão de mão de obra qualificada' trava o crescimento das empresas; programa de qualificação orientado à metalmecânica no Norte, madeireira na Serra e estrutura produtiva do Sul.", "fontes": [0]},
+    "economia": {"nota": 8, "evidencia": "Compromisso de não aumentar impostos e de simplificação tributária com redução de alíquotas. Como prefeito, enviou em 2017 pacote de 40 projetos com redução de secretarias (21 para 14), simplificação de alvarás para obras até 750 m² e abertura de empresas, e programa de microcrédito.", "fontes": [0, 1, 10]},
+    "tecnologia": {"nota": 6, "evidencia": "Em 2017 assinou decreto regulamentando o Sistema Municipal de Inovação, o Fundo Municipal de Inovação e o programa de incentivo fiscal (dedução de até 20% de IPTU/ISS para projetos inovadores). Em 2026 cita o polo de tecnologia de Chapecó como exemplo e defende letramento digital e robótica nas escolas.", "fontes": [0, 5]},
+    "nacionalismo": {"nota": 0, "evidencia": "Sem menção encontrada", "fontes": []},
+    "seguranca": {"nota": 2, "evidencia": "Não é eixo central em 2026. No plano municipal de 2020 propôs reconhecimento facial, análise comportamental em videomonitoramento e uso de drones.", "fontes": [7]},
+    "saude": {"nota": 3, "evidencia": "Em 2022 apontou 'falta permanente de leitos' na Grande Florianópolis e situação do Hospital Governador Celso Ramos; plano de 2020 previa centro de saúde em Jurerê e redução de filas. Sem proposta específica de saúde para 2026 encontrada.", "fontes": [8, 7]},
+    "agro": {"nota": 6, "evidencia": "Defende energia trifásica e internet rural para o pequeno agricultor, mais estrutura para a Epagri, cooperativas fortes, ferrovia para milho e insumos de frigoríficos, e qualificação voltada ao agronegócio no Oeste.", "fontes": [0]},
+    "ambiente": {"nota": 1, "evidencia": "Presidiu a Fatma (2013-2014). No plano de 2020 constavam 'Escolas Lixo Zero' e compostagem. Sem proposta ambiental para 2026 encontrada.", "fontes": [3, 7]},
+    "social": {"nota": 4, "evidencia": "Defende priorizar investimento social e atração de empresas para regiões de menor IDH. Plano municipal de 2020 previa restaurante popular, cadastro social unificado e rede única de atendimento à mulher.", "fontes": [0, 7]},
+    "transparencia": {"nota": 2, "evidencia": "Defende redução da máquina pública (em 2022 disse ter cortado comissionados de 700 para cerca de 350) e se opõe a financiamento privado de campanhas. Sem agenda anticorrupção específica para 2026.", "fontes": [9]},
+    "municipalismo": {"nota": 7, "evidencia": "Defende repartição equitativa de recursos entre regiões e afirma que SC é o 6º estado que mais arrecada e um dos que menos recebe de volta; diz ter visitado 288 dos 295 municípios e apresenta mandato estadual, não só regional; base histórica na Grande Florianópolis.", "fontes": [0, 4]}
+  },
+  "eixos": {
+    "economia": {"valor": 3, "evidencia": "Não aumento de impostos, redução de alíquotas, desburocratização e enxugamento da máquina; ao mesmo tempo propõe programa estadual de qualificação e escolas integrais conduzidos pelo Estado.", "fontes": [0, 1, 9]},
+    "costumes": {"valor": null, "evidencia": "Sem posicionamento claro em pautas morais; única evidência é o app contra homofobia no plano municipal de 2020.", "fontes": [7]},
+    "estado": {"valor": 2, "evidencia": "Defende distribuição equitativa de recursos entre as regiões de SC e critica o pouco retorno de recursos federais ao estado.", "fontes": [0]},
+    "ambiente": {"valor": null, "evidencia": "Evidência insuficiente sobre preservação versus produção.", "fontes": []},
+    "governo": {"valor": 2, "evidencia": "Em 2022 apoiou a reeleição de Jair Bolsonaro, embora dissesse ter se posicionado fora das 'ondas' Bolsonaro e Lula; critica o retorno de recursos da União para SC. Sem declarações de 2026 sobre o governo federal encontradas.", "fontes": [9, 6, 0]}
+  },
+  "criterios": {
+    "concretude": {"valor": 6, "evidencia": "Propostas para 2026 nomeiam programas e obras específicas (qualificação por vocação regional, Escola do Futuro, BR-282), mas sem metas, prazos ou fontes de recurso; possui histórico verificável de execução como prefeito (pacote de 2017, Sistema de Inovação, Escola do Futuro).", "fontes": [0, 1, 5]},
+    "responsabilidadeFiscal": {"valor": 7, "evidencia": "Histórico de ajuste fiscal e reforma administrativa em 2017 (parte revertida após greve) e compromisso de não aumentar impostos; porém novas propostas de gasto (escolas integrais por região, programa estadual de qualificação) não indicam fonte de custeio.", "fontes": [0, 1, 11]}
+  },
+  "propostas": [
+    {"tema": "industria", "texto": "Programa estadual de qualificação profissional conduzido pelo governo em parceria com setores produtivos, com conteúdo definido pela vocação de cada região (agro no Oeste, metalmecânica no Norte, madeira na Serra, Sul).", "fontes": [0]},
+    {"tema": "educacao", "texto": "Uma 'Escola do Futuro' em tempo integral (7h-18h, inglês, letramento digital, português, libras, robótica e artes) em cada região, voltada à vocação econômica local.", "fontes": [0]},
+    {"tema": "economia", "texto": "Não aumentar impostos e defender simplificação tributária com redução de alíquotas.", "fontes": [0]},
+    {"tema": "municipalismo", "texto": "Repartição equitativa de recursos entre regiões, priorizando investimento social e atração de empresas para áreas de menor IDH.", "fontes": [0]},
+    {"tema": "desenvolvimento", "texto": "Prioridade à duplicação da BR-282 (litoral–Extremo Oeste), além de BR-470, BR-280 e ferrovia para abastecer frigoríficos com milho e insumos.", "fontes": [0]},
+    {"tema": "agro", "texto": "Levar energia trifásica e internet rural ao pequeno agricultor e ampliar a estrutura da Epagri, com apoio a cooperativas.", "fontes": [0]},
+    {"tema": "tecnologia", "texto": "Estimular polos de inovação fora do litoral, citando o modelo do Centro de Inovação Pólen em Chapecó.", "fontes": [0]}
+  ],
+  "historico": [
+    {"texto": "Em 11/01/2017, como prefeito, apresentou pacote de 40 projetos de lei: secretarias de 21 para 14, fim de gratificações, revogação do plano de cargos de 2014, alíquotas previdenciárias de 11% para 14% (servidor) e de 14% para 28% (município), simplificação de alvarás e regulamentação de aplicativos de transporte. Declarou: 'medidas duras, algumas impopulares'.", "fontes": [1]},
+    {"texto": "Servidores municipais fizeram greve de 38 dias contra o pacote; segundo a CUT, após mediação do Tribunal de Justiça a prefeitura retirou projetos que eliminavam anuênios/triênios, licença-prêmio e a reforma previdenciária.", "fontes": [11]},
+    {"texto": "Em 23/01/2017 assinou decreto regulamentando o Sistema Municipal de Inovação, o Fundo Municipal de Inovação e o programa de incentivo fiscal que permite destinar até 20% de IPTU/ISS a projetos inovadores certificados.", "fontes": [5]},
+    {"texto": "Reeleito prefeito em 2020 no 1º turno com 53,46%; renunciou em 31/03/2022 para disputar o governo, terminando em 4º lugar com 555.615 votos.", "fontes": [2]},
+    {"texto": "Na campanha de 2022 afirmou ter reduzido secretarias de 35 para 16 e cargos comissionados de 700 para cerca de 350 em Florianópolis (números divulgados pelo próprio candidato), rejeitou pedágios e propôs plano emergencial de manutenção de rodovias.", "fontes": [9]},
+    {"texto": "Em 2022, em sabatina da ACIF, prometeu não aumentar impostos e, se possível, reduzi-los, citando a manutenção das alíquotas durante sua gestão municipal.", "fontes": [8]},
+    {"texto": "Pré-candidato desde 2025 com discurso voltado a dar protagonismo ao União Brasil na Alesc, com meta de ampliar a bancada de três para cinco cadeiras.", "fontes": [4]}
+  ],
+  "pontosAtencao": [
+    {"texto": "Foi preso na Operação Chabu da Polícia Federal (junho de 2019), que investigava suposto vazamento de operações policiais; em junho de 2020 a 4ª Seção do TRF4 rejeitou por unanimidade a denúncia contra ele por falta de justa causa quanto à organização criminosa, remetendo o caso à primeira instância.", "fontes": [12, 13]},
+    {"texto": "Reportagem de 2016 registrou 8 multas do TCE-SC: 6 referentes à gestão na Fatma (2013-2014), como planos de fiscalização inadequados e licenciamentos, e 2 do período como presidente da Câmara de Florianópolis (2009-2010); ele atribuiu parte à gestão anterior e recorreu.", "fontes": [14]},
+    {"texto": "O pacote de ajuste de 2017 gerou greve de 38 dias dos servidores e parte das medidas foi retirada.", "fontes": [11]},
+    {"texto": "Cerca de 99% da receita declarada de campanha em 2026 (R$ 1,15 milhão de R$ 1,166 milhão) veio de fundo eleitoral e fundo partidário, segundo levantamento do Jornal Razão.", "fontes": [15]}
+  ],
+  "fontes": [
+    {"titulo": "“Santa Catarina tem um apagão de mão de obra qualificada”, alerta Gean Loureiro", "url": "https://jornalrazao.com/politica/gean-loureiro-apagao-mao-de-obra-qualificada-sc", "veiculo": "Jornal Razão", "data": "2026-09-14"},
+    {"titulo": "Gean Loureiro apresenta pacote com 40 projetos de lei", "url": "https://ndmais.com.br/noticias/gean-loureiro-apresenta-pacote-com-40-projetos-de-lei/", "veiculo": "ND+", "data": "2017-01-11"},
+    {"titulo": "Gean Loureiro", "url": "https://pt.wikipedia.org/wiki/Gean_Loureiro", "veiculo": "Wikipédia", "data": ""},
+    {"titulo": "Biografias / Gean Loureiro / Memória Política de Santa Catarina", "url": "https://memoriapolitica.alesc.sc.gov.br/biografia/1187-Gean_Loureiro", "veiculo": "Alesc", "data": ""},
+    {"titulo": "Gean Loureiro visita Orleans e confirma pré-candidatura a deputado estadual", "url": "https://www.ligadonosul.com.br/politica/gean-loureiro-visita-orleans-e-confirma-pre-candidatura-a-deputado-estadual/", "veiculo": "Ligado no Sul", "data": "2025-04-23"},
+    {"titulo": "Florianópolis cria Fundo Municipal de Inovação", "url": "https://acontecendoaqui.com.br/?p=57218", "veiculo": "Acontecendo Aqui", "data": "2017-01-23"},
+    {"titulo": "Gean na Live do Upiara: “Se eu não tivesse disputado agora, em 2026 teria que começar tudo do zero”", "url": "https://upiara.com.br/upiara-online/gean-na-live-do-upiara-se-eu-nao-tivesse-disputado-agora-em-2026-teria-que-comecar-tudo-do-zero/", "veiculo": "Portal Upiara", "data": ""},
+    {"titulo": "Cobre e fiscalize: relembre as promessas de Gean Loureiro para Florianópolis", "url": "https://ndmais.com.br/politica/promessas-gean-florianopolis/", "veiculo": "ND+", "data": "2020-11-16"},
+    {"titulo": "Gean Loureiro e Raimundo Colombo estiveram presentes na sede da associação para o diálogo junto à sociedade", "url": "https://www.acif.org.br/?p=14793", "veiculo": "ACIF", "data": "2022-09-27"},
+    {"titulo": "Gean Loureiro quer manutenção de estradas e redução da máquina pública", "url": "https://ndmais.com.br/video/gean-loureiro-fala-sobre-propostas-de-governo-para-santa-catarina/", "veiculo": "ND+", "data": "2022-09-26"},
+    {"titulo": "Candidatos a Deputado estadual de Santa Catarina (SC) - Eleições 2026", "url": "https://ndmais.com.br/eleicoes/2026/candidatos/sc/deputado-estadual/", "veiculo": "ND+", "data": ""},
+    {"titulo": "Vitória dos trabalhadores do serviço público de Florianópolis: uma luta que valeu", "url": "https://www.cut.org.br/noticias/vitoria-dos-trabalhadores-do-servico-publico-de-florianopolis-uma-luta-que-valeu-6356", "veiculo": "CUT", "data": ""},
+    {"titulo": "Polícia Federal prende prefeito de Florianópolis", "url": "https://www.congressoemfoco.com.br/noticia/39016/policia-federal-prende-prefeito-de-florianopolis", "veiculo": "Congresso em Foco", "data": "2019-06-18"},
+    {"titulo": "TRF4: denúncia contra prefeito de Florianópolis/SC não é recebida e ação penal será redistribuída para primeira instância", "url": "https://evinistalon.com/trf4-denuncia-contra-prefeito-de-florianopolis-sc-nao-e-recebida-e-acao-penal-sera-redistribuida-para-primeira-instancia", "veiculo": "Evinis Talon (reproduz notícia do TRF4)", "data": "2020-06-20"},
+    {"titulo": "Candidatos à prefeitura de Florianópolis respondem a processos", "url": "https://congressoemfoco.com.br/noticia/46078/candidatos-a-prefeitura-de-florianopolis-respondem-a-processos", "veiculo": "Congresso em Foco", "data": "2016-10-17"},
+    {"titulo": "Gean Loureiro (UNIÃO): quanto arrecadou e no que gastou na campanha 2026", "url": "https://jornalrazao.com/eleicoes-2026/contas/gean-loureiro", "veiculo": "Jornal Razão", "data": ""}
+  ]
+}
